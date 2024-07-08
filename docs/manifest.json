@@ -326,7 +326,7 @@
                             "type": "Annotation",
                             "motivation": "supplementing",
                             "body": {
-                                "id": "http://localhost:5502/0521a04a-3ca8-11ef-98a5-0242ac1c000c.vtt",
+                                "id": "https://nakamura196.github.io/ramp_data/0521a04a-3ca8-11ef-98a5-0242ac1c000c.vtt",
                                 "type": "Text",
                                 "format": "text/vtt",
                                 "label": {
