@@ -1,0 +1,345 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://uta.u-tokyo.ac.jp/uta/iiif/3/452f22e2f14159fb88dd52873a132458/manifest",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "昭和6年航空研究所行幸記念映画"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "452f22e2f14159fb88dd52873a132458"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "参照コード"
+                ]
+            },
+            "value": {
+                "none": [
+                    "S0756/0001"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "タイトル"
+                ]
+            },
+            "value": {
+                "none": [
+                    "昭和6年航空研究所行幸記念映画"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "記述レベル"
+                ]
+            },
+            "value": {
+                "none": [
+                    "アイテム"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "資料の規模"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1点"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "作成者名称"
+                ]
+            },
+            "value": {
+                "none": [
+                    "〔東京大学〕"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "資料入手先"
+                ]
+            },
+            "value": {
+                "none": [
+                    "立澤清彦"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "利用条件"
+                ]
+            },
+            "value": {
+                "none": [
+                    "公開"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "複製の存在と所在"
+                ]
+            },
+            "value": {
+                "none": [
+                    "2系統の複製あり：(1)VHS、およびそれをデジタル化したBD、DVD、MP4、(2)フィルムから直接デジタル化したmov、mp4、Bluray"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "収蔵情報"
+                ]
+            },
+            "value": {
+                "none": [
+                    "本郷"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "上位資料"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a class=\"resource-link\" href=\"https&#x3A;&#x2F;&#x2F;uta.u-tokyo.ac.jp&#x2F;uta&#x2F;s&#x2F;da&#x2F;document&#x2F;b6a3cdeec90851730cf52f01da997952\"><span class=\"resource-name\">昭和6年航空研究所行幸記念映画</span></a>"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "目録データのライセンス"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a class=\"uri-value-link\" target=\"_blank\" href=\"http&#x3A;&#x2F;&#x2F;creativecommons.org&#x2F;publicdomain&#x2F;zero&#x2F;1.0&#x2F;\">http://creativecommons.org/publicdomain/zero/1.0/</a>"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "媒体の種別"
+                ]
+            },
+            "value": {
+                "none": [
+                    "35㎜フィルム"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "備考"
+                ]
+            },
+            "value": {
+                "none": [
+                    "利用はデジタル複製による；旧番号はF0037/0001"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "資料区分"
+                ]
+            },
+            "value": {
+                "none": [
+                    "特定歴史公文書等"
+                ]
+            }
+        }
+    ],
+    "requiredStatement": {
+        "label": {
+            "none": [
+                "Attribution"
+            ]
+        },
+        "value": {
+            "none": [
+                "東京大学文書館 / The University of Tokyo Archives, JAPAN"
+            ]
+        }
+    },
+    "rights": "http://creativecommons.org/publicdomain/mark/1.0/",
+    "thumbnail": [
+        {
+            "id": "https://uta.u-tokyo.ac.jp/uta/files/medium/2b6a5a37c05e33682248c0b8c5f005f5dc22bcbc.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "width": null,
+            "height": null
+        }
+    ],
+    "viewingDirection": "left-to-right",
+    "seeAlso": [
+        {
+            "id": "https://uta.u-tokyo.ac.jp/uta/api/items/732680",
+            "type": "Dataset",
+            "label": {
+                "none": [
+                    "application/ld+json"
+                ]
+            },
+            "format": "application/ld+json",
+            "profile": "https://uta.u-tokyo.ac.jp/uta/api-context"
+        }
+    ],
+    "homepage": [
+        {
+            "id": "https://uta.u-tokyo.ac.jp/uta/s/da/document/452f22e2f14159fb88dd52873a132458",
+            "type": "Text",
+            "label": {
+                "none": [
+                    "昭和6年航空研究所行幸記念映画"
+                ]
+            },
+            "format": "text/html",
+            "language": [
+                "ja"
+            ]
+        }
+    ],
+    "logo": [
+        {
+            "id": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 1082,
+            "width": 1082
+        }
+    ],
+    "items": [
+        {
+            "@context": "http://iiif.io/api/presentation/3/context.json",
+            "id": "https://uta.u-tokyo.ac.jp/uta/iiif/3/452f22e2f14159fb88dd52873a132458/canvas/p1",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "S0076-0001_Gyoukou_480p.mp4"
+                ]
+            },
+            "metadata": [
+                {
+                    "label": {
+                        "none": [
+                            "Title"
+                        ]
+                    },
+                    "value": {
+                        "none": [
+                            "S0076-0001_Gyoukou_480p.mp4"
+                        ]
+                    }
+                }
+            ],
+            "requiredStatement": {
+                "label": {
+                    "none": [
+                        "Attribution"
+                    ]
+                },
+                "value": {
+                    "none": [
+                        "東京大学文書館 / The University of Tokyo Archives, JAPAN"
+                    ]
+                }
+            },
+            "rights": "http://creativecommons.org/publicdomain/mark/1.0/",
+            "height": 720,
+            "width": 1280,
+            "duration": "985.902",
+            "items": [
+                {
+                    "id": "https://uta.u-tokyo.ac.jp/uta/iiif/3/452f22e2f14159fb88dd52873a132458/annotation-page/766902",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://uta.u-tokyo.ac.jp/uta/iiif/3/452f22e2f14159fb88dd52873a132458/annotation/766902",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://uta.u-tokyo.ac.jp/uta/iiif/2/766902.mp4",
+                                "type": "Video",
+                                "format": "video/mp4",
+                                "height": 720,
+                                "width": 1280,
+                                "duration": "985.902"
+                            },
+                            "target": "https://uta.u-tokyo.ac.jp/uta/iiif/3/452f22e2f14159fb88dd52873a132458/canvas/p1",
+                            "label": {
+                                "none": [
+                                    "S0076-0001_Gyoukou_480p.mp4"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://uta.u-tokyo.ac.jp/uta/iiif/3/452f22e2f14159fb88dd52873a132458/canvas/p1/page/2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://uta.u-tokyo.ac.jp/uta/iiif/3/452f22e2f14159fb88dd52873a132458/canvas/p1/annotation/webvtt",
+                            "type": "Annotation",
+                            "motivation": "supplementing",
+                            "body": {
+                                "id": "http://localhost:5502/0521a04a-3ca8-11ef-98a5-0242ac1c000c.vtt",
+                                "type": "Text",
+                                "format": "text/vtt",
+                                "label": {
+                                    "en": [
+                                        "WebVTT Transcript (machine-generated)"
+                                    ]
+                                }
+                            },
+                            "target": "https://uta.u-tokyo.ac.jp/uta/iiif/3/452f22e2f14159fb88dd52873a132458/canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
