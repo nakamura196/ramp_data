@@ -40,6 +40,11 @@
             {
               "id": "https://nakamura196.github.io/ramp_data/rekion/3574643/canvas/annotation/webvtt",
               "type": "Annotation",
+              "label": {
+                "ja": [
+                  "WebVTT Transcript (machine-generated)"
+                ]
+              },
               "motivation": "supplementing",
               "body": {
                 "id": "https://nakamura196.github.io/ramp_data/rekion/3574643/3574643.vtt",
