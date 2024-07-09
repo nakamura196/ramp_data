@@ -1,0 +1,61 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://nakamura196.github.io/ramp_data/rekion/8267238/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "ja": [
+      "廣島縣　苗取唄"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nakamura196.github.io/ramp_data/rekion/8267238/canvas",
+      "type": "Canvas",
+      "duration": 88.08,
+      "items": [
+        {
+          "id": "https://nakamura196.github.io/ramp_data/rekion/8267238/canvas/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nakamura196.github.io/ramp_data/rekion/8267238/canvas/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nakamura196.github.io/ramp_data/rekion/8267238/8267238.mp4",
+                "type": "Sound",
+                "duration": 88.08,
+                "format": "audio/mp4"
+              },
+              "target": "https://nakamura196.github.io/ramp_data/rekion/8267238/canvas"
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://nakamura196.github.io/ramp_data/rekion/8267238/canvas/page/2",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nakamura196.github.io/ramp_data/rekion/8267238/canvas/annotation/webvtt",
+              "type": "Annotation",
+              "label": {
+                "ja": [
+                  "WebVTT Transcript (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://nakamura196.github.io/ramp_data/rekion/8267238/8267238.vtt",
+                "type": "Text",
+                "format": "text/vtt"
+              },
+              "target": "https://nakamura196.github.io/ramp_data/rekion/8267238/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
