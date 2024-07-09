@@ -1,3 +1,6 @@
 .vscode
 .DS_Store
 .venv
+# *.mp4
+docs/rekion/*/*.mp4
+docs/_rekion
