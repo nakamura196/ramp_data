@@ -1,10 +1,10 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://nakamura196.github.io/ramp_data/demo/3574643/manifest.json",
+  "id": "https://nakamura196.github.io/ramp_data/demo/3571280/manifest.json",
   "type": "Manifest",
   "label": {
     "ja": [
-      "講演：道徳、経済合一論（一）Union of Morality of Economy"
+      "日本のアクセントと言葉調子（下）"
     ]
   },
   "metadata": [
@@ -16,19 +16,7 @@
       },
       "value": {
         "ja": [
-          "Shibusawa（渋沢　栄一）[作詞]"
-        ]
-      }
-    },
-    {
-      "label": {
-        "ja": [
-          "作詞・作曲・編曲・実演家"
-        ]
-      },
-      "value": {
-        "ja": [
-          "Shibusawa（渋沢　栄一）"
+          "神保　格"
         ]
       }
     },
@@ -40,7 +28,7 @@
       },
       "value": {
         "ja": [
-          "ニッポノホン"
+          "コロムビア（戦前）"
         ]
       }
     },
@@ -52,7 +40,7 @@
       },
       "value": {
         "ja": [
-          "商品番号 : 15289"
+          "商品番号 : 33000"
         ]
       }
     },
@@ -64,7 +52,7 @@
       },
       "value": {
         "ja": [
-          "デジタル変換後ノイズ除去 : ノイズ除去なし"
+          "デジタル変換後ノイズ除去 : 無"
         ]
       }
     },
@@ -76,7 +64,7 @@
       },
       "value": {
         "ja": [
-          "講演"
+          "日本語学習"
         ]
       }
     },
@@ -88,7 +76,7 @@
       },
       "value": {
         "ja": [
-          "0000"
+          "1929-09"
         ]
       }
     },
@@ -100,7 +88,19 @@
       },
       "value": {
         "ja": [
-          "講義、講演、演説"
+          "教育・児童"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "歴史的音源ジャンル"
+        ]
+      },
+      "value": {
+        "ja": [
+          "語学"
         ]
       }
     }
@@ -131,11 +131,11 @@
   ],
   "homepage": [
     {
-      "id": "https://rekion.dl.ndl.go.jp/pid/3574643",
+      "id": "https://rekion.dl.ndl.go.jp/pid/3571280",
       "type": "Text",
       "label": {
         "ja": [
-          "講演：道徳、経済合一論（一）Union of Morality of Economy - 国立国会図書館デジタルコレクション"
+          "日本のアクセントと言葉調子（下） - 国立国会図書館デジタルコレクション"
         ]
       },
       "format": "text/html",
@@ -146,36 +146,36 @@
   ],
   "items": [
     {
-      "id": "https://nakamura196.github.io/ramp_data/demo/3574643/canvas",
+      "id": "https://nakamura196.github.io/ramp_data/demo/3571280/canvas",
       "type": "Canvas",
-      "duration": 185.07,
+      "duration": 156.07999999999998,
       "items": [
         {
-          "id": "https://nakamura196.github.io/ramp_data/demo/3574643/canvas/page",
+          "id": "https://nakamura196.github.io/ramp_data/demo/3571280/canvas/page",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://nakamura196.github.io/ramp_data/demo/3574643/canvas/page/annotation",
+              "id": "https://nakamura196.github.io/ramp_data/demo/3571280/canvas/page/annotation",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://nakamura196.github.io/ramp_data/demo/3574643/3574643.mp4",
+                "id": "https://nakamura196.github.io/ramp_data/demo/3571280/3571280.mp4",
                 "type": "Sound",
-                "duration": 185.07,
+                "duration": 156.07999999999998,
                 "format": "audio/mp4"
               },
-              "target": "https://nakamura196.github.io/ramp_data/demo/3574643/canvas"
+              "target": "https://nakamura196.github.io/ramp_data/demo/3571280/canvas"
             }
           ]
         }
       ],
       "annotations": [
         {
-          "id": "https://nakamura196.github.io/ramp_data/demo/3574643/canvas/page/2",
+          "id": "https://nakamura196.github.io/ramp_data/demo/3571280/canvas/page/2",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://nakamura196.github.io/ramp_data/demo/3574643/canvas/annotation/webvtt",
+              "id": "https://nakamura196.github.io/ramp_data/demo/3571280/canvas/annotation/webvtt",
               "type": "Annotation",
               "label": {
                 "ja": [
@@ -184,11 +184,11 @@
               },
               "motivation": "supplementing",
               "body": {
-                "id": "https://nakamura196.github.io/ramp_data/demo/3574643/3574643.vtt",
+                "id": "https://nakamura196.github.io/ramp_data/demo/3571280/3571280.vtt",
                 "type": "Text",
                 "format": "text/vtt"
               },
-              "target": "https://nakamura196.github.io/ramp_data/demo/3574643/canvas"
+              "target": "https://nakamura196.github.io/ramp_data/demo/3571280/canvas"
             }
           ]
         }
