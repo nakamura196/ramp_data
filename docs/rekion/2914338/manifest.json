@@ -1,44 +1,193 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://nakamura196.github.io/ramp_data/rekion/2914338/manifest.json",
+  "id": "https://s3ds.mdx.jp/rekion/iiif/2914338/manifest.json",
   "type": "Manifest",
   "label": {
     "ja": [
       "さくら見よとて～めみえそめしは"
     ]
   },
+  "metadata": [
+    {
+      "label": {
+        "ja": [
+          "作詞・作曲・編曲・実演家"
+        ]
+      },
+      "value": {
+        "ja": [
+          "小唄[作詞]"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "作詞・作曲・編曲・実演家"
+        ]
+      },
+      "value": {
+        "ja": [
+          "小唄[作曲]"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "作詞・作曲・編曲・実演家"
+        ]
+      },
+      "value": {
+        "ja": [
+          "田村　葉留寿"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "製作者（レーベル）"
+        ]
+      },
+      "value": {
+        "ja": [
+          "キングレコード"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "注記"
+        ]
+      },
+      "value": {
+        "ja": [
+          "商品番号 : C1455"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "注記"
+        ]
+      },
+      "value": {
+        "ja": [
+          "デジタル変換後ノイズ除去 : ノイズ除去なし"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "注記"
+        ]
+      },
+      "value": {
+        "ja": [
+          "小唄"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "出版年月日(W3CDTF)"
+        ]
+      },
+      "value": {
+        "ja": [
+          "1957-04"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "歴史的音源ジャンル"
+        ]
+      },
+      "value": {
+        "ja": [
+          "三味線楽（端唄、うた沢、小唄、俗曲）"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "ja": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "ja": [
+        "国立国会図書館 National Diet Library, JAPAN"
+      ]
+    }
+  },
+  "rights": "https://www.ndl.go.jp/jp/use/reproduction/index.html",
+  "provider": [
+    {
+      "id": "https://rekion.dl.ndl.go.jp/",
+      "type": "Agent",
+      "label": {
+        "ja": [
+          "国立国会図書館 National Diet Library, JAPAN"
+        ]
+      }
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://rekion.dl.ndl.go.jp/pid/2914338",
+      "type": "Text",
+      "label": {
+        "ja": [
+          "さくら見よとて～めみえそめしは - 国立国会図書館デジタルコレクション"
+        ]
+      },
+      "format": "text/html",
+      "language": [
+        "ja"
+      ]
+    }
+  ],
   "items": [
     {
-      "id": "https://nakamura196.github.io/ramp_data/rekion/2914338/canvas",
+      "id": "https://s3ds.mdx.jp/rekion/iiif/2914338/canvas",
       "type": "Canvas",
       "duration": 165.07999999999998,
       "items": [
         {
-          "id": "https://nakamura196.github.io/ramp_data/rekion/2914338/canvas/page",
+          "id": "https://s3ds.mdx.jp/rekion/iiif/2914338/canvas/page",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://nakamura196.github.io/ramp_data/rekion/2914338/canvas/page/annotation",
+              "id": "https://s3ds.mdx.jp/rekion/iiif/2914338/canvas/page/annotation",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://nakamura196.github.io/ramp_data/rekion/2914338/2914338.mp4",
+                "id": "https://s3ds.mdx.jp/rekion/iiif/2914338/2914338.mp4",
                 "type": "Sound",
                 "duration": 165.07999999999998,
                 "format": "audio/mp4"
               },
-              "target": "https://nakamura196.github.io/ramp_data/rekion/2914338/canvas"
+              "target": "https://s3ds.mdx.jp/rekion/iiif/2914338/canvas"
             }
           ]
         }
       ],
       "annotations": [
         {
-          "id": "https://nakamura196.github.io/ramp_data/rekion/2914338/canvas/page/2",
+          "id": "https://s3ds.mdx.jp/rekion/iiif/2914338/canvas/page/2",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://nakamura196.github.io/ramp_data/rekion/2914338/canvas/annotation/webvtt",
+              "id": "https://s3ds.mdx.jp/rekion/iiif/2914338/canvas/annotation/webvtt",
               "type": "Annotation",
               "label": {
                 "ja": [
@@ -47,11 +196,11 @@
               },
               "motivation": "supplementing",
               "body": {
-                "id": "https://nakamura196.github.io/ramp_data/rekion/2914338/2914338.vtt",
+                "id": "https://s3ds.mdx.jp/rekion/iiif/2914338/2914338.vtt",
                 "type": "Text",
                 "format": "text/vtt"
               },
-              "target": "https://nakamura196.github.io/ramp_data/rekion/2914338/canvas"
+              "target": "https://s3ds.mdx.jp/rekion/iiif/2914338/canvas"
             }
           ]
         }

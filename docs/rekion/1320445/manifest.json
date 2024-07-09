@@ -1,44 +1,205 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://nakamura196.github.io/ramp_data/rekion/1320445/manifest.json",
+  "id": "https://s3ds.mdx.jp/rekion/iiif/1320445/manifest.json",
   "type": "Manifest",
   "label": {
     "ja": [
       "カルメン・シルバー（ワルツ）"
     ]
   },
+  "metadata": [
+    {
+      "label": {
+        "ja": [
+          "作詞・作曲・編曲・実演家"
+        ]
+      },
+      "value": {
+        "ja": [
+          "イヴァノヴィッチ[作曲]"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "作詞・作曲・編曲・実演家"
+        ]
+      },
+      "value": {
+        "ja": [
+          "川口ハーモニカ・バンド"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "作詞・作曲・編曲・実演家"
+        ]
+      },
+      "value": {
+        "ja": [
+          "川口　章吾[指揮]"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "製作者（レーベル）"
+        ]
+      },
+      "value": {
+        "ja": [
+          "ビクター"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "注記"
+        ]
+      },
+      "value": {
+        "ja": [
+          "商品番号 : 51846"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "注記"
+        ]
+      },
+      "value": {
+        "ja": [
+          "デジタル変換後ノイズ除去 : ノイズ除去なし"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "注記"
+        ]
+      },
+      "value": {
+        "ja": [
+          "ハーモニカ合奏"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "出版年月日(W3CDTF)"
+        ]
+      },
+      "value": {
+        "ja": [
+          "1931-08"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "歴史的音源ジャンル"
+        ]
+      },
+      "value": {
+        "ja": [
+          "器楽（クラシック以外）"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "歴史的音源ジャンル"
+        ]
+      },
+      "value": {
+        "ja": [
+          "合奏（マンドリン、ハーモニカその他）"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "ja": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "ja": [
+        "国立国会図書館 National Diet Library, JAPAN"
+      ]
+    }
+  },
+  "rights": "https://www.ndl.go.jp/jp/use/reproduction/index.html",
+  "provider": [
+    {
+      "id": "https://rekion.dl.ndl.go.jp/",
+      "type": "Agent",
+      "label": {
+        "ja": [
+          "国立国会図書館 National Diet Library, JAPAN"
+        ]
+      }
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://rekion.dl.ndl.go.jp/pid/1320445",
+      "type": "Text",
+      "label": {
+        "ja": [
+          "カルメン・シルバー（ワルツ） - 国立国会図書館デジタルコレクション"
+        ]
+      },
+      "format": "text/html",
+      "language": [
+        "ja"
+      ]
+    }
+  ],
   "items": [
     {
-      "id": "https://nakamura196.github.io/ramp_data/rekion/1320445/canvas",
+      "id": "https://s3ds.mdx.jp/rekion/iiif/1320445/canvas",
       "type": "Canvas",
       "duration": 186.08,
       "items": [
         {
-          "id": "https://nakamura196.github.io/ramp_data/rekion/1320445/canvas/page",
+          "id": "https://s3ds.mdx.jp/rekion/iiif/1320445/canvas/page",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://nakamura196.github.io/ramp_data/rekion/1320445/canvas/page/annotation",
+              "id": "https://s3ds.mdx.jp/rekion/iiif/1320445/canvas/page/annotation",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://nakamura196.github.io/ramp_data/rekion/1320445/1320445.mp4",
+                "id": "https://s3ds.mdx.jp/rekion/iiif/1320445/1320445.mp4",
                 "type": "Sound",
                 "duration": 186.08,
                 "format": "audio/mp4"
               },
-              "target": "https://nakamura196.github.io/ramp_data/rekion/1320445/canvas"
+              "target": "https://s3ds.mdx.jp/rekion/iiif/1320445/canvas"
             }
           ]
         }
       ],
       "annotations": [
         {
-          "id": "https://nakamura196.github.io/ramp_data/rekion/1320445/canvas/page/2",
+          "id": "https://s3ds.mdx.jp/rekion/iiif/1320445/canvas/page/2",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://nakamura196.github.io/ramp_data/rekion/1320445/canvas/annotation/webvtt",
+              "id": "https://s3ds.mdx.jp/rekion/iiif/1320445/canvas/annotation/webvtt",
               "type": "Annotation",
               "label": {
                 "ja": [
@@ -47,11 +208,11 @@
               },
               "motivation": "supplementing",
               "body": {
-                "id": "https://nakamura196.github.io/ramp_data/rekion/1320445/1320445.vtt",
+                "id": "https://s3ds.mdx.jp/rekion/iiif/1320445/1320445.vtt",
                 "type": "Text",
                 "format": "text/vtt"
               },
-              "target": "https://nakamura196.github.io/ramp_data/rekion/1320445/canvas"
+              "target": "https://s3ds.mdx.jp/rekion/iiif/1320445/canvas"
             }
           ]
         }

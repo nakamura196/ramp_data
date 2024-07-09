@@ -1,44 +1,169 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://nakamura196.github.io/ramp_data/rekion/1329898/manifest.json",
+  "id": "https://s3ds.mdx.jp/rekion/iiif/1329898/manifest.json",
   "type": "Manifest",
   "label": {
     "ja": [
       "素人芝居（二）"
     ]
   },
+  "metadata": [
+    {
+      "label": {
+        "ja": [
+          "作詞・作曲・編曲・実演家"
+        ]
+      },
+      "value": {
+        "ja": [
+          "三升家　小勝"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "製作者（レーベル）"
+        ]
+      },
+      "value": {
+        "ja": [
+          "ビクター"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "注記"
+        ]
+      },
+      "value": {
+        "ja": [
+          "商品番号 : Z-152"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "注記"
+        ]
+      },
+      "value": {
+        "ja": [
+          "デジタル変換後ノイズ除去 : ノイズ除去なし"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "注記"
+        ]
+      },
+      "value": {
+        "ja": [
+          "落語"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "出版年月日(W3CDTF)"
+        ]
+      },
+      "value": {
+        "ja": [
+          "1939-05"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "歴史的音源ジャンル"
+        ]
+      },
+      "value": {
+        "ja": [
+          "落語"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "ja": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "ja": [
+        "国立国会図書館 National Diet Library, JAPAN"
+      ]
+    }
+  },
+  "rights": "https://www.ndl.go.jp/jp/use/reproduction/index.html",
+  "provider": [
+    {
+      "id": "https://rekion.dl.ndl.go.jp/",
+      "type": "Agent",
+      "label": {
+        "ja": [
+          "国立国会図書館 National Diet Library, JAPAN"
+        ]
+      }
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://rekion.dl.ndl.go.jp/pid/1329898",
+      "type": "Text",
+      "label": {
+        "ja": [
+          "素人芝居（二） - 国立国会図書館デジタルコレクション"
+        ]
+      },
+      "format": "text/html",
+      "language": [
+        "ja"
+      ]
+    }
+  ],
   "items": [
     {
-      "id": "https://nakamura196.github.io/ramp_data/rekion/1329898/canvas",
+      "id": "https://s3ds.mdx.jp/rekion/iiif/1329898/canvas",
       "type": "Canvas",
       "duration": 206.07999999999998,
       "items": [
         {
-          "id": "https://nakamura196.github.io/ramp_data/rekion/1329898/canvas/page",
+          "id": "https://s3ds.mdx.jp/rekion/iiif/1329898/canvas/page",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://nakamura196.github.io/ramp_data/rekion/1329898/canvas/page/annotation",
+              "id": "https://s3ds.mdx.jp/rekion/iiif/1329898/canvas/page/annotation",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://nakamura196.github.io/ramp_data/rekion/1329898/1329898.mp4",
+                "id": "https://s3ds.mdx.jp/rekion/iiif/1329898/1329898.mp4",
                 "type": "Sound",
                 "duration": 206.07999999999998,
                 "format": "audio/mp4"
               },
-              "target": "https://nakamura196.github.io/ramp_data/rekion/1329898/canvas"
+              "target": "https://s3ds.mdx.jp/rekion/iiif/1329898/canvas"
             }
           ]
         }
       ],
       "annotations": [
         {
-          "id": "https://nakamura196.github.io/ramp_data/rekion/1329898/canvas/page/2",
+          "id": "https://s3ds.mdx.jp/rekion/iiif/1329898/canvas/page/2",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://nakamura196.github.io/ramp_data/rekion/1329898/canvas/annotation/webvtt",
+              "id": "https://s3ds.mdx.jp/rekion/iiif/1329898/canvas/annotation/webvtt",
               "type": "Annotation",
               "label": {
                 "ja": [
@@ -47,11 +172,11 @@
               },
               "motivation": "supplementing",
               "body": {
-                "id": "https://nakamura196.github.io/ramp_data/rekion/1329898/1329898.vtt",
+                "id": "https://s3ds.mdx.jp/rekion/iiif/1329898/1329898.vtt",
                 "type": "Text",
                 "format": "text/vtt"
               },
-              "target": "https://nakamura196.github.io/ramp_data/rekion/1329898/canvas"
+              "target": "https://s3ds.mdx.jp/rekion/iiif/1329898/canvas"
             }
           ]
         }

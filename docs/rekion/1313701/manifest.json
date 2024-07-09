@@ -1,44 +1,157 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://nakamura196.github.io/ramp_data/rekion/1313701/manifest.json",
+  "id": "https://s3ds.mdx.jp/rekion/iiif/1313701/manifest.json",
   "type": "Manifest",
   "label": {
     "ja": [
       "謡曲：蝉丸(上)"
     ]
   },
+  "metadata": [
+    {
+      "label": {
+        "ja": [
+          "作詞・作曲・編曲・実演家"
+        ]
+      },
+      "value": {
+        "ja": [
+          "松本　長"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "製作者（レーベル）"
+        ]
+      },
+      "value": {
+        "ja": [
+          "ニッポノホン"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "注記"
+        ]
+      },
+      "value": {
+        "ja": [
+          "商品番号 : 3026"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "注記"
+        ]
+      },
+      "value": {
+        "ja": [
+          "デジタル変換後ノイズ除去 : 無"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "注記"
+        ]
+      },
+      "value": {
+        "ja": [
+          "謡曲"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "歴史的音源ジャンル"
+        ]
+      },
+      "value": {
+        "ja": [
+          "能楽、狂言、謡曲"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "ja": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "ja": [
+        "国立国会図書館 National Diet Library, JAPAN"
+      ]
+    }
+  },
+  "rights": "https://www.ndl.go.jp/jp/use/reproduction/index.html",
+  "provider": [
+    {
+      "id": "https://rekion.dl.ndl.go.jp/",
+      "type": "Agent",
+      "label": {
+        "ja": [
+          "国立国会図書館 National Diet Library, JAPAN"
+        ]
+      }
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://rekion.dl.ndl.go.jp/pid/1313701",
+      "type": "Text",
+      "label": {
+        "ja": [
+          "謡曲：蝉丸(上) - 国立国会図書館デジタルコレクション"
+        ]
+      },
+      "format": "text/html",
+      "language": [
+        "ja"
+      ]
+    }
+  ],
   "items": [
     {
-      "id": "https://nakamura196.github.io/ramp_data/rekion/1313701/canvas",
+      "id": "https://s3ds.mdx.jp/rekion/iiif/1313701/canvas",
       "type": "Canvas",
       "duration": 194.08,
       "items": [
         {
-          "id": "https://nakamura196.github.io/ramp_data/rekion/1313701/canvas/page",
+          "id": "https://s3ds.mdx.jp/rekion/iiif/1313701/canvas/page",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://nakamura196.github.io/ramp_data/rekion/1313701/canvas/page/annotation",
+              "id": "https://s3ds.mdx.jp/rekion/iiif/1313701/canvas/page/annotation",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://nakamura196.github.io/ramp_data/rekion/1313701/1313701.mp4",
+                "id": "https://s3ds.mdx.jp/rekion/iiif/1313701/1313701.mp4",
                 "type": "Sound",
                 "duration": 194.08,
                 "format": "audio/mp4"
               },
-              "target": "https://nakamura196.github.io/ramp_data/rekion/1313701/canvas"
+              "target": "https://s3ds.mdx.jp/rekion/iiif/1313701/canvas"
             }
           ]
         }
       ],
       "annotations": [
         {
-          "id": "https://nakamura196.github.io/ramp_data/rekion/1313701/canvas/page/2",
+          "id": "https://s3ds.mdx.jp/rekion/iiif/1313701/canvas/page/2",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://nakamura196.github.io/ramp_data/rekion/1313701/canvas/annotation/webvtt",
+              "id": "https://s3ds.mdx.jp/rekion/iiif/1313701/canvas/annotation/webvtt",
               "type": "Annotation",
               "label": {
                 "ja": [
@@ -47,11 +160,11 @@
               },
               "motivation": "supplementing",
               "body": {
-                "id": "https://nakamura196.github.io/ramp_data/rekion/1313701/1313701.vtt",
+                "id": "https://s3ds.mdx.jp/rekion/iiif/1313701/1313701.vtt",
                 "type": "Text",
                 "format": "text/vtt"
               },
-              "target": "https://nakamura196.github.io/ramp_data/rekion/1313701/canvas"
+              "target": "https://s3ds.mdx.jp/rekion/iiif/1313701/canvas"
             }
           ]
         }

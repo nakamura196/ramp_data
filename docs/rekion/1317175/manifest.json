@@ -1,44 +1,169 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://nakamura196.github.io/ramp_data/rekion/1317175/manifest.json",
+  "id": "https://s3ds.mdx.jp/rekion/iiif/1317175/manifest.json",
   "type": "Manifest",
   "label": {
     "ja": [
       "琉球民謡：湊くり節"
     ]
   },
+  "metadata": [
+    {
+      "label": {
+        "ja": [
+          "作詞・作曲・編曲・実演家"
+        ]
+      },
+      "value": {
+        "ja": [
+          "伊差川　世瑞"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "製作者（レーベル）"
+        ]
+      },
+      "value": {
+        "ja": [
+          "コロムビア（戦前）"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "注記"
+        ]
+      },
+      "value": {
+        "ja": [
+          "商品番号 : 28250"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "注記"
+        ]
+      },
+      "value": {
+        "ja": [
+          "デジタル変換後ノイズ除去 : 無"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "注記"
+        ]
+      },
+      "value": {
+        "ja": [
+          "琉球民謡"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "出版年月日(W3CDTF)"
+        ]
+      },
+      "value": {
+        "ja": [
+          "1935-02"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "歴史的音源ジャンル"
+        ]
+      },
+      "value": {
+        "ja": [
+          "民謡、国民音楽（日本）"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "ja": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "ja": [
+        "国立国会図書館 National Diet Library, JAPAN"
+      ]
+    }
+  },
+  "rights": "https://www.ndl.go.jp/jp/use/reproduction/index.html",
+  "provider": [
+    {
+      "id": "https://rekion.dl.ndl.go.jp/",
+      "type": "Agent",
+      "label": {
+        "ja": [
+          "国立国会図書館 National Diet Library, JAPAN"
+        ]
+      }
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://rekion.dl.ndl.go.jp/pid/1317175",
+      "type": "Text",
+      "label": {
+        "ja": [
+          "琉球民謡：湊くり節 - 国立国会図書館デジタルコレクション"
+        ]
+      },
+      "format": "text/html",
+      "language": [
+        "ja"
+      ]
+    }
+  ],
   "items": [
     {
-      "id": "https://nakamura196.github.io/ramp_data/rekion/1317175/canvas",
+      "id": "https://s3ds.mdx.jp/rekion/iiif/1317175/canvas",
       "type": "Canvas",
       "duration": 103.08,
       "items": [
         {
-          "id": "https://nakamura196.github.io/ramp_data/rekion/1317175/canvas/page",
+          "id": "https://s3ds.mdx.jp/rekion/iiif/1317175/canvas/page",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://nakamura196.github.io/ramp_data/rekion/1317175/canvas/page/annotation",
+              "id": "https://s3ds.mdx.jp/rekion/iiif/1317175/canvas/page/annotation",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://nakamura196.github.io/ramp_data/rekion/1317175/1317175.mp4",
+                "id": "https://s3ds.mdx.jp/rekion/iiif/1317175/1317175.mp4",
                 "type": "Sound",
                 "duration": 103.08,
                 "format": "audio/mp4"
               },
-              "target": "https://nakamura196.github.io/ramp_data/rekion/1317175/canvas"
+              "target": "https://s3ds.mdx.jp/rekion/iiif/1317175/canvas"
             }
           ]
         }
       ],
       "annotations": [
         {
-          "id": "https://nakamura196.github.io/ramp_data/rekion/1317175/canvas/page/2",
+          "id": "https://s3ds.mdx.jp/rekion/iiif/1317175/canvas/page/2",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://nakamura196.github.io/ramp_data/rekion/1317175/canvas/annotation/webvtt",
+              "id": "https://s3ds.mdx.jp/rekion/iiif/1317175/canvas/annotation/webvtt",
               "type": "Annotation",
               "label": {
                 "ja": [
@@ -47,11 +172,11 @@
               },
               "motivation": "supplementing",
               "body": {
-                "id": "https://nakamura196.github.io/ramp_data/rekion/1317175/1317175.vtt",
+                "id": "https://s3ds.mdx.jp/rekion/iiif/1317175/1317175.vtt",
                 "type": "Text",
                 "format": "text/vtt"
               },
-              "target": "https://nakamura196.github.io/ramp_data/rekion/1317175/canvas"
+              "target": "https://s3ds.mdx.jp/rekion/iiif/1317175/canvas"
             }
           ]
         }

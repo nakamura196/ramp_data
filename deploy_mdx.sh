@@ -1,0 +1,1 @@
+s3cmd sync docs/rekion/ s3://rekion/iiif/ --exclude '.DS_Store' && s3cmd setacl s3://rekion/iiif/ --acl-public --recursive
