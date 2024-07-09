@@ -1,0 +1,61 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://nakamura196.github.io/ramp_data/rekion/1315007/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "ja": [
+      "浪花節；天保六花撰（二）"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://nakamura196.github.io/ramp_data/rekion/1315007/canvas",
+      "type": "Canvas",
+      "duration": 202.07999999999998,
+      "items": [
+        {
+          "id": "https://nakamura196.github.io/ramp_data/rekion/1315007/canvas/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nakamura196.github.io/ramp_data/rekion/1315007/canvas/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nakamura196.github.io/ramp_data/rekion/1315007/1315007.mp4",
+                "type": "Sound",
+                "duration": 202.07999999999998,
+                "format": "audio/mp4"
+              },
+              "target": "https://nakamura196.github.io/ramp_data/rekion/1315007/canvas"
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://nakamura196.github.io/ramp_data/rekion/1315007/canvas/page/2",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nakamura196.github.io/ramp_data/rekion/1315007/canvas/annotation/webvtt",
+              "type": "Annotation",
+              "label": {
+                "ja": [
+                  "WebVTT Transcript (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://nakamura196.github.io/ramp_data/rekion/1315007/1315007.vtt",
+                "type": "Text",
+                "format": "text/vtt"
+              },
+              "target": "https://nakamura196.github.io/ramp_data/rekion/1315007/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
