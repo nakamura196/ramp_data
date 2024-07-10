@@ -1,0 +1,186 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://s3ds.mdx.jp/rekion/iiif/3578974/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "ja": [
+      "フォークソング（1）Polly-Wolly-Doodle（2）The Little Brown Church（3）Pop Goes The Weasel（4）Home Sweet Home"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "ja": [
+          "作詞・作曲・編曲・実演家"
+        ]
+      },
+      "value": {
+        "ja": [
+          "ナスグブ・ビーチ・スクール児童合唱"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "製作者（レーベル）"
+        ]
+      },
+      "value": {
+        "ja": [
+          "ビクター"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "注記"
+        ]
+      },
+      "value": {
+        "ja": [
+          "商品番号 : V-40473"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "注記"
+        ]
+      },
+      "value": {
+        "ja": [
+          "デジタル変換後ノイズ除去 : ノイズ除去なし"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "注記"
+        ]
+      },
+      "value": {
+        "ja": [
+          "童謡"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "出版年月日(W3CDTF)"
+        ]
+      },
+      "value": {
+        "ja": [
+          "1950-07"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "歴史的音源ジャンル"
+        ]
+      },
+      "value": {
+        "ja": [
+          "唱歌、童謡"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "ja": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "ja": [
+        "国立国会図書館 National Diet Library, JAPAN"
+      ]
+    }
+  },
+  "rights": "https://www.ndl.go.jp/jp/use/reproduction/index.html",
+  "provider": [
+    {
+      "id": "https://rekion.dl.ndl.go.jp/",
+      "type": "Agent",
+      "label": {
+        "ja": [
+          "国立国会図書館 National Diet Library, JAPAN"
+        ]
+      }
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://rekion.dl.ndl.go.jp/pid/3578974",
+      "type": "Text",
+      "label": {
+        "ja": [
+          "フォークソング（1）Polly-Wolly-Doodle（2）The Little Brown Church（3）Pop Goes The Weasel（4）Home Sweet Home - 国立国会図書館デジタルコレクション"
+        ]
+      },
+      "format": "text/html",
+      "language": [
+        "ja"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "https://s3ds.mdx.jp/rekion/iiif/3578974/canvas",
+      "type": "Canvas",
+      "duration": 198.07999999999998,
+      "items": [
+        {
+          "id": "https://s3ds.mdx.jp/rekion/iiif/3578974/canvas/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/3578974/canvas/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3578974/3578974.mp4",
+                "type": "Sound",
+                "duration": 198.07999999999998,
+                "format": "audio/mp4"
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/3578974/canvas"
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://s3ds.mdx.jp/rekion/iiif/3578974/canvas/page/2",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/3578974/canvas/annotation/webvtt",
+              "type": "Annotation",
+              "label": {
+                "ja": [
+                  "WebVTT Transcript (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3578974/3578974.vtt",
+                "type": "Text",
+                "format": "text/vtt"
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/3578974/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

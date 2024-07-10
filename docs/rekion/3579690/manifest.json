@@ -1,0 +1,186 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://s3ds.mdx.jp/rekion/iiif/3579690/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "ja": [
+      "さくら変奏曲（上）"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "ja": [
+          "作詞・作曲・編曲・実演家"
+        ]
+      },
+      "value": {
+        "ja": [
+          "宮城　道雄[作曲]"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "作詞・作曲・編曲・実演家"
+        ]
+      },
+      "value": {
+        "ja": [
+          "宮城　道雄"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "製作者（レーベル）"
+        ]
+      },
+      "value": {
+        "ja": [
+          "ビクター"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "注記"
+        ]
+      },
+      "value": {
+        "ja": [
+          "商品番号 : K-134"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "注記"
+        ]
+      },
+      "value": {
+        "ja": [
+          "デジタル変換後ノイズ除去 : ノイズ除去なし"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "出版年月日(W3CDTF)"
+        ]
+      },
+      "value": {
+        "ja": [
+          "1943-05"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "歴史的音源ジャンル"
+        ]
+      },
+      "value": {
+        "ja": [
+          "不明"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "ja": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "ja": [
+        "国立国会図書館 National Diet Library, JAPAN"
+      ]
+    }
+  },
+  "rights": "https://www.ndl.go.jp/jp/use/reproduction/index.html",
+  "provider": [
+    {
+      "id": "https://rekion.dl.ndl.go.jp/",
+      "type": "Agent",
+      "label": {
+        "ja": [
+          "国立国会図書館 National Diet Library, JAPAN"
+        ]
+      }
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://rekion.dl.ndl.go.jp/pid/3579690",
+      "type": "Text",
+      "label": {
+        "ja": [
+          "さくら変奏曲（上） - 国立国会図書館デジタルコレクション"
+        ]
+      },
+      "format": "text/html",
+      "language": [
+        "ja"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "https://s3ds.mdx.jp/rekion/iiif/3579690/canvas",
+      "type": "Canvas",
+      "duration": 187.08,
+      "items": [
+        {
+          "id": "https://s3ds.mdx.jp/rekion/iiif/3579690/canvas/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/3579690/canvas/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3579690/3579690.mp4",
+                "type": "Sound",
+                "duration": 187.08,
+                "format": "audio/mp4"
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/3579690/canvas"
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://s3ds.mdx.jp/rekion/iiif/3579690/canvas/page/2",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/3579690/canvas/annotation/webvtt",
+              "type": "Annotation",
+              "label": {
+                "ja": [
+                  "WebVTT Transcript (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3579690/3579690.vtt",
+                "type": "Text",
+                "format": "text/vtt"
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/3579690/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

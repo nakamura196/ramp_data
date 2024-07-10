@@ -1,0 +1,198 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://s3ds.mdx.jp/rekion/iiif/3578102/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "ja": [
+      "二人椀久（六）"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "ja": [
+          "作詞・作曲・編曲・実演家"
+        ]
+      },
+      "value": {
+        "ja": [
+          "錦屋　金蔵[作曲]"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "作詞・作曲・編曲・実演家"
+        ]
+      },
+      "value": {
+        "ja": [
+          "芳村　伊四郎（九世）"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "製作者（レーベル）"
+        ]
+      },
+      "value": {
+        "ja": [
+          "キング"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "注記"
+        ]
+      },
+      "value": {
+        "ja": [
+          "商品番号 : D4042 "
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "注記"
+        ]
+      },
+      "value": {
+        "ja": [
+          "デジタル変換後ノイズ除去 : ノイズ除去なし"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "注記"
+        ]
+      },
+      "value": {
+        "ja": [
+          "長唄"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "出版年月日(W3CDTF)"
+        ]
+      },
+      "value": {
+        "ja": [
+          "1948-01"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "歴史的音源ジャンル"
+        ]
+      },
+      "value": {
+        "ja": [
+          "三味線楽（長唄）"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "ja": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "ja": [
+        "国立国会図書館 National Diet Library, JAPAN"
+      ]
+    }
+  },
+  "rights": "https://www.ndl.go.jp/jp/use/reproduction/index.html",
+  "provider": [
+    {
+      "id": "https://rekion.dl.ndl.go.jp/",
+      "type": "Agent",
+      "label": {
+        "ja": [
+          "国立国会図書館 National Diet Library, JAPAN"
+        ]
+      }
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://rekion.dl.ndl.go.jp/pid/3578102",
+      "type": "Text",
+      "label": {
+        "ja": [
+          "二人椀久（六） - 国立国会図書館デジタルコレクション"
+        ]
+      },
+      "format": "text/html",
+      "language": [
+        "ja"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "https://s3ds.mdx.jp/rekion/iiif/3578102/canvas",
+      "type": "Canvas",
+      "duration": 180.08,
+      "items": [
+        {
+          "id": "https://s3ds.mdx.jp/rekion/iiif/3578102/canvas/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/3578102/canvas/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3578102/3578102.mp4",
+                "type": "Sound",
+                "duration": 180.08,
+                "format": "audio/mp4"
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/3578102/canvas"
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://s3ds.mdx.jp/rekion/iiif/3578102/canvas/page/2",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/3578102/canvas/annotation/webvtt",
+              "type": "Annotation",
+              "label": {
+                "ja": [
+                  "WebVTT Transcript (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3578102/3578102.vtt",
+                "type": "Text",
+                "format": "text/vtt"
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/3578102/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

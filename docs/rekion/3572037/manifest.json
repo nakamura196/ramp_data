@@ -1,0 +1,222 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://s3ds.mdx.jp/rekion/iiif/3572037/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "ja": [
+      "邦語歌曲による歌のうたい方：「よしきり」による誤った発音、正しい発音の実例"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "ja": [
+          "作詞・作曲・編曲・実演家"
+        ]
+      },
+      "value": {
+        "ja": [
+          "三木　露風[作詞]"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "作詞・作曲・編曲・実演家"
+        ]
+      },
+      "value": {
+        "ja": [
+          "山田　耕筰[作曲]"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "作詞・作曲・編曲・実演家"
+        ]
+      },
+      "value": {
+        "ja": [
+          "山田　耕筰"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "製作者（レーベル）"
+        ]
+      },
+      "value": {
+        "ja": [
+          "コロムビア（戦前）"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "注記"
+        ]
+      },
+      "value": {
+        "ja": [
+          "商品番号 : 39002"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "注記"
+        ]
+      },
+      "value": {
+        "ja": [
+          "デジタル変換後ノイズ除去 : 無"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "注記"
+        ]
+      },
+      "value": {
+        "ja": [
+          "邦語歌曲による歌のうたい方"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "出版年月日(W3CDTF)"
+        ]
+      },
+      "value": {
+        "ja": [
+          "1930"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "歴史的音源ジャンル"
+        ]
+      },
+      "value": {
+        "ja": [
+          "教育・児童"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "歴史的音源ジャンル"
+        ]
+      },
+      "value": {
+        "ja": [
+          "語学"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "ja": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "ja": [
+        "国立国会図書館 National Diet Library, JAPAN"
+      ]
+    }
+  },
+  "rights": "https://www.ndl.go.jp/jp/use/reproduction/index.html",
+  "provider": [
+    {
+      "id": "https://rekion.dl.ndl.go.jp/",
+      "type": "Agent",
+      "label": {
+        "ja": [
+          "国立国会図書館 National Diet Library, JAPAN"
+        ]
+      }
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://rekion.dl.ndl.go.jp/pid/3572037",
+      "type": "Text",
+      "label": {
+        "ja": [
+          "邦語歌曲による歌のうたい方：「よしきり」による誤った発音、正しい発音の実例 - 国立国会図書館デジタルコレクション"
+        ]
+      },
+      "format": "text/html",
+      "language": [
+        "ja"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "https://s3ds.mdx.jp/rekion/iiif/3572037/canvas",
+      "type": "Canvas",
+      "duration": 192.08,
+      "items": [
+        {
+          "id": "https://s3ds.mdx.jp/rekion/iiif/3572037/canvas/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/3572037/canvas/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3572037/3572037.mp4",
+                "type": "Sound",
+                "duration": 192.08,
+                "format": "audio/mp4"
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/3572037/canvas"
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://s3ds.mdx.jp/rekion/iiif/3572037/canvas/page/2",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/3572037/canvas/annotation/webvtt",
+              "type": "Annotation",
+              "label": {
+                "ja": [
+                  "WebVTT Transcript (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3572037/3572037.vtt",
+                "type": "Text",
+                "format": "text/vtt"
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/3572037/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,246 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://s3ds.mdx.jp/rekion/iiif/3570144/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "ja": [
+      "遥かのサンタ・ルチア（Ｓａｎｔａ　Ｌｕｃｉａ　Ｌｕｎｔａｎａ）"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "ja": [
+          "作詞・作曲・編曲・実演家"
+        ]
+      },
+      "value": {
+        "ja": [
+          "伊庭　孝∥訳詞"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "作詞・作曲・編曲・実演家"
+        ]
+      },
+      "value": {
+        "ja": [
+          "Ｅ．Ａ．Ｍａｒｉｏ[作詞]"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "作詞・作曲・編曲・実演家"
+        ]
+      },
+      "value": {
+        "ja": [
+          "Ｅ．Ａ．Ｍａｒｉｏ[作曲]"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "作詞・作曲・編曲・実演家"
+        ]
+      },
+      "value": {
+        "ja": [
+          "カルロ・サバイノ[編曲]"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "作詞・作曲・編曲・実演家"
+        ]
+      },
+      "value": {
+        "ja": [
+          "藤原　義江[テノール]"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "作詞・作曲・編曲・実演家"
+        ]
+      },
+      "value": {
+        "ja": [
+          "カルロ・サバイノ[指揮　964と同一人物]"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "作詞・作曲・編曲・実演家"
+        ]
+      },
+      "value": {
+        "ja": [
+          "ミラノ・スカラ座管弦（楽）団[伴奏]"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "製作者（レーベル）"
+        ]
+      },
+      "value": {
+        "ja": [
+          "ビクター"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "注記"
+        ]
+      },
+      "value": {
+        "ja": [
+          "商品番号 : 13198"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "注記"
+        ]
+      },
+      "value": {
+        "ja": [
+          "デジタル変換後ノイズ除去 : ノイズ除去なし"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "注記"
+        ]
+      },
+      "value": {
+        "ja": [
+          "声楽"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "歴史的音源ジャンル"
+        ]
+      },
+      "value": {
+        "ja": [
+          "声楽（独唱）"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "ja": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "ja": [
+        "国立国会図書館 National Diet Library, JAPAN"
+      ]
+    }
+  },
+  "rights": "https://www.ndl.go.jp/jp/use/reproduction/index.html",
+  "provider": [
+    {
+      "id": "https://rekion.dl.ndl.go.jp/",
+      "type": "Agent",
+      "label": {
+        "ja": [
+          "国立国会図書館 National Diet Library, JAPAN"
+        ]
+      }
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://rekion.dl.ndl.go.jp/pid/3570144",
+      "type": "Text",
+      "label": {
+        "ja": [
+          "遥かのサンタ・ルチア（Ｓａｎｔａ　Ｌｕｃｉａ　Ｌｕｎｔａｎａ） - 国立国会図書館デジタルコレクション"
+        ]
+      },
+      "format": "text/html",
+      "language": [
+        "ja"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "https://s3ds.mdx.jp/rekion/iiif/3570144/canvas",
+      "type": "Canvas",
+      "duration": 120.08,
+      "items": [
+        {
+          "id": "https://s3ds.mdx.jp/rekion/iiif/3570144/canvas/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/3570144/canvas/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3570144/3570144.mp4",
+                "type": "Sound",
+                "duration": 120.08,
+                "format": "audio/mp4"
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/3570144/canvas"
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://s3ds.mdx.jp/rekion/iiif/3570144/canvas/page/2",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/3570144/canvas/annotation/webvtt",
+              "type": "Annotation",
+              "label": {
+                "ja": [
+                  "WebVTT Transcript (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3570144/3570144.vtt",
+                "type": "Text",
+                "format": "text/vtt"
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/3570144/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

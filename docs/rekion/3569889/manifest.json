@@ -1,44 +1,193 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://nakamura196.github.io/ramp_data/rekion/3569889/manifest.json",
+  "id": "https://s3ds.mdx.jp/rekion/iiif/3569889/manifest.json",
   "type": "Manifest",
   "label": {
     "ja": [
       "SONATINE（アレグロ・コン・スピリット）～ソナチネ・アルバム1の1２番"
     ]
   },
+  "metadata": [
+    {
+      "label": {
+        "ja": [
+          "作詞・作曲・編曲・実演家"
+        ]
+      },
+      "value": {
+        "ja": [
+          "M.Clementi[作曲]"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "作詞・作曲・編曲・実演家"
+        ]
+      },
+      "value": {
+        "ja": [
+          "井口　基成[ピアノ]"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "製作者（レーベル）"
+        ]
+      },
+      "value": {
+        "ja": [
+          "ビクター"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "注記"
+        ]
+      },
+      "value": {
+        "ja": [
+          "商品番号 : J-54032"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "注記"
+        ]
+      },
+      "value": {
+        "ja": [
+          "デジタル変換後ノイズ除去 : ノイズ除去なし"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "注記"
+        ]
+      },
+      "value": {
+        "ja": [
+          "ピアノ"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "出版年月日(W3CDTF)"
+        ]
+      },
+      "value": {
+        "ja": [
+          "1937-08"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "歴史的音源ジャンル"
+        ]
+      },
+      "value": {
+        "ja": [
+          "器楽（クラシック音楽）"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "歴史的音源ジャンル"
+        ]
+      },
+      "value": {
+        "ja": [
+          "独奏、二重奏（ピアノ）"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "ja": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "ja": [
+        "国立国会図書館 National Diet Library, JAPAN"
+      ]
+    }
+  },
+  "rights": "https://www.ndl.go.jp/jp/use/reproduction/index.html",
+  "provider": [
+    {
+      "id": "https://rekion.dl.ndl.go.jp/",
+      "type": "Agent",
+      "label": {
+        "ja": [
+          "国立国会図書館 National Diet Library, JAPAN"
+        ]
+      }
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://rekion.dl.ndl.go.jp/pid/3569889",
+      "type": "Text",
+      "label": {
+        "ja": [
+          "SONATINE（アレグロ・コン・スピリット）～ソナチネ・アルバム1の1２番 - 国立国会図書館デジタルコレクション"
+        ]
+      },
+      "format": "text/html",
+      "language": [
+        "ja"
+      ]
+    }
+  ],
   "items": [
     {
-      "id": "https://nakamura196.github.io/ramp_data/rekion/3569889/canvas",
+      "id": "https://s3ds.mdx.jp/rekion/iiif/3569889/canvas",
       "type": "Canvas",
       "duration": 156.07999999999998,
       "items": [
         {
-          "id": "https://nakamura196.github.io/ramp_data/rekion/3569889/canvas/page",
+          "id": "https://s3ds.mdx.jp/rekion/iiif/3569889/canvas/page",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://nakamura196.github.io/ramp_data/rekion/3569889/canvas/page/annotation",
+              "id": "https://s3ds.mdx.jp/rekion/iiif/3569889/canvas/page/annotation",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://nakamura196.github.io/ramp_data/rekion/3569889/3569889.mp4",
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3569889/3569889.mp4",
                 "type": "Sound",
                 "duration": 156.07999999999998,
                 "format": "audio/mp4"
               },
-              "target": "https://nakamura196.github.io/ramp_data/rekion/3569889/canvas"
+              "target": "https://s3ds.mdx.jp/rekion/iiif/3569889/canvas"
             }
           ]
         }
       ],
       "annotations": [
         {
-          "id": "https://nakamura196.github.io/ramp_data/rekion/3569889/canvas/page/2",
+          "id": "https://s3ds.mdx.jp/rekion/iiif/3569889/canvas/page/2",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://nakamura196.github.io/ramp_data/rekion/3569889/canvas/annotation/webvtt",
+              "id": "https://s3ds.mdx.jp/rekion/iiif/3569889/canvas/annotation/webvtt",
               "type": "Annotation",
               "label": {
                 "ja": [
@@ -47,11 +196,11 @@
               },
               "motivation": "supplementing",
               "body": {
-                "id": "https://nakamura196.github.io/ramp_data/rekion/3569889/3569889.vtt",
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3569889/3569889.vtt",
                 "type": "Text",
                 "format": "text/vtt"
               },
-              "target": "https://nakamura196.github.io/ramp_data/rekion/3569889/canvas"
+              "target": "https://s3ds.mdx.jp/rekion/iiif/3569889/canvas"
             }
           ]
         }
