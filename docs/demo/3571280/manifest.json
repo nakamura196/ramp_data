@@ -155,17 +155,17 @@
       "type": "Canvas",
       "duration": 156.07999999999998,
       "accompanyingCanvas": {
-        "id": "https://nakamura196.github.io/ramp_data/demo/3571280/accompanying",
+        "id": "https://nakamura196.github.io/ramp_data/demo/3571280/canvas/accompanying",
         "type": "Canvas",
         "height": 1024,
         "width": 1024,
         "items": [
           {
-            "id": "https://nakamura196.github.io/ramp_data/demo/3571280/accompanying/annotation/page",
+            "id": "https://nakamura196.github.io/ramp_data/demo/3571280/canvas/accompanying/annotation/page",
             "type": "AnnotationPage",
             "items": [
               {
-                "id": "https://nakamura196.github.io/ramp_data/demo/3571280/accompanying/annotation/image",
+                "id": "https://nakamura196.github.io/ramp_data/demo/3571280/canvas/accompanying/annotation/image",
                 "type": "Annotation",
                 "motivation": "painting",
                 "body": {
@@ -175,7 +175,7 @@
                   "width": 1024,
                   "format": "image/png"
                 },
-                "target": "https://nakamura196.github.io/ramp_data/demo/3571280/accompanying"
+                "target": "https://nakamura196.github.io/ramp_data/demo/3571280/canvas/accompanying"
               }
             ]
           }

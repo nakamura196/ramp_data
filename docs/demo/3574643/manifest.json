@@ -105,6 +105,11 @@
       }
     }
   ],
+  "summary": {
+    "ja": [
+      "この文章は、道徳と経済の関係について述べています。著者は、道徳と生産力は本来共に進むべきものであると主張していますが、歴史的に誤解が生じてきたと指摘しています。古の聖人たちは人々に道徳を説くことに重点を置きましたが、その結果、後の学者たちは道徳と実務を対立するものと誤解しました。この誤解により、学問と実務が分離し、封建時代には学問が消費階級のものとなり、生産階級には無用とされました。著者は、このような誤解を解消し、道徳と経済が共に進むべきだと訴えています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -149,6 +154,33 @@
       "id": "https://nakamura196.github.io/ramp_data/demo/3574643/canvas",
       "type": "Canvas",
       "duration": 185.07,
+      "accompanyingCanvas": {
+        "id": "https://nakamura196.github.io/ramp_data/demo/3574643/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://nakamura196.github.io/ramp_data/demo/3574643/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://nakamura196.github.io/ramp_data/demo/3574643/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://nakamura196.github.io/ramp_data/demo/3574643/3574643_summary_image.jpg",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/png"
+                },
+                "target": "https://nakamura196.github.io/ramp_data/demo/3574643/canvas/accompanying"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://nakamura196.github.io/ramp_data/demo/3574643/canvas/page",

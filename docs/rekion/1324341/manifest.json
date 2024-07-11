@@ -191,14 +191,19 @@
               "type": "Annotation",
               "label": {
                 "ja": [
-                  "WebVTT Transcript (machine-generated)"
+                  "日本語 (machine-generated)"
                 ]
               },
               "motivation": "supplementing",
               "body": {
                 "id": "https://s3ds.mdx.jp/rekion/iiif/1324341/1324341.vtt",
                 "type": "Text",
-                "format": "text/vtt"
+                "format": "text/vtt",
+                "label": {
+                  "ja": [
+                    "日本語 (machine-generated)"
+                  ]
+                }
               },
               "target": "https://s3ds.mdx.jp/rekion/iiif/1324341/canvas"
             }
