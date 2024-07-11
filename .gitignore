@@ -4,3 +4,4 @@
 # *.mp4
 docs/rekion/*/*.mp4
 docs/_rekion
+sync_output.log

@@ -1,57 +1,199 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://nakamura196.github.io/ramp_data/rekion/8275612/manifest.json",
+  "id": "https://s3ds.mdx.jp/rekion/iiif/8275612/manifest.json",
   "type": "Manifest",
   "label": {
     "ja": [
       "吹奏楽：君が代行進曲"
     ]
   },
+  "metadata": [
+    {
+      "label": {
+        "ja": [
+          "作詞・作曲・編曲・実演家"
+        ]
+      },
+      "value": {
+        "ja": [
+          "帝国海軍軍楽隊"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "製作者（レーベル）"
+        ]
+      },
+      "value": {
+        "ja": [
+          "コロムビア（戦前）"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "注記"
+        ]
+      },
+      "value": {
+        "ja": [
+          "商品番号 : 33761"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "注記"
+        ]
+      },
+      "value": {
+        "ja": [
+          "デジタル変換後ノイズ除去 : ノイズ除去なし"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "注記"
+        ]
+      },
+      "value": {
+        "ja": [
+          "吹奏楽"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "出版年月日(W3CDTF)"
+        ]
+      },
+      "value": {
+        "ja": [
+          "1941-10"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "歴史的音源ジャンル"
+        ]
+      },
+      "value": {
+        "ja": [
+          "器楽（クラシック以外）"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "歴史的音源ジャンル"
+        ]
+      },
+      "value": {
+        "ja": [
+          "合奏（吹奏楽）"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "ja": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "ja": [
+        "国立国会図書館 National Diet Library, JAPAN"
+      ]
+    }
+  },
+  "rights": "https://www.ndl.go.jp/jp/use/reproduction/index.html",
+  "provider": [
+    {
+      "id": "https://rekion.dl.ndl.go.jp/",
+      "type": "Agent",
+      "label": {
+        "ja": [
+          "国立国会図書館 National Diet Library, JAPAN"
+        ]
+      }
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://rekion.dl.ndl.go.jp/pid/8275612",
+      "type": "Text",
+      "label": {
+        "ja": [
+          "吹奏楽：君が代行進曲 - 国立国会図書館デジタルコレクション"
+        ]
+      },
+      "format": "text/html",
+      "language": [
+        "ja"
+      ]
+    }
+  ],
   "items": [
     {
-      "id": "https://nakamura196.github.io/ramp_data/rekion/8275612/canvas",
+      "id": "https://s3ds.mdx.jp/rekion/iiif/8275612/canvas",
       "type": "Canvas",
       "duration": 199.07999999999998,
       "items": [
         {
-          "id": "https://nakamura196.github.io/ramp_data/rekion/8275612/canvas/page",
+          "id": "https://s3ds.mdx.jp/rekion/iiif/8275612/canvas/page",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://nakamura196.github.io/ramp_data/rekion/8275612/canvas/page/annotation",
+              "id": "https://s3ds.mdx.jp/rekion/iiif/8275612/canvas/page/annotation",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://nakamura196.github.io/ramp_data/rekion/8275612/8275612.mp4",
+                "id": "https://s3ds.mdx.jp/rekion/iiif/8275612/8275612.mp4",
                 "type": "Sound",
                 "duration": 199.07999999999998,
                 "format": "audio/mp4"
               },
-              "target": "https://nakamura196.github.io/ramp_data/rekion/8275612/canvas"
+              "target": "https://s3ds.mdx.jp/rekion/iiif/8275612/canvas"
             }
           ]
         }
       ],
       "annotations": [
         {
-          "id": "https://nakamura196.github.io/ramp_data/rekion/8275612/canvas/page/2",
+          "id": "https://s3ds.mdx.jp/rekion/iiif/8275612/canvas/page/2",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://nakamura196.github.io/ramp_data/rekion/8275612/canvas/annotation/webvtt",
+              "id": "https://s3ds.mdx.jp/rekion/iiif/8275612/canvas/annotation/webvtt",
               "type": "Annotation",
               "label": {
                 "ja": [
-                  "WebVTT Transcript (machine-generated)"
+                  "日本語 (machine-generated)"
                 ]
               },
               "motivation": "supplementing",
               "body": {
-                "id": "https://nakamura196.github.io/ramp_data/rekion/8275612/8275612.vtt",
+                "id": "https://s3ds.mdx.jp/rekion/iiif/8275612/8275612.vtt",
                 "type": "Text",
-                "format": "text/vtt"
+                "format": "text/vtt",
+                "label": {
+                  "ja": [
+                    "日本語 (machine-generated)"
+                  ]
+                }
               },
-              "target": "https://nakamura196.github.io/ramp_data/rekion/8275612/canvas"
+              "target": "https://s3ds.mdx.jp/rekion/iiif/8275612/canvas"
             }
           ]
         }

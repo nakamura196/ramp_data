@@ -179,14 +179,40 @@
               "type": "Annotation",
               "label": {
                 "ja": [
-                  "WebVTT Transcript (machine-generated)"
+                  "日本語 (machine-generated)"
                 ]
               },
               "motivation": "supplementing",
               "body": {
                 "id": "https://nakamura196.github.io/ramp_data/demo/3574643/3574643.vtt",
                 "type": "Text",
-                "format": "text/vtt"
+                "format": "text/vtt",
+                "label": {
+                  "ja": [
+                    "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://nakamura196.github.io/ramp_data/demo/3574643/canvas"
+            },
+            {
+              "id": "https://nakamura196.github.io/ramp_data/demo/3574643/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "ja": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://nakamura196.github.io/ramp_data/demo/3574643/3574643_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "ja": [
+                    "English (machine-generated)"
+                  ]
+                }
               },
               "target": "https://nakamura196.github.io/ramp_data/demo/3574643/canvas"
             }
