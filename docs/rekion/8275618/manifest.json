@@ -129,6 +129,11 @@
       }
     }
   ],
+  "summary": {
+    "ja": [
+      "内容は非常に断片的で、具体的な情報が少ないため、要約が難しいですが、以下のようにまとめることができます：\n\nオンライン映画館「根岸 alto」では、キッズ向けやイケメン俳優が出演する作品があり、ボーカロイドを使用した音楽や映像も提供されています。特定の作曲家や編曲家が関与しており、戦車に関連する映像が多く含まれています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -173,6 +178,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/8275618/canvas",
       "type": "Canvas",
       "duration": 180.08,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8275618/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8275618/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8275618/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8275618/8275618_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/rekion/8275618/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/8275618/canvas/page",

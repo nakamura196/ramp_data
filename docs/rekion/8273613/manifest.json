@@ -93,6 +93,11 @@
       }
     }
   ],
+  "summary": {
+    "ja": [
+      "メジカ選手、ウトウ選手、イシャラダ選手がそれぞれターンを行い、プラダ選手が1450mのターンを経て、1500mで優勝しました。プラダ選手は最後の数メートルを全力で走り切り、ゴールしました。メジカ選手が2位、ウトウ選手が3位、石原選手が4位でゴールしました。観客はプラダ選手の優勝を祝福し、日本はタイトルを獲得しました。プラダ選手は被災地へ引き上げる予定です。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -137,6 +142,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/8273613/canvas",
       "type": "Canvas",
       "duration": 186.08,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8273613/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8273613/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8273613/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8273613/8273613_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/rekion/8273613/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/8273613/canvas/page",

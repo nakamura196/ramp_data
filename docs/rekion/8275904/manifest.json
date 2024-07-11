@@ -93,6 +93,11 @@
       }
     }
   ],
+  "summary": {
+    "ja": [
+      "要約：話の内容は、ある場所での出来事を描写しています。登場人物たちは、踊りの練習をしているようで、特に「お花ちゃん」という子供が注目されています。お花ちゃんが大きな芋を持ってきたことや、後ろのおじさんがその芋を食べていることが話題になっています。全体的に、練習中の出来事や会話が混ざり合い、少し混乱した状況が描かれています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -137,6 +142,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/8275904/canvas",
       "type": "Canvas",
       "duration": 192.08,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8275904/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8275904/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8275904/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8275904/8275904_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/rekion/8275904/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/8275904/canvas/page",
@@ -178,6 +210,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/8275904/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8275904/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "ja": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8275904/8275904_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "ja": [
+                    "English (machine-generated)"
                   ]
                 }
               },

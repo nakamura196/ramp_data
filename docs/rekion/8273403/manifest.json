@@ -129,6 +129,11 @@
       }
     }
   ],
+  "summary": {
+    "ja": [
+      "この文章は「のざき参り」という行事について述べています。のざき参りは館舟（かんしゅう）で行くことが推奨されており、周囲には花が咲き乱れています。東京からも訪れる価値があるとされています。乙女たちは恋に悩み、後悔や休暇を過ごしながらも、春の雨の中でのざき参りを楽しんでいます。観音様が祀られている場所で、参拝するか歌うかを迷いながら、滝や森の美しい風景を楽しむことができます。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -173,6 +178,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/8273403/canvas",
       "type": "Canvas",
       "duration": 170.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8273403/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8273403/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8273403/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8273403/8273403_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/rekion/8273403/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/8273403/canvas/page",

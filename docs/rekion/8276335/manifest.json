@@ -81,6 +81,11 @@
       }
     }
   ],
+  "summary": {
+    "ja": [
+      "この文章は、ある人物が母親を病院に残して一人で過ごす様子を描写しています。夏の季節に、母親の病気を心配しながらも、自然の風景や日常の出来事に触れつつ、孤独感や感情の揺れを感じています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -125,6 +130,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/8276335/canvas",
       "type": "Canvas",
       "duration": 208.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8276335/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8276335/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8276335/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8276335/8276335_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/rekion/8276335/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/8276335/canvas/page",
@@ -166,6 +198,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/8276335/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8276335/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "ja": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8276335/8276335_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "ja": [
+                    "English (machine-generated)"
                   ]
                 }
               },

@@ -93,6 +93,11 @@
       }
     }
   ],
+  "summary": {
+    "ja": [
+      "この文章は詩的で抽象的な内容を持っていますが、要約すると以下のようになります：\n\n「霞堀漢方の物語では、猫が騒がしく鳴き、夜の弓や獅子が登場します。波に揺られながら海を渡り、影が泳ぎ、敵と戦う場面が描かれています。銀の弓が重要な役割を果たし、船や壁との戦いが繰り広げられます。」\n\nこの要約は、元の文章の詩的な要素を簡潔にまとめたものです。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -137,6 +142,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/8275954/canvas",
       "type": "Canvas",
       "duration": 169.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8275954/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8275954/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8275954/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8275954/8275954_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/rekion/8275954/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/8275954/canvas/page",
@@ -178,6 +210,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/8275954/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8275954/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "ja": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8275954/8275954_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "ja": [
+                    "English (machine-generated)"
                   ]
                 }
               },

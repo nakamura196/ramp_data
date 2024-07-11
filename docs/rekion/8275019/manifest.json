@@ -165,6 +165,11 @@
       }
     }
   ],
+  "summary": {
+    "ja": [
+      "この文章は、カナダをテーマにした歌詞の一部です。内容は、カナダの美しい風景や春の訪れを喜び、踊りや手振りでその喜びを表現する様子が描かれています。歌詞の中では「カナダワ オンドヤトサトサッサ」というフレーズが繰り返され、カナダの自然や季節の変化を楽しむ気持ちが強調されています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -209,6 +214,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/8275019/canvas",
       "type": "Canvas",
       "duration": 211.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8275019/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8275019/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8275019/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8275019/8275019_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/rekion/8275019/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/8275019/canvas/page",

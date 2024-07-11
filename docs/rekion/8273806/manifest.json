@@ -81,6 +81,11 @@
       }
     }
   ],
+  "summary": {
+    "ja": [
+      "この文章は、強敵に対する覚悟と祖国の歴史を守る決意を述べています。著者は、世界平和と人類の安全を重視しつつも、敵の挑戦を受けて戦わざるを得ない状況にあると説明しています。敵は物資の豊富さを誇り、世界制覇を目指しているため、これを打ち破るためには早急な行動と建設的努力が必要だと強調しています。最終的に、著者は日本の勝利を確信し、困難を克服して大東亜建設の栄誉を達成することを目指しています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -125,6 +130,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/8273806/canvas",
       "type": "Canvas",
       "duration": 156.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8273806/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8273806/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8273806/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8273806/8273806_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/rekion/8273806/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/8273806/canvas/page",

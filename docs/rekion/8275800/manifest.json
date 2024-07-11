@@ -105,6 +105,11 @@
       }
     }
   ],
+  "summary": {
+    "ja": [
+      "防衛軍のB-17D機が主に高度1000メートルで活動しているが、一部の機体は高度3000メートルや5000メートルでも飛行している。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -149,6 +154,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/8275800/canvas",
       "type": "Canvas",
       "duration": 208.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8275800/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8275800/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8275800/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8275800/8275800_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/rekion/8275800/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/8275800/canvas/page",
@@ -190,6 +222,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/8275800/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8275800/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "ja": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8275800/8275800_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "ja": [
+                    "English (machine-generated)"
                   ]
                 }
               },

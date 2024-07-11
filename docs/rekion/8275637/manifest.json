@@ -129,6 +129,11 @@
       }
     }
   ],
+  "summary": {
+    "ja": [
+      "この文章は非常に抽象的で、具体的な意味を捉えるのが難しいです。しかし、全体的に見ると、感情や思い出、心の動きについて述べているように感じられます。特に、命や愛、心の香り、忘れられない思い出などがテーマとして浮かび上がります。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -173,6 +178,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/8275637/canvas",
       "type": "Canvas",
       "duration": 193.08,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8275637/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8275637/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8275637/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8275637/8275637_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/rekion/8275637/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/8275637/canvas/page",
@@ -214,6 +246,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/8275637/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8275637/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "ja": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8275637/8275637_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "ja": [
+                    "English (machine-generated)"
                   ]
                 }
               },

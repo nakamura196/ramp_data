@@ -81,6 +81,11 @@
       }
     }
   ],
+  "summary": {
+    "ja": [
+      "要約：\n戦前の状況について述べられています。帝国陸海軍は決死の戦いを続けており、東亜の平和を目指して努力してきましたが、最終的に交渉は決裂しました。政府は米国との交渉に尽力しましたが、米国は譲歩せず、帝国に対して過酷な要求を突きつけました。帝国は平和的解決を目指しましたが、最終的に自尊自衛のために戦う決意を固めました。国民も一丸となって決死の覚悟で戦うことを誓っています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -125,6 +130,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/8273805/canvas",
       "type": "Canvas",
       "duration": 214.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8273805/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8273805/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8273805/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8273805/8273805_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/rekion/8273805/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/8273805/canvas/page",

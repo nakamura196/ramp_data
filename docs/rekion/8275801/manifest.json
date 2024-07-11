@@ -105,6 +105,11 @@
       }
     }
   ],
+  "summary": {
+    "ja": [
+      "ボーイング B-17D 重爆機は「空の要塞」として知られるアメリカの重爆機で、南方や北方の地域で活動しています。この機体はアメリカが本土空襲に使用する重要な飛行機の一つであり、その性能は非常に優れています。防空上、この機体の爆音や性能を詳しく知ることが重要です。\n\n録音されたB-17Dの爆音は、高度1000メートル、3000メートル、5000メートルで異なる特徴を持ちます。1000メートルでは低周波音とわずかな高周波音が聞こえ、3000メートルでは高周波音が減少し、低周波の断続音が強調されます。5000メートルでは一つの低周波音に近くなり、余韻のある唸りが特徴です。\n\nこの録音を通じて、各人がB-17Dの特徴音を把握し、防空戦闘に役立てることが期待されています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -149,6 +154,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/8275801/canvas",
       "type": "Canvas",
       "duration": 199.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8275801/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8275801/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8275801/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8275801/8275801_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/rekion/8275801/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/8275801/canvas/page",
@@ -190,6 +222,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/8275801/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8275801/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "ja": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8275801/8275801_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "ja": [
+                    "English (machine-generated)"
                   ]
                 }
               },

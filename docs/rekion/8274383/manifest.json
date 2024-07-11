@@ -117,6 +117,11 @@
       }
     }
   ],
+  "summary": {
+    "ja": [
+      "この文章は、詩的な表現を用いて、台湾と西藏（チベット）の風景や人々の心のつながりを描写しています。特に「一路薛姬」というフレーズが繰り返され、風景や人々の心の一体感が強調されています。また、「心合一」という表現が何度も使われ、心の統一や調和がテーマとなっています。最後に、心の無い草にも哀れみがあるという感慨が述べられています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -161,6 +166,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/8274383/canvas",
       "type": "Canvas",
       "duration": 184.08,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8274383/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8274383/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8274383/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8274383/8274383_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/rekion/8274383/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/8274383/canvas/page",

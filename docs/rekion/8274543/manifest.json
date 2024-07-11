@@ -93,6 +93,11 @@
       }
     }
   ],
+  "summary": {
+    "ja": [
+      "この文章は、いくつかの詩的なフレーズや表現が含まれていますが、全体としては一貫したストーリーやテーマが明確ではありません。以下に要約を試みます：\n\n秋の夜、月明かりの中での記憶や、千代さんと須賀子の不死の眠りについての言及があります。また、同じ家に対する憐れみや、草間での力強い対抗、心を静めて言葉を聞くことの重要性が述べられています。桜の花が散る春の小さな庭や、君主の臨終の際の様子、御肉と死の担当についても触れられています。さらに、与えられた心や逃げること、時間のなさ、白旗からの忍びの者、陰のように陛に沿うこと、新しい帝と民についての伺い、おさおさゆどんなりがたし（おそらく「容易ではない」）という表現が含まれています。\n\n全体として、詩的で断片的な表現が多く、具体的なストーリーやテーマを特定するのは難しいです。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -137,6 +142,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/8274543/canvas",
       "type": "Canvas",
       "duration": 204.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8274543/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8274543/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8274543/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8274543/8274543_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/rekion/8274543/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/8274543/canvas/page",

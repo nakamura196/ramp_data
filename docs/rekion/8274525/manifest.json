@@ -117,6 +117,11 @@
       }
     }
   ],
+  "summary": {
+    "ja": [
+      "この文章は、戦艦や軍艦に対する憧れや敬意を表現した詩のようです。横須賀の風景や戦艦娘（戦艦を擬人化したキャラクター）への憧れ、そしてその強さや勇敢さが描かれています。「ドンと来い」というフレーズが繰り返され、波の花や風景の中での勇ましい姿が強調されています。全体として、戦艦や軍艦の力強さと美しさを讃える内容です。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -161,6 +166,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/8274525/canvas",
       "type": "Canvas",
       "duration": 208.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8274525/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8274525/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8274525/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8274525/8274525_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/rekion/8274525/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/8274525/canvas/page",

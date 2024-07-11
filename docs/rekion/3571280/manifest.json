@@ -105,6 +105,11 @@
       }
     }
   ],
+  "summary": {
+    "ja": [
+      "日本語のアクセントは、言葉の声の上げ下げを指しますが、同じ言葉でも場合によって変わることがあります。例えば、「そうですか」のように、終わりの部分が上がったり下がったりすることがあります。これを「言葉上司」と呼びます。言葉上司には二つの種類があります。一つは文の切れ目での上げ下げ、もう一つはアクセントに従って声の高低を変えるものです。声を高くすると自然に強くなり、話す人の感情が反映されます。例えば、「おやおや」という言葉は、その時の感情によって「おやおや」や「おやおや」と変わりますが、特定のアクセントは決まっていません。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -149,6 +154,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/3571280/canvas",
       "type": "Canvas",
       "duration": 156.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/3571280/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/3571280/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/3571280/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/3571280/3571280_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/rekion/3571280/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/3571280/canvas/page",

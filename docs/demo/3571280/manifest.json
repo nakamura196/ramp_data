@@ -173,9 +173,9 @@
                   "type": "Image",
                   "height": 1024,
                   "width": 1024,
-                  "format": "image/png"
+                  "format": "image/jpeg"
                 },
-                "target": "https://nakamura196.github.io/ramp_data/demo/3571280/canvas/accompanying"
+                "target": "https://nakamura196.github.io/ramp_data/demo/3571280/canvas/accompanying/annotation/page"
               }
             ]
           }

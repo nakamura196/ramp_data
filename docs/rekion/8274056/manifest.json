@@ -57,6 +57,11 @@
       }
     }
   ],
+  "summary": {
+    "ja": [
+      "この文章は非常に断片的で、意味が取りにくい部分が多いですが、要約すると以下のようになります：\n\n日本の勇気や育児、経済的な問題について述べられており、困難な状況や不満が表現されています。具体的には、食事や酒、育児、経済的な困難、社会的な孤立感などが描かれています。また、戦車や電話などの具体的なイメージも登場し、混乱や不安が強調されています。最後に、視聴者への感謝の言葉で締めくくられています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -101,6 +106,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/8274056/canvas",
       "type": "Canvas",
       "duration": 180.08,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8274056/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8274056/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8274056/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8274056/8274056_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/rekion/8274056/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/8274056/canvas/page",
