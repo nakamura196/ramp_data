@@ -141,6 +141,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は非常に難解で、具体的な内容を把握するのが困難です。しかし、要約すると以下のような内容が含まれているようです：\n\n- 蕎麦の香りや織物についての言及。\n- ある女性（むすめ）に関する話。\n- その女性が若い侍女であること。\n- 彼女の寝姿や枕についての描写。\n- 何かしらの手紙や伝言が関係している。\n- 文章全体にわたる感情や心情の表現。\n\nこの文章は古典的な日本語で書かれている可能性があり、現代の日本語に翻訳するのが難しい部分があります。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -185,6 +190,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/1328910/canvas",
       "type": "Canvas",
       "duration": 159.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/1328910/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/1328910/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/1328910/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/1328910/1328910_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/1328910/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/1328910/canvas/page",

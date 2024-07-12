@@ -129,6 +129,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は非常に難解で、古典的な言い回しや独特の表現が多く含まれていますが、要約すると以下のようになります：\n\n「春徳様に会ったら、相手にも自分を好きになってもらおうと考えています。天の坊主の話を持ち出しても気にしないでください。腹が立つのは当然ですが、もう少しの間、私に任せてください。夫婦として長い年月を過ごしてきた中で、これが私の唯一の願いです。どうか聞き入れてください。かわいい娘のために、無理やりでもお願いしたいのです。」\n\nこの要約は、元の文章の意図をできるだけ忠実に反映するよう努めましたが、元の文章の複雑さや曖昧さを完全に再現することは難しいです。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -173,6 +178,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/1329004/canvas",
       "type": "Canvas",
       "duration": 210.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/1329004/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/1329004/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/1329004/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/1329004/1329004_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/1329004/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/1329004/canvas/page",

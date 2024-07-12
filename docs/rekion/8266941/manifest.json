@@ -119,27 +119,27 @@
       "type": "Canvas",
       "duration": 195.08,
       "accompanyingCanvas": {
-        "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8266941/canvas/accompanying",
+        "id": "https://s3ds.mdx.jp/rekion/iiif/8266941/canvas/accompanying",
         "type": "Canvas",
         "height": 1024,
         "width": 1024,
         "items": [
           {
-            "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8266941/canvas/accompanying/annotation/page",
+            "id": "https://s3ds.mdx.jp/rekion/iiif/8266941/canvas/accompanying/annotation/page",
             "type": "AnnotationPage",
             "items": [
               {
-                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8266941/canvas/accompanying/annotation/image",
+                "id": "https://s3ds.mdx.jp/rekion/iiif/8266941/canvas/accompanying/annotation/image",
                 "type": "Annotation",
                 "motivation": "painting",
                 "body": {
-                  "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8266941/8266941_summary_image.webp",
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/8266941/8266941_summary_image.webp",
                   "type": "Image",
                   "height": 1024,
                   "width": 1024,
                   "format": "image/jpeg"
                 },
-                "target": "https://s3ds.mdx.jp/rekion/iiif/rekion/8266941/canvas/accompanying/annotation/page"
+                "target": "https://s3ds.mdx.jp/rekion/iiif/8266941/canvas/accompanying/annotation/page"
               }
             ]
           }

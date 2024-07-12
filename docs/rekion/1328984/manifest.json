@@ -153,6 +153,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は、繰り返しや詩的な表現が多く含まれており、具体的な意味を捉えるのが難しいです。要約すると、以下のようになります：\n\n「寝坊せずに静かな小犬と過ごし、回る角には小野花が香り、月が泣いたかのような情景が描かれています。弟にする武蔵が立ちすぎて野次が飛び、晴れた日に彼女の恵みを感じることができます。江戸の名所をまだ見ていないが、風が吹き添う場所には花が咲いています。神の目に映る天安かつらを着て踊る姿が見事です。」\n\nこの要約は、元の文章の詩的な要素を保ちながら、主要なイメージやテーマを簡潔にまとめたものです。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -197,6 +202,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/1328984/canvas",
       "type": "Canvas",
       "duration": 176.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/1328984/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/1328984/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/1328984/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/1328984/1328984_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/1328984/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/1328984/canvas/page",
