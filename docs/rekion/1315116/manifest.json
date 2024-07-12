@@ -129,6 +129,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は非常に詩的で抽象的な表現が多く含まれていますが、要約すると以下のようになります：\n\n「懐かしい思い出や心の奥にある感情が煙のように隠れている。愛と恋しさが交錯し、花のような存在に心が引かれていく。」\n\n具体的な意味や文脈は不明ですが、全体的に感情や思い出、愛についての表現が中心となっています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -173,6 +178,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/1315116/canvas",
       "type": "Canvas",
       "duration": 163.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1315116/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1315116/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1315116/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1315116/1315116_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/rekion/1315116/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/1315116/canvas/page",

@@ -129,6 +129,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は、愛に関する複雑な感情と関係性を表現しています。主なポイントは以下の通りです：\n\n1. 愛を求める人々がいる。\n2. 愛は心の中に存在する。\n3. 相手が自分を愛していないなら、自分も愛さない。\n4. もし相手が自分を愛しているなら、自分も愛する。\n5. 愛は人生を平和で満たす。\n6. 愛は詩のようなものであり、人生の定義を知ることができる。\n7. 相手の大きな顔を愛している。\n\n全体として、愛の相互関係とその影響について述べています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -173,6 +178,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/1315760/canvas",
       "type": "Canvas",
       "duration": 162.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1315760/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1315760/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1315760/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1315760/1315760_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/rekion/1315760/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/1315760/canvas/page",

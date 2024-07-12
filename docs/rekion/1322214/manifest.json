@@ -105,6 +105,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は非常に断片的で意味が取りにくいですが、要約すると以下のようになります：\n\n満塚交差点付近にある庭園や住居についての話で、高齢者や子どもたちが集まる場所のようです。具体的な内容は不明ですが、地域の人々が集まり、交流する場であることが示唆されています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -149,6 +154,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/1322214/canvas",
       "type": "Canvas",
       "duration": 190.08,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1322214/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1322214/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1322214/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1322214/1322214_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/rekion/1322214/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/1322214/canvas/page",

@@ -69,6 +69,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "要約：私は山本恒子と申します。この場で受験に関する答申を行うことになり、光栄に感じています。松平大使をはじめとする関係者に感謝し、9月20日に東京を出発した際、多くの受賞者が困難に直面したことを知りました。被災された方々にお見舞いを申し上げ、日本国民が困難に打ち勝つ精神を持ち続けることを祈ります。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -113,6 +118,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/1325898/canvas",
       "type": "Canvas",
       "duration": 190.08,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1325898/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1325898/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1325898/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1325898/1325898_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/rekion/1325898/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/1325898/canvas/page",

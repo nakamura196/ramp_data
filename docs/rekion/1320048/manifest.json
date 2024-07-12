@@ -105,6 +105,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "内容を要約します。\n\nこの文章は、時刻の表現方法について説明しています。1から12までの数を挙げ、英語での時刻の言い方（1 o'clockから12 o'clockまで）を示しています。また、「What time is it now?」という時刻の尋ね方とその答え方（It's 1 o'clockからIt's 12 o'clockまで）を紹介しています。さらに、30分過ぎ（half past）や15分過ぎ（a quarter past）、15分前（a quarter to）の表現方法についても説明しています。最後に、時刻に関することわざとして「Time flies like an arrow（光陰矢のごとし）」と「Time and tide tarry for no man（時はいかなる人のためにも、その歩みをとどむることなし）」を紹介しています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -149,6 +154,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/1320048/canvas",
       "type": "Canvas",
       "duration": 180.08,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1320048/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1320048/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1320048/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1320048/1320048_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/rekion/1320048/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/1320048/canvas/page",

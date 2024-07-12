@@ -93,6 +93,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "要約：犬貝内閣は金輸出債金署を断行し、一部財閥と結託して暴利を得る機会を与えた結果、物価の急騰と国民生活の困難を招いた。この行動は明治維新の改革に逆行し、国民思想の悪化を促進するものである。共産党の革命運動に対しても好機を与え、国家の危機を招く恐れがある。日本は日本人のものであり、犬貝内閣と戦い、正しい日本を建設するために協力を呼びかけている。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -137,6 +142,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/1315269/canvas",
       "type": "Canvas",
       "duration": 160.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1315269/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1315269/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1315269/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1315269/1315269_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/rekion/1315269/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/1315269/canvas/page",

@@ -105,6 +105,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "内容を要約すると、英雄が抱く恨みについて述べられています。篠原国漢が緑光に水を使うことや、膝を一丁さることなどが描かれていますが、最終的には海戦での英雄の恨みが強調され、信徒たちがその恨みを理解できない様子が表現されています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -149,6 +154,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/1317303/canvas",
       "type": "Canvas",
       "duration": 86.08,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1317303/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1317303/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1317303/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1317303/1317303_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/rekion/1317303/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/1317303/canvas/page",

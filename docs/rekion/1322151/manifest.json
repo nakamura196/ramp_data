@@ -129,6 +129,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この歌詞は、山下達郎が作詞・作曲・編曲を手掛けた「福島温度」という楽曲の一部です。歌詞の内容は、福島の四季折々の風景や風の吹く様子を描写し、地域の栄えや風物詩を讃えています。春や冬の風景、競馬の盛り上がりなどが描かれ、福島の自然や文化を賛美する内容となっています。繰り返される「ラウンショウ フシヨガミ水のあふくも ラントラントヨ」というフレーズが特徴的です。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -173,6 +178,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/1322151/canvas",
       "type": "Canvas",
       "duration": 200.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1322151/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1322151/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1322151/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1322151/1322151_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/rekion/1322151/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/1322151/canvas/page",

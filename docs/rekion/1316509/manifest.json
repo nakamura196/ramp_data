@@ -129,6 +129,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "内容を要約すると、以下のようになります：\n\n「プラッシュタイム」という作品において、中島大輔が作詞・作曲を担当し、亜美芳が編曲を行っています。イラストは主に中島大輔が手掛けていますが、一部に川島大輔や松浩窪の名前も見られます。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -173,6 +178,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/1316509/canvas",
       "type": "Canvas",
       "duration": 120.08,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1316509/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1316509/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1316509/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1316509/1316509_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/rekion/1316509/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/1316509/canvas/page",

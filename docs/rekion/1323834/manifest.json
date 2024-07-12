@@ -165,6 +165,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は、戦争における決意と覚悟を歌った詩です。内容は、敵を倒すために進む官軍の兵士たちの心情を描いています。彼らは、反逆者を許さず、死ぬ覚悟で戦いに挑むことを誓っています。敵が滅ぶまで進み続け、名誉を守るために命を捧げる覚悟を持っていることが強調されています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -209,6 +214,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/1323834/canvas",
       "type": "Canvas",
       "duration": 186.08,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1323834/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1323834/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1323834/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1323834/1323834_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/rekion/1323834/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/1323834/canvas/page",

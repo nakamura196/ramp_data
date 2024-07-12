@@ -105,6 +105,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は、自然の中で一日を過ごすことの美しさと静けさを描写しています。具体的には、草の手入れをし、昼寝をして目覚めると夕暮れになっている様子が描かれています。自然の中での生活は、心を落ち着け、楽しむことができると述べられています。全体として、自然と調和した生活の素晴らしさを強調しています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -149,6 +154,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/1317379/canvas",
       "type": "Canvas",
       "duration": 204.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1317379/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1317379/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1317379/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1317379/1317379_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/rekion/1317379/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/1317379/canvas/page",

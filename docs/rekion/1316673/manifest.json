@@ -129,6 +129,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この詩は、風船のように軽やかに漂う心情と、夜の静けさの中で愛しい人を守りたいという願いを描いています。困難を乗り越えた後の安らぎと、星を見つめる孤独感が表現されており、最後にはマリアに守られながら愛しい人が安らかに眠ることを祈っています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -173,6 +178,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/1316673/canvas",
       "type": "Canvas",
       "duration": 178.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1316673/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1316673/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1316673/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1316673/1316673_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/rekion/1316673/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/1316673/canvas/page",

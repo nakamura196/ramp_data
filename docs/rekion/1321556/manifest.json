@@ -105,6 +105,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は、龍馬の命を救うことが未来に大きな影響を与えるという内容を含んでいます。春の日の儚さや、秋風が吹く京の情景が描かれ、国家のために身を守る重要性が強調されています。また、龍馬の妻が不在であることや、友人との心の交流が語られています。最後に、琵琶の曲が流れる中で感慨深い思いが述べられ、視聴者への感謝の言葉で締めくくられています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -149,6 +154,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/1321556/canvas",
       "type": "Canvas",
       "duration": 192.08,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1321556/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1321556/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1321556/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1321556/1321556_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/rekion/1321556/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/1321556/canvas/page",

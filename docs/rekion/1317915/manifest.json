@@ -117,6 +117,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は非常に難解で、具体的な意味を把握するのが難しいですが、以下のように要約できます。\n\n山下達郎が作詞・作曲・編曲を担当した作品について述べています。内容は、戦争や戦士たちの状況、そして彼らの献身や苦難を描写しているようです。また、時間の経過や平等、宗教的な要素も含まれているようです。\n\n要約：\n山下達郎が作詞・作曲・編曲を担当した作品は、戦争や戦士たちの苦難と献身、時間の経過、平等や宗教的な要素を描写している。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -161,6 +166,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/1317915/canvas",
       "type": "Canvas",
       "duration": 183.08,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1317915/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1317915/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1317915/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1317915/1317915_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/rekion/1317915/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/1317915/canvas/page",

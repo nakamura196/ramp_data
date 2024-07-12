@@ -141,6 +141,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は、ある人物が春の頃に家にいる女性に対して感じた感情や出来事について述べています。具体的には、色とりどりの草の中で、その女性がいたずら者でありながらも愛らしいと感じたこと、そしてその女性の浅はかな心から生じた行動について触れています。また、父親や川の存在も言及されていますが、詳細は不明です。全体的に、感情や出来事が混ざり合った複雑な心情が表現されています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -185,6 +190,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/1317799/canvas",
       "type": "Canvas",
       "duration": 182.08,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1317799/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1317799/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1317799/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1317799/1317799_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/rekion/1317799/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/1317799/canvas/page",

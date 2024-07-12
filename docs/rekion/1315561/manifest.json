@@ -141,6 +141,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "内容を要約します。\n\nある人物が、大切な皿をわざと打ち割ったことについて説明しています。御用人様の指示に従い、皿を打ち割った理由は、殿様の心を試すためでした。具体的には、殿様が皿を大事にするか、土地を大事にするかを見極めるために行った行動です。この行動により、殿様の真意を確かめようとしたのです。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -185,6 +190,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/1315561/canvas",
       "type": "Canvas",
       "duration": 186.08,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1315561/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1315561/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1315561/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1315561/1315561_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/rekion/1315561/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/1315561/canvas/page",

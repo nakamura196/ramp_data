@@ -93,6 +93,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "このたびの選挙において、我々は自分たちの主張を述べ、反対党派の主張と比較し、公平な審判を国民に求める。主張は大きく分けて応急の問題と根本の問題の二つがある。応急の問題としては、満州事変の解決と国内の不景気の回復が挙げられる。根本の問題としては、中国との国際関係の改善と日本の産業振興・統制、政治組織の改革、行政・財政の立て直しが必要である。これらの問題に対して、政府だけでなく民間全体で大革新を行う必要があると主張している。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -137,6 +142,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/1316931/canvas",
       "type": "Canvas",
       "duration": 194.08,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1316931/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1316931/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1316931/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1316931/1316931_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/rekion/1316931/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/1316931/canvas/page",

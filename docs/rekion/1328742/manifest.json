@@ -153,6 +153,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は非常に断片的で意味が取りにくいですが、要約すると以下のようになります：\n\nウォルトギンという場所で奇跡が起きることを期待している様子が描かれています。メモリーや感触、風景などが断片的に描写されており、特に沖の大木が波に浮かんで風に揺れている情景が印象的です。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -197,6 +202,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/1328742/canvas",
       "type": "Canvas",
       "duration": 186.08,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1328742/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1328742/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1328742/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1328742/1328742_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/rekion/1328742/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/1328742/canvas/page",

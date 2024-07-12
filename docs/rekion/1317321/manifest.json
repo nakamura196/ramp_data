@@ -93,6 +93,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は、ある人物が手紙を読んでいる場面を描いています。手紙の内容を理解しようとするが、難解な表現や冗談が混じっており、なかなか理解できない様子が描かれています。手紙には、洋服を借りることやクリーニングの依頼が書かれており、最終的にはその内容を理解するために、手紙の使いの人と一緒におじさんの家に行くことを提案します。全体的に、コミカルなやり取りが続く中で、手紙の内容を理解しようとする様子が描かれています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -137,6 +142,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/1317321/canvas",
       "type": "Canvas",
       "duration": 196.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1317321/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1317321/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1317321/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1317321/1317321_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/rekion/1317321/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/1317321/canvas/page",

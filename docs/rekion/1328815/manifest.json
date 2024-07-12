@@ -141,6 +141,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この内容は、アニメ「エンドレスインドラム」に関連する詩的な表現です。詩の中では、同じ思いを共有する「鳴く虫」たちが登場し、無理を感じながらも共に過ごす様子が描かれています。全体として、共感や連帯感をテーマにしているようです。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -185,6 +190,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/1328815/canvas",
       "type": "Canvas",
       "duration": 188.08,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1328815/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1328815/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1328815/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1328815/1328815_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/rekion/1328815/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/1328815/canvas/page",

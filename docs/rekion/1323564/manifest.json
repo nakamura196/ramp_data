@@ -153,6 +153,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は非常に難解で、文法的にも不自然な部分が多いため、正確な要約が難しいです。しかし、以下のように解釈できるかもしれません：\n\n「ある女性が覚悟を決めているが、他人の手にかかることを避けたいと考えている。彼女は困難な状況に直面しており、その中で何かを見ている。彼女の状況は複雑で、他人に説明するのが難しい。彼女は間違いを犯すことを恐れているが、何か重要な情報を持っている。」\n\nこの要約は、元の文章の意味を完全に捉えているわけではないかもしれませんが、主要なポイントを抽出しようと試みたものです。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -197,6 +202,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/1323564/canvas",
       "type": "Canvas",
       "duration": 186.08,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1323564/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1323564/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1323564/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1323564/1323564_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/rekion/1323564/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/1323564/canvas/page",

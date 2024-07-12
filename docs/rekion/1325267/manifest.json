@@ -141,6 +141,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は、山下達郎が作詞・作曲・編曲を手掛けた楽曲の一部のようです。内容は、緑の大空を背景に、王子の姿を称賛し、文化や自然の美しさを歌い上げています。王子の神聖さや使命感、そしてその存在がもたらす喜びが描かれています。また、摩天楼や嵐などのイメージを通じて、王子の若さや強さ、そして孤独感も表現されています。全体として、王子の偉大さとその役割の重要性を讃える内容です。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -185,6 +190,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/1325267/canvas",
       "type": "Canvas",
       "duration": 188.08,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1325267/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1325267/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1325267/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1325267/1325267_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/rekion/1325267/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/1325267/canvas/page",

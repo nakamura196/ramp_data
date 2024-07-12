@@ -93,6 +93,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "選挙は立憲政体において最も重要な活動であり、投票結果によって内閣の存続や国の方向性が決まる。解散には国家本位と政党本位のものがあり、今回の解散は政党本位であると批判されている。現在の内閣は少数でありながら重要な政策を進めてきたため、解散の必要性はないとされる。議会で反対党が実際に政府の政策を妨害するかどうかを確認せずに解散を決定するのは誤りであり、まずは議会での実際の行動を見極めるべきだと主張している。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -137,6 +142,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/1316312/canvas",
       "type": "Canvas",
       "duration": 224.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1316312/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1316312/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1316312/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1316312/1316312_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/rekion/1316312/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/1316312/canvas/page",

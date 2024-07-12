@@ -105,6 +105,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "不規則動詞（irregular verbs）は、第1の形に因を添えて第4の形を作る点は規則動詞と同じですが、第2と第3の形の作り方が異なる動詞です。よく使われる不規則動詞を以下に分類して示します。第4の形は第1の形に因を添えるだけなので、第1、第2、第3の形のみを挙げます。\n\n1. 3つの形がそれぞれ異なる動詞の例：\n- be, was/were, been\n- bear, bore, born\n- tear, tore, torn\n- wear, wore, worn\n- begin, began, begun\n- drink, drank, drunk\n- sink, sank, sunk\n- ring, rang, rung\n- spring, sprang, sprung\n- sing, sang, sung\n- swim, swam, swum\n- bite, bit, bitten\n- hide, hid, hidden\n- blow, blew, blown\n- grow, grew, grown\n- know, knew, known\n- throw, threw, thrown\n- break, broke, broken\n- choose, chose, chosen\n- do, did, done\n- draw, drew, drawn\n- drive, drove, driven\n- ride, rode, ridden\n- rise, rose, risen\n- write, wrote, written\n- eat, ate, eaten\n- fall, fell, fallen\n- fly, flew, flown\n- forget, forgot, forgotten\n- bid, bade, bidden\n- freeze, froze, frozen\n- speak, spoke, spoken\n- steal, stole, stolen\n- weave, wove, woven\n- give, gave, given\n- go, went, gone\n- lie, lay, lain\n- see, saw, seen\n- shake, shook, shaken\n- take, took, taken\n- slay, slew, slain\n\nご視聴ありがとうございました。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -149,6 +154,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/1320054/canvas",
       "type": "Canvas",
       "duration": 174.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1320054/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1320054/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1320054/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1320054/1320054_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/rekion/1320054/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/1320054/canvas/page",

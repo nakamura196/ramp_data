@@ -117,6 +117,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は、物語の一部のようです。内容は以下の通りです：\n\nある場所で「鞍音」が響き渡り、その後も「鞍音」が残る。登場人物たちは、何かを探し求めている様子が描かれています。特に「かかさま」という人物がどこかへ行ってしまい、他の登場人物たちはその行方を心配しています。物語の中で、いくつかの対立や葛藤が描かれ、特に「ひめ」という女性を巡る争いが中心となっています。最終的に、登場人物たちは「ひめ」を渡すかどうかで対立し、緊張が高まっている様子が描かれています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -161,6 +166,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/1318174/canvas",
       "type": "Canvas",
       "duration": 159.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1318174/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1318174/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1318174/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1318174/1318174_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/rekion/1318174/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/1318174/canvas/page",

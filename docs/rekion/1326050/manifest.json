@@ -81,6 +81,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この内容は、商人が商品を売る場面を描いています。商人は商品を売るために声を張り上げ、周囲の人々に呼びかけています。彼は商品を安く提供し、次々と売り切れていきます。しかし、商人の助手が「上を見ろ」と言われた際に空を見上げてしまい、商人に叱られます。商人は助手に商品の価格設定と利益の重要性を教え、再度売りに行かせます。助手は再び商品を持って行き、今度は正しい価格で売ることを試みます。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -125,6 +130,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/1326050/canvas",
       "type": "Canvas",
       "duration": 192.08,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1326050/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1326050/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1326050/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1326050/1326050_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/rekion/1326050/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/1326050/canvas/page",

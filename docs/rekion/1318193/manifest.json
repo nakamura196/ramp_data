@@ -93,6 +93,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "明治38年5月27日、日本海海戦の際、連合艦隊は大本営に報告し、直ちに出動しました。天候は良好でしたが波が高く、激しい戦闘が予想されました。三笠艦場に敬意を表し、全員が奮励努力するように指示が出されました。昭和6年12月27日には、東号A8号、ローロックスに関する報告がありました。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -137,6 +142,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/1318193/canvas",
       "type": "Canvas",
       "duration": 72.08,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1318193/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1318193/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1318193/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1318193/1318193_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/rekion/1318193/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/1318193/canvas/page",

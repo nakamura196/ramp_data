@@ -129,6 +129,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は非常に難解で、具体的な内容を把握するのが困難です。しかし、要約すると以下のような内容が含まれています：\n\n1. ヤジロベイという人物が登場し、彼が狐に取り憑かれている様子が描かれています。\n2. ヤジロベイは何かしらの悪事を働いたことを狐に責められています。\n3. ヤジロベイはその悪事について弁解し、誤解や間違いがあったことを主張しています。\n4. 最後に、ヤジロベイが川を渡る際に起こった出来事について述べられています。\n\n全体として、ヤジロベイが狐に取り憑かれ、過去の行動について責められ、それに対して弁解するというストーリーが展開されています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -173,6 +178,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/1316019/canvas",
       "type": "Canvas",
       "duration": 205.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1316019/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1316019/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1316019/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1316019/1316019_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/rekion/1316019/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/1316019/canvas/page",

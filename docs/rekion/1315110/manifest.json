@@ -153,6 +153,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は、意味が曖昧で具体的な内容が掴みにくいです。登場人物や出来事が断片的に描かれており、全体としてのストーリーやテーマが明確ではありません。要約するのが難しいですが、以下のようにまとめることができます：\n\n「かむるたちがくるくると動き、さといねんをしている。やまかねの音が響き、せきもりが心を動かされる。みずくともなく、見慣れない女性が現れ、彼女の出自や目的についての対話が続く。」\n\nこの要約は、文章の断片的な要素を取り入れつつ、全体の雰囲気を伝えることを試みています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -197,6 +202,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/1315110/canvas",
       "type": "Canvas",
       "duration": 195.08,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1315110/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1315110/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1315110/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1315110/1315110_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/rekion/1315110/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/1315110/canvas/page",

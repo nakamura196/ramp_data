@@ -93,6 +93,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "要約：松井は6ヶ月の戦争で多くの部下を失い、恐怖に苛まれています。彼の統率力は不足しており、忠実な軍人としても多くの戦友を失ったことに対して深い謝罪の意を表しています。12月17日に南京で大儀礼祭を行い、靖国神社にも参拝しました。国民政府は長期戦を求めており、信濃国内では経済的・政治的な問題が続発しています。信濃は全面的に指揮を訴訟していますが、抵抗を続けています。紹介席は軍の再建に努め、欧米諸国からの武器供給を受けて戦力回復を図っていますが、短期間での再建は困難です。今後の経済は格納を禁止することはできないと判断されています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -137,6 +142,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/1324459/canvas",
       "type": "Canvas",
       "duration": 204.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1324459/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1324459/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1324459/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1324459/1324459_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/rekion/1324459/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/1324459/canvas/page",

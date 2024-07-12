@@ -153,6 +153,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は非常に断片的で意味が取りにくい部分が多いですが、以下のように要約できます：\n\n「ある場所で何かを渡し、道を進むと希望が見える。古い条例や味に関する話があり、希望を持つことが重要だ。困難な状況でも、希望を持ち続けることが大切だ。」\n\n文章全体が抽象的で具体的な内容が少ないため、詳細な要約は難しいですが、希望や道のりに関するテーマが含まれているようです。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -197,6 +202,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/1321478/canvas",
       "type": "Canvas",
       "duration": 192.08,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1321478/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1321478/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1321478/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1321478/1321478_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/rekion/1321478/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/1321478/canvas/page",

@@ -105,6 +105,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "以下は、与えられた不規則動詞の要約です。\n\n1. **第二類**（第二の形と第三の形が同じ）\n   - 例: bend - bent - bent, lend - lent - lent, send - sent - sent\n\n2. **第三類**（第二の形のみ変化）\n   - 例: come - came - come, become - became - become, run - ran - run\n\n3. **第四類**（規則的にも不規則にも働く）\n   - その一: burn - burnt - burnt, dream - dreamt - dreamt, learn - learnt - learnt\n   - その二: hew - hewed - hewn, mow - mowed - mown, show - showed - shown\n\n4. **第五類**（第一、第二、第三の形が同じ）\n   - 例: cast - cast - cast, cut - cut - cut, hit - hit - hit, put - put - put\n\nこの要約は、各グループの特徴といくつかの例を示しています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -149,6 +154,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/1320058/canvas",
       "type": "Canvas",
       "duration": 187.08,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1320058/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1320058/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1320058/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1320058/1320058_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/rekion/1320058/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/1320058/canvas/page",

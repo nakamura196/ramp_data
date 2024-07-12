@@ -165,6 +165,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は非常に難解で、内容が曖昧ですが、要約すると以下のようになります：\n\nある人物が、自分の子供に対して心配している様子が描かれています。子供にどのような影響が及ぶかを考え、軽々しく行動しないようにしています。また、自分の命がどうなるかも気にかけていますが、最終的には子供のために何かを決断しようとしています。全体的に、親が子供の将来を心配しつつも、自分の行動を慎重に考えている状況が描かれています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -209,6 +214,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/1321576/canvas",
       "type": "Canvas",
       "duration": 216.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1321576/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1321576/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1321576/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1321576/1321576_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/rekion/1321576/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/1321576/canvas/page",

@@ -153,6 +153,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は非常に難解で、文脈が不明瞭ですが、要約を試みます。\n\n内容は、ある人物が涙を流しながら、金を取り出して神に感謝の意を示し、その後遠くへ行くように頼んでいるようです。また、その人物は自分の行動に対する感謝の気持ちを表し、逆さまの状態で何かを受け取ることを述べています。最後に、他の人々がその人物の後を追うことについて言及しています。\n\n要約：\nある人物が涙を流しながら金を取り出し、神に感謝の意を示し、遠くへ行くように頼んでいる。また、自分の行動に対する感謝の気持ちを表し、逆さまの状態で何かを受け取ることを述べている。最後に、他の人々がその人物の後を追うことについて言及している。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -197,6 +202,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/1321477/canvas",
       "type": "Canvas",
       "duration": 178.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1321477/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1321477/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1321477/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1321477/1321477_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/rekion/1321477/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/1321477/canvas/page",

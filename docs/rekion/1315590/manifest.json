@@ -117,6 +117,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は非常に難解で、文脈が不明瞭な部分が多いですが、要約すると以下のようになります：\n\n「心のままにならないことが多いが、寺院に住むことで心の平穏を得ることができる。特定の人物（かとしげうじ）は無常感を抱き、国の信頼を得ていた。彼の後に残された家族や子供たちは、重要なことを考え続けている。」\n\nこの要約は、元の文章の一部の意味を抽出したものであり、全体の文脈を完全に反映しているわけではありません。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -161,6 +166,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/1315590/canvas",
       "type": "Canvas",
       "duration": 184.08,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1315590/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1315590/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1315590/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1315590/1315590_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/rekion/1315590/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/1315590/canvas/page",

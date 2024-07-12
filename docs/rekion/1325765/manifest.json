@@ -81,6 +81,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は、第二次世界大戦における英独の対立について述べています。主なポイントは以下の通りです：\n\n1. **英独の対立**：前の大戦と同様に、今回の戦争もイギリスとドイツの争いであると断言しています。\n2. **戦争の本質**：軍備、経済、植民地問題を巡る英独両国の総力戦であり、ポーランド援助は戦争の名目に過ぎないとしています。\n3. **中立国の態度**：中立国の態度は明確でなく、英独の対立を利用しようとする動きもあると述べています。\n4. **英仏の戦略的失敗**：ドイツの強化に対抗するため、イギリスとフランスは大規模な連携を試みましたが、ソ連をドイツ側に奪われたことが大きな失敗となり、欧州の情勢が変化しました。\n5. **作戦上の負担**：ソ連とイタリアを味方にできなかったため、英仏両国が全ての作戦上の負担を背負うことになり、政策の大きな破綻を招いたとしています。\n\n要するに、この文章は第二次世界大戦における英独の対立とその影響について詳述しています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -125,6 +130,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/1325765/canvas",
       "type": "Canvas",
       "duration": 210.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1325765/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1325765/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1325765/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1325765/1325765_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/rekion/1325765/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/1325765/canvas/page",

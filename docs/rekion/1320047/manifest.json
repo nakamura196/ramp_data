@@ -105,6 +105,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "ABC26文字には、それぞれ名前と代表的な発音があります。これを覚えるための文として、次のような内容があります。アーサーが焼いたりんごをBが噛み、Cが切り、Dが分配し、Eが嗅ぎ、Fが見つけ、Gがジョージに与え、Hが隠し、Iが冷やし、Jが飛び越え、Kが蹴り、Lが舐め、Mが印を付け、Nが名前を付け、Oがテーブルに置き、Pが押し、Qが争い、Rが追い、Sが見、Tが触れ、Uが制服の下に置き、Vが検閲し、Wが見張り、Xが見据え、Yがメアリーのために欲しがり、Zがその周りを飛び回る、というものです。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -149,6 +154,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/1320047/canvas",
       "type": "Canvas",
       "duration": 219.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1320047/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1320047/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1320047/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1320047/1320047_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/rekion/1320047/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/1320047/canvas/page",

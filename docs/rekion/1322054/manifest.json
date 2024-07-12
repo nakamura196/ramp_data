@@ -117,6 +117,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は、あさゆりもときが戦いに敗れ、少ない仲間と共に逃げ延びたが、最終的には命を落としたという内容です。彼の死後も、その名声や功績は永遠に語り継がれ、彼の存在はまるで香り高いクスノキのように人々の記憶に残り続けるということが述べられています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -161,6 +166,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/1322054/canvas",
       "type": "Canvas",
       "duration": 216.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1322054/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1322054/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1322054/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1322054/1322054_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/rekion/1322054/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/1322054/canvas/page",

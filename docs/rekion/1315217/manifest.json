@@ -117,6 +117,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は非常に断片的で意味が取りにくい部分が多いですが、要約すると以下のような内容が含まれているようです：\n\n- ある人物が「旦那」や「お嬢様」について話している。\n- 近所や隣人に対して何かを分け与えることについて言及している。\n- 家主や金主についての言及があり、家の管理や所有に関する話が含まれている。\n- 全体的に、家や近所、家族に関する話題が中心となっている。\n\n文章全体が非常に混乱しているため、具体的な内容を把握するのは難しいですが、これが大まかな要約です。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -161,6 +166,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/1315217/canvas",
       "type": "Canvas",
       "duration": 175.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1315217/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1315217/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1315217/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1315217/1315217_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/rekion/1315217/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/1315217/canvas/page",

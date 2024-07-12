@@ -81,6 +81,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "戦争が始まってからまだ3ヶ月しか経っていないため、現時点でその特徴を論じるのは早すぎるかもしれませんが、ご了承ください。今回の戦争では、英独双方とも前の戦争の悲惨な結果を見ているため、無理をせず慎重に政策を進めようとしています。そのため、武力行使に慎重で、戦後の花火式なやり方を避け、戦略の一致を図っています。これにより、戦争が総力戦的な傾向を持ち、思想戦や政治外交戦、経済戦などが活発に動いています。これらの点を前の戦争と比較しながら話を進めたいと思います。今回の欧州戦争は、ドイツ・ポーランド戦争として現れ、英仏がヒトラー打倒のために参戦しましたが、戦争の本質にはもっと深刻な原因があると考えられます。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -125,6 +130,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/1325764/canvas",
       "type": "Canvas",
       "duration": 181.08,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1325764/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1325764/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1325764/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1325764/1325764_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/rekion/1325764/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/1325764/canvas/page",

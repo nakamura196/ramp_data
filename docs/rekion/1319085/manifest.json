@@ -177,6 +177,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は、ある女性の身の上話を述べています。若い者がいたずらをすることもあるが、その女性は良い孫を産んだ娘であると評価されています。彼女は仕事をするべきだと言われ、未熟な部分を見せることもありますが、不審な点もあります。浅ましさを感じつつも、諦めて進むように言われます。奥から子供の声が聞こえ、女性は「はい、そこに参ります」と答えます。最後に、娘や子供に対する愛情が表現されています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -221,6 +226,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/1319085/canvas",
       "type": "Canvas",
       "duration": 158.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1319085/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1319085/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1319085/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1319085/1319085_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/rekion/1319085/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/1319085/canvas/page",

@@ -81,6 +81,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "日本がこの声明を受け入れれば、すぐに全国的な平和が実現し、平和交渉が始まります。交渉の中で戦略的友好、共同防衛、経済協力などの問題が解決されるでしょう。しかし、ある人物は決意がなく、平和交渉の結果として軍を撤退させると言いながらも、実際には行動していません。彼は国家の利益を考えず、第三国の指揮を受けているため、平和の実現を妨げています。私たちは平和を望んでおり、救済方法を模索していますが、彼の反抗により平和が得られない状況です。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -125,6 +130,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/1316687/canvas",
       "type": "Canvas",
       "duration": 161.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1316687/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1316687/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1316687/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1316687/1316687_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/rekion/1316687/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/1316687/canvas/page",

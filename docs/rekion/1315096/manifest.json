@@ -165,6 +165,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は、夢か現実か分からない状況で、一人寂しく玉倉にいる主人公が、芋を背負った乙女を妻に迎え、楽しみを共有する様子を描いています。彼らは静かな場所で心を通わせ、変わらぬ愛を誓い合い、共に過ごすことの喜びを感じています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -209,6 +214,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/1315096/canvas",
       "type": "Canvas",
       "duration": 187.08,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1315096/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1315096/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1315096/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1315096/1315096_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/rekion/1315096/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/1315096/canvas/page",

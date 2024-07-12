@@ -1,0 +1,16 @@
+以下は、与えられた不規則動詞の要約です。
+
+1. **第二類**（第二の形と第三の形が同じ）
+   - 例: bend - bent - bent, lend - lent - lent, send - sent - sent
+
+2. **第三類**（第二の形のみ変化）
+   - 例: come - came - come, become - became - become, run - ran - run
+
+3. **第四類**（規則的にも不規則にも働く）
+   - その一: burn - burnt - burnt, dream - dreamt - dreamt, learn - learnt - learnt
+   - その二: hew - hewed - hewn, mow - mowed - mown, show - showed - shown
+
+4. **第五類**（第一、第二、第三の形が同じ）
+   - 例: cast - cast - cast, cut - cut - cut, hit - hit - hit, put - put - put
+
+この要約は、各グループの特徴といくつかの例を示しています。

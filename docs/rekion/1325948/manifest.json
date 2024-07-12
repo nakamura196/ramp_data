@@ -81,6 +81,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "菅野家藩の女王が大石殿からの公約を受け取り、軍中での功績を称えられた。堀部やべえ金丸は74歳で討ち入りに参加し、若者に負けない勇気を見せたが、足が悪くて転倒。堀部やすべえが父を助けようとしたが、父は自分で対処しようとした。最終的に堀部金丸は大石とともに細川邸に預けられ、細川家から手厚い待遇を受けた。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -125,6 +130,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/1325948/canvas",
       "type": "Canvas",
       "duration": 172.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1325948/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1325948/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1325948/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1325948/1325948_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/rekion/1325948/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/1325948/canvas/page",

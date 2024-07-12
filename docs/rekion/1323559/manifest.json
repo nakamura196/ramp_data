@@ -129,6 +129,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "みゆきは何か気にかかることがあり、座敷やテーブルを行ったり来たりしている。金色のものを見て、朝川が遅れて来たことを知る。お客さんがもう一度呼びに行ってくれと言ったが、断った。お金を預けられ、目薬を頼まれた。何かお礼を申し上げることがあり、旦那様に見てもらいたいものがある。金人に一里、朝顔梅雨のひんまが書いてあり、宮に遊びのこと小童はじろざいもんと書いてある。庭川のようで、朝城様であったことがわかる。旦那様、そのお客様はいつお立ちになるのかと尋ねると、朝城殿子ちゃんがもっとおなじみであることがわかる。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -173,6 +178,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/1323559/canvas",
       "type": "Canvas",
       "duration": 177.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1323559/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1323559/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1323559/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1323559/1323559_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/rekion/1323559/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/1323559/canvas/page",

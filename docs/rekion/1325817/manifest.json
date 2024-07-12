@@ -57,6 +57,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章の要約は以下の通りです：\n\n私たちは平和と秩序を重んじ、どの国も排除しません。どの国でもこの大きな任務に参加することを歓迎しますが、新しい秩序の下では征服、抑圧、搾取は許されません。日本自身が将来これらの不正を行うことにも反対です。どんな圧力や批判があっても、私たちの神聖な目的から逸れることはありません。私の政府の基本的な態度はこれです。小さな不満にこだわるのではなく、現在直面している状況の基本を大きな視点で見るべきです。日本の理想は、すべての国が世界で適切な位置を占めることを可能にすることです。世界は自然の法則に従って結晶が形成されるように、より合理的に再編成されるべきだと考えます。国際社会が正義と公平の精神に従って結晶化されるとき、真の持続的な平和が世界中に広がるでしょう。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -101,6 +106,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/1325817/canvas",
       "type": "Canvas",
       "duration": 163.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1325817/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1325817/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1325817/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1325817/1325817_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/rekion/1325817/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/1325817/canvas/page",

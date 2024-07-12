@@ -93,6 +93,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は非常に断片的で混乱していますが、要約すると以下のような内容です：\n\n1. 話者は「ハッチャン」という人物について話しています。\n2. 昨晩、若い女性を誘惑するような出来事があり、話者はそれに対して不満を持っています。\n3. 話者は釣りに出かけたが、何も釣れずに帰宅しました。\n4. 帰り道で奇妙な出来事があり、驚いた話者は家に帰って晩酌をしました。\n5. 夜中に鐘の音が聞こえ、話者はそれに対して恐怖を感じました。\n6. 最後に、何者かが家の外を叩く音が聞こえ、話者はそれを妖怪だと疑いました。\n\n全体的に、話者が体験した奇妙で不気味な出来事についての話です。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -137,6 +142,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/1316808/canvas",
       "type": "Canvas",
       "duration": 228.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1316808/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1316808/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1316808/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1316808/1316808_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/rekion/1316808/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/1316808/canvas/page",

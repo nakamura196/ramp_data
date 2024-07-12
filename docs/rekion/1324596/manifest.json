@@ -105,6 +105,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は非常に難解で、古風な表現や象徴的な言葉が多く含まれています。要約すると、以下のような内容が含まれているようです：\n\n- キタノカタという人物が俗世の生活を送っている。\n- 彼が神戸を離れない限り、神賀神戸（神聖な場所や祝福）を授かることはない。\n- 皇天皇道（天皇の道）を鑑みるように求めている。\n- 聖杯は天にあり、永遠に戦う精神を持つことが重要である。\n- 水谷吉という人物の病気や過去の作品が現在まで影響を与えている。\n- 情熱の魂を持って生活している。\n\nこの要約は、文章の象徴的な意味を解釈したものであり、具体的な詳細は不明です。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -149,6 +154,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/1324596/canvas",
       "type": "Canvas",
       "duration": 186.08,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1324596/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1324596/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1324596/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1324596/1324596_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/rekion/1324596/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/1324596/canvas/page",

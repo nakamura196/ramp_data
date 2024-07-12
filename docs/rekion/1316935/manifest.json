@@ -93,6 +93,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は非常に詩的で抽象的な内容を持っていますが、要約すると以下のようになります：\n\n大妻（おおつま）は遊びの数々を楽しみ、その名も「月の色」と呼ばれる。人々は珊瑚や和紙のような美しいものを空に見立て、またもんがんしんにょの影と共に楽しむ。もんこくぞうじょうちっぽうじゅうもんの宝を降らせ、こくぞうにこれを保管させる。おまのはごろも（羽衣）は風にたなびき、みおのもつぼろうきしもがくもの星と共に、ふじのとかねこすこにたなびく。おもつみそらのこすみにまぎれて、うぜにくるみ。\n\nこの要約は、詩的な表現を簡略化し、主要なイメージやテーマを抽出したものです。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -137,6 +142,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/1316935/canvas",
       "type": "Canvas",
       "duration": 180.08,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1316935/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1316935/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1316935/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1316935/1316935_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/rekion/1316935/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/1316935/canvas/page",

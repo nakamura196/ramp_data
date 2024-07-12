@@ -81,6 +81,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は、複数の地域や人物に関する歴史的な記述を含んでいます。以下に要約します。\n\nまず、二義の章では、天下に貢献した美衆清津の城市百万石や、北畑地に忠孝平の信を持つ文社の借り義について述べています。次に、出家の星崎の城市三万石や、岡田永人の神を後ろに立てることについて触れています。\n\n左の章石では、金河山義父の城市五十万石や、漢弁寺四十十平の信について記述されています。また、出家の須田賢物を後ろに立てることについても言及しています。\n\n右の章石では、北陸道の若狭越前かがのと越中越後佐渡四カ国の旗頭や、越前の国足下ごり北の章の城市柴田地後井の下主義の信について述べています。さらに、源の勝義へ花駄色に二つ刈金の大文についても触れています。\n\n左の章石では、上州真矢橋西州桑名領城建大六十二万石立川坂に証言や、大友のすくねかずますについて記述されています。また、池田高山中川大竹のばっかきか不大についても言及しています。\n\n最後に、大徳寺省令大和尚が紫の衣小金蘭二十五錠の袈裟をまとい、保室を持って立ち入れ、宗敬印伝先の嘘情像一本大眼玄空大古寺の尊礼に近づく場面が描かれています。省令大和尚の証拠を断る場面も含まれています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -125,6 +130,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/1325936/canvas",
       "type": "Canvas",
       "duration": 192.08,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1325936/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1325936/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1325936/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1325936/1325936_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/rekion/1325936/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/1325936/canvas/page",

@@ -93,6 +93,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "我が国は現在、重大な改革期に直面しています。国内では国民生活の再建と経済組織の確立を目指し、正直に勤労する人々が報われる新社会を実現する必要があります。国外では、白人の暴圧からアジアの民族を解放し、新しいアジアを築くことが新日本の理想です。この改革を担うのは、純粋な情熱を持つ青年たちです。幕末の明治維新も若者たちが中心となって成し遂げました。今日の青年も新日本建設の中心勢力となるべきであり、国家のために尽力しなければなりません。ニーチェの言葉を借りれば、古いものを排除し新しいものを取り入れる新陳代謝が重要であり、それが停止することは死を意味します。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -137,6 +142,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/1323261/canvas",
       "type": "Canvas",
       "duration": 224.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1323261/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1323261/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1323261/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1323261/1323261_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/rekion/1323261/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/1323261/canvas/page",

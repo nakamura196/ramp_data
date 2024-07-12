@@ -93,6 +93,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この物語は、徳川時代の終わり頃を背景にした江戸の世話話です。主人公の牛松は料理人としての腕を持ちながらも、厄座者としての生活を送っていました。彼は神田松枝町での事件後、逃亡し、深川矢倉下の芸者・古藩と関係を持ちます。古藩は牛松の子供を妊娠していましたが、牛松は江戸を離れ、中国へ旅立ちます。三年後に戻った牛松は古藩と再会し、浅草で生活を始めます。彼らは共働きで生計を立てていましたが、生活は厳しいものでした。ある日、古藩の元恋人が現れ、再会を約束しますが、古藩の母親はその訪問を警戒しています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -137,6 +142,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/1326069/canvas",
       "type": "Canvas",
       "duration": 196.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1326069/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1326069/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1326069/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1326069/1326069_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/rekion/1326069/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/1326069/canvas/page",

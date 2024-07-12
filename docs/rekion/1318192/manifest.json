@@ -93,6 +93,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は、日本の軍隊の精神とその重要性について述べています。忠澄、礼儀、武用、神儀、質素の五つの徳を守るためには誠心が必要であり、誠心のない行いは無意味であると説いています。これらの徳は人類の条件であり、守りやすいものであるとされています。日本の軍隊は日清戦争や日露戦争、さらには世界大戦でその武勇を発揮し、国民の一致した後援の力も大きかったと述べています。日本の軍隊の精神は世界に類を見ないものであり、過去の光栄ある歴史を持つ帝国軍隊は将来も実力を向上させる必要があると強調しています。実力ある帝国軍隊の存在は日本の存立と発展に不可欠であり、東洋の平和、ひいては世界平和の保障となると述べています。最後に、軍人直用包帯50周年にあたり所感を述べたと締めくくられています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -137,6 +142,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/1318192/canvas",
       "type": "Canvas",
       "duration": 213.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1318192/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1318192/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1318192/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1318192/1318192_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/rekion/1318192/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/1318192/canvas/page",

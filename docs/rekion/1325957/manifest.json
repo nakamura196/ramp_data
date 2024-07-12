@@ -45,6 +45,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "私たちが目指す新しい世界は、国際社会の実現を目指しています。日本、ドイツ、イタリアのアライアンスがその証明です。私たちの世界は政治的に広く、経済的にも広がるべきであり、政治的な努力は他国にも及ぶべきです。地域の平和が理解によって確保されれば、世界全体が平和を享受できるでしょう。このアイデアはヴェルサイユ会議での国際連盟の認定から始まりました。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -89,6 +94,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/1325957/canvas",
       "type": "Canvas",
       "duration": 117.08,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1325957/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1325957/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1325957/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1325957/1325957_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/rekion/1325957/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/1325957/canvas/page",

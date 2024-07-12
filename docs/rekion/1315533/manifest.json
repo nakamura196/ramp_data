@@ -93,6 +93,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "国家の目的は国民の福利を追求することであり、国家の意思は国民の意思の集合体です。国民の意思が集まって国家の意思となり、これが多数政治の原則です。国民は国家に対して憲法に基づく責任を持ち、その結果として投票の一票にも民意が反映されるべきです。個人の独立と自由が集まって自治が成立し、帝国憲法はその自治を表します。国民の勢力は世論によって導かれ、世論が議会に集中することで議会の威厳と信用が高まります。憲政は世論によって導かれ、知識階級が世論を引き上げます。知識階級が政治から離れると、劣悪な政治が生まれる可能性があります。改憲によって国民が威嚇を始めたことを喜ぶべきだと述べています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -137,6 +142,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/1315533/canvas",
       "type": "Canvas",
       "duration": 177.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1315533/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1315533/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1315533/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1315533/1315533_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/rekion/1315533/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/1315533/canvas/page",

@@ -1,0 +1,18 @@
+規則動詞の過去形の作り方について説明しています。以下が要約です：
+
+1. **無声音で終わる動詞**（例：stop, walk）には「-ed」を付けます。
+   - 例：stop → stopped, walk → walked
+
+2. **無声音の「s」で終わる動詞**（例：lace, brush）にも「-ed」を付けます。
+   - 例：lace → laced, brush → brushed
+
+3. **濁音で終わる動詞**（例：rub, change）には「-ed」を付けますが、発音は「d」となります。
+   - 例：rub → rubbed, change → changed
+
+4. **鼻音や母音で終わる動詞**（例：open, enter）にも「-ed」を付け、発音は「d」となります。
+   - 例：open → opened, enter → entered
+
+5. **「t」や「d」で終わる動詞**（例：plant, unfold）には「-ed」を付け、発音は「id」となります。
+   - 例：plant → planted, unfold → unfolded
+
+これらの規則は過去分詞の作り方にも同様に適用されます。

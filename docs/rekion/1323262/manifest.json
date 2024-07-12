@@ -93,6 +93,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "国家も個人と同様に、時代の変化に応じて思想や制度の更新を怠ると滅亡を免れない。しかし、国家の新陳代謝を先導し、旧思想や旧制度を打破するのは常に青年である。青年を尊重し、革新を遂げさせることが重要であり、青年自身も尊重に値する信念と人格を持つべきである。\n\n大正5年1月、総理大臣大熊重信が爆弾攻撃を受けたが、爆弾は不発で無事だった。大熊はこの出来事を天命と捉え、勇気を増し、戦う決意を新たにした。自己の生存の真意義を自覚する者は、生死を超えてその意義に徹底しようとする熱意を持つべきであり、物質のようにただ存在するだけの人生は無意味である。青年はその特権を放棄せず、真の青年としての役割を果たすべきである。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -137,6 +142,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/1323262/canvas",
       "type": "Canvas",
       "duration": 204.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1323262/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1323262/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1323262/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1323262/1323262_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/rekion/1323262/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/1323262/canvas/page",

@@ -57,6 +57,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "要約：アダム・オン・ノムラは非常に優れた専門家であり、彼と海の上で会うことを恐れる必要はありません。彼は身体的にも精神的にも強く、ワシントンD.C.や海外での経験を持つ優れた船員です。彼は船員全体の安全に責任を持ち、成功した船員としての質を備えています。彼は自信と共通の意識を育て、私たちの成長に貢献しています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -101,6 +106,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/1325814/canvas",
       "type": "Canvas",
       "duration": 124.08,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1325814/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1325814/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1325814/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1325814/1325814_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/rekion/1325814/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/1325814/canvas/page",

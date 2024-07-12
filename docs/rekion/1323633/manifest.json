@@ -93,6 +93,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は、日本の歴史と文化における正義と忠誠の重要性を強調しています。日本人は昔から正しい行いを尊び、そのために命を捧げてきたと述べています。天と神は正義を支持し、正しい人々を助けるという信念が受け継がれてきました。具体例として、桜井の駅での楠木正重公の教訓や、東郷平八郎が日本海でロシア艦隊を撃破した際の決意が挙げられています。また、日蓮商人や武士道の精神も同じ考えに基づいています。国家の繁栄は国民の心がけ次第であり、次世代に正しい行いを受け継ぐことが重要だと説いています。最後に、若者たちに対して、将来の日本を守るために努力し、立派な人になるよう励ましの言葉が述べられています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -137,6 +142,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/1323633/canvas",
       "type": "Canvas",
       "duration": 205.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1323633/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1323633/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1323633/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1323633/1323633_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/rekion/1323633/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/1323633/canvas/page",

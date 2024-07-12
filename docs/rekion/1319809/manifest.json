@@ -105,6 +105,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "昔々、良いおじいさんと悪いおじいさんがいました。良いおじいさんは犬を飼っており、その犬が宝物の場所を教えてくれました。悪いおじいさんはその犬を奪い、同じように宝を探そうとしましたが失敗し、犬を殺してしまいました。良いおじいさんは犬を埋め、その上に松の木を植えました。その木で作った臼で米をつくと、また宝物が出ました。悪いおじいさんはその臼を奪い、同じことを試みましたが失敗し、臼を壊して燃やしました。良いおじいさんはその灰を庭に撒くと、枯れ木に花が咲きました。殿様がその話を聞き、良いおじいさんに花を咲かせるよう命じました。良いおじいさんが灰を撒くと花が咲き、殿様から褒美をもらいました。悪いおじいさんも同じことを試みましたが失敗し、殿様に怒られて罰を受けました。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -149,6 +154,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/1319809/canvas",
       "type": "Canvas",
       "duration": 173.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1319809/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1319809/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1319809/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1319809/1319809_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/rekion/1319809/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/1319809/canvas/page",

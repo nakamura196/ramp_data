@@ -141,6 +141,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は非常に難解で、具体的な意味を解釈するのが難しいです。しかし、以下のように要約できます：\n\n「ハヤハサブノシロムコ雪しろが大変に降り積もり、二度の月見を楽しんだ。合わせ鏡のように太陽が近づき、菊が咲いた。かむろ（髪の毛の一部）が動き、ひっこみつきだし、よくそ（何かをかけること）を行った。たすきにひたまご（卵）をかけ、本じゅう（本の中）でかんた（簡単な）どりんぼ（鳥の一種）を見た。さいちもりんぼ（鳥の一種）からおんし（恩師）に感謝した。」\n\nこの要約は、元の文章の具体的な意味を完全に捉えているわけではありませんが、主要な要素を取り出して簡潔にまとめたものです。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -185,6 +190,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/1320852/canvas",
       "type": "Canvas",
       "duration": 195.08,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1320852/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1320852/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1320852/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1320852/1320852_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/rekion/1320852/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/1320852/canvas/page",

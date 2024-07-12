@@ -105,6 +105,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "昔の人々は地震を「ないゆる」と呼び、地の下にいる大なまずが動くために起こると考えていました。しかし、これは単なる迷信ではありません。ある物知りによると、大なまずとは実際には地面の大きな塊を指しているのです。私たちが住んでいる土地は、五里角ほどの大きな石で敷き詰められており、これを「地塊」と呼びます。地震はこの地塊が動くことで発生し、その動きによって隣の地塊との境目にずれが生じます。このずれを「断層」と呼びます。地震のたびに断層が生じるだけでなく、地震が起こる前から少しずつ進行します。これが地震予知の重要な手がかりとなっています。地塊の動きの原因の一つは地熱の変化です。地の底は深くなるほど熱くなり、この地熱が長い時間をかけて変化することで地塊を動かします。ただし、火山の爆発など他の原因もあることを付け加えておきます。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -149,6 +154,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/1319432/canvas",
       "type": "Canvas",
       "duration": 165.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1319432/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1319432/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1319432/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1319432/1319432_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/rekion/1319432/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/1319432/canvas/page",

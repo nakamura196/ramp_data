@@ -105,6 +105,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は、英語の文法に関する説明をしています。具体的には、冠詞「a」と「an」の使い分け、名詞の複数形の作り方、そしてB動詞の活用について述べています。\n\n1. **冠詞の使い分け**:\n   - 「a」は子音の前に、「an」は母音の前に使います。\n   - 例: a frog, an old frog\n\n2. **名詞の複数形**:\n   - 名詞の複数形は通常、語尾に「s」または「es」を加えて作ります。\n   - 例: frogs, tadpoles\n\n3. **B動詞の活用**:\n   - B動詞は主語や時制によって形が変わります。\n   - 例: I am, you are, he is, we are, they are（現在形）\n         I was, you were, he was, we were, they were（過去形）\n         I shall be, you will be, he will be, we shall be, they will be（未来形）\n\nこのように、B動詞は主語の意味、数、時制に応じて異なる形で書かれます。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -149,6 +154,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/1320052/canvas",
       "type": "Canvas",
       "duration": 204.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1320052/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1320052/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1320052/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1320052/1320052_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/rekion/1320052/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/1320052/canvas/page",

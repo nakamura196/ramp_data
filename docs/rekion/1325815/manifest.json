@@ -57,6 +57,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "要約: 新しいアンバサダーであるアドリル・ノムラとその妻が、アメリカと日本の関係を強化し、国際的な信頼と自信を取り戻すために努力しています。彼らの活動は、アメリカ人と日本人の友好関係を深めることを目指しており、政府もその取り組みを誇りに思っています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -101,6 +106,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/1325815/canvas",
       "type": "Canvas",
       "duration": 162.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1325815/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1325815/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1325815/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1325815/1325815_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/rekion/1325815/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/1325815/canvas/page",

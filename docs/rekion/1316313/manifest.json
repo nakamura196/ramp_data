@@ -93,6 +93,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "佐々木谷は、不景気の中で議会を解散し、多額の金銭と労力を浪費することが不景気をさらに悪化させると述べています。また、過去の不当な解散を繰り返すことは過ちであり、投票を減らすことで罰するべきだと主張しています。両大政党が不正を行い続ける限り、投票を減らさないと彼らは改心しないと述べています。政党の不正は投票を得るために行われており、投票を減らすことでしか政党の覚醒は期待できないとしています。したがって、愛国者は不正を行わない小政党や独立候補に投票すべきだと結論付けています。政党内の善人も党議に縛られ、悪人と同じ行動を取るため、政党に投票することは間違いだと述べています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -137,6 +142,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/1316313/canvas",
       "type": "Canvas",
       "duration": 219.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1316313/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1316313/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1316313/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1316313/1316313_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/rekion/1316313/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/1316313/canvas/page",
