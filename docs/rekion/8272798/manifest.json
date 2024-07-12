@@ -129,6 +129,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は、戦闘の情景とその中での人々の感情を描写しています。戦闘が終わり、煙が立ち込める中、戦士たちは後悔や悲しみを抱えながらも勇気を持って戦い続けます。副将が戦士を呼び止め、彼は最後の息を漏らしながらも敵を討つことを願います。戦いが終わり、静けさが戻る中、戦士たちはその重い心と痛みを抱え続けます。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -214,6 +219,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/8272798/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/8272798/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/8272798/8272798_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

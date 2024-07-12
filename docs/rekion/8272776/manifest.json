@@ -81,6 +81,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は、戦闘の様子とその結果について描写しています。核証拠が焼き捨てられ、無念の涙を流しながら中沢軍が戦い、最終的に腹を切って自害したことが述べられています。敵が増援を加え、戦場は死体の山と化し、流血が限界に達した様子が描かれています。悲鳴や万歳の声が細くなり、戦士たちが次々と命を落としていく様子が哀れに描かれています。最後に「日立丸ご視聴ありがとうございました」と締めくくられています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -166,6 +171,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/8272776/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/8272776/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/8272776/8272776_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

@@ -93,6 +93,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は非常に難解で、具体的な意味を把握するのが困難です。しかし、要約を試みると以下のようになります：\n\n「戦闘の中で、敵味方が入り乱れ、混乱が生じている。多くの人が倒れ、わずかに生き残った者たちも混乱している。」\n\nこの要約は、元の文章の一部の要素を取り入れたものであり、全体の意味を完全に反映しているわけではありません。元の文章が持つ具体的な文脈や詳細な描写を理解するためには、追加の情報や文脈が必要です。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -178,6 +183,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/8274626/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/8274626/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/8274626/8274626_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },
