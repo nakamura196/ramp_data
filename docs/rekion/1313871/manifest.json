@@ -81,6 +81,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は、政治の倫理化について述べています。政治の倫理化とは、政治思想を国家倫理に一致させ、正当な政治を倫理的に行うことを指します。日本においては、国際的な成果を基に、全人類の共存共栄を目指す新しい文明を築くための政治を実現することが重要とされています。\n\n政治の倫理化を実現するためには、まず個人が自分自身を治める自治の力が必要です。この自治の力は、生物が本能的に持つ良い作用に基づいており、人間の場合は法理的と倫理的の二つの側面で発揮されます。これらが調和することで、信頼と共和の美しい自治社会が形成されます。\n\nしかし、現代の文化生活では、自治の法理的側面が強調されすぎており、倫理的精神が軽視されています。この不均衡が原因で、国際的な内紛や闘争が絶えず、人類は大きな不安時代に突入していると指摘しています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -125,6 +130,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/1313871/canvas",
       "type": "Canvas",
       "duration": 188.08,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1313871/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1313871/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1313871/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1313871/1313871_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/rekion/1313871/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/1313871/canvas/page",

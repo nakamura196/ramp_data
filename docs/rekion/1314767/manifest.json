@@ -153,6 +153,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は非常に難解で、古風な言葉遣いや詩的な表現が多く含まれています。要約すると、以下のような内容です：\n\nある子供が月夜や闇夜にこの里に忍び込み、月の光の下で行ったり来たりしている。彼は垣根の内側に入り、小手を振って誰かに合図を送る。彼はうちかけの裾に隠れて、誰かの口を塞ぎ、ひと息つく。金の音が聞こえ、夜が更けていく。彼はまだ夢の中にいるようで、さっき帰ってきた脚筆（手紙を書く人）もいる。彼は他の誰かと関係を持っているようで、その相手が誰かはわからないが、彼はその相手と深い関係を持っているようだ。\n\nこの要約は、元の文章の詩的なニュアンスや詳細な描写を簡略化しています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -197,6 +202,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/1314767/canvas",
       "type": "Canvas",
       "duration": 180.08,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1314767/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1314767/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1314767/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1314767/1314767_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/rekion/1314767/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/1314767/canvas/page",

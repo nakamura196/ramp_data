@@ -93,6 +93,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は、無産階級（貧困層）の人々が抱える不安と、その不安から脱出しようとする心の要求について述べています。著者は、無産階級を真に愛し、その涙を拭おうとするならば、彼らにも有産階級（富裕層）と同様に立法上の参与権と行政上の監督権を与えるべきだと主張しています。これにより、無産階級の代表者の意見に誠心誠意耳を傾けることが重要だとしています。\n\nまた、階級打破が国家を危うくすると非難する人々に対して、著者はむしろ階級の区別を維持することが国家を危うくすると反論しています。歴史的な例として、徳川時代の支配階級と非支配階級の関係を挙げ、明治時代の改革が成功したことを示しています。著者は、現在の状況においても改旧打破（古い制度の打破）が必要であり、それを非難することは時代遅れであると信じています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -137,6 +142,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/1313772/canvas",
       "type": "Canvas",
       "duration": 204.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1313772/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1313772/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1313772/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1313772/1313772_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/rekion/1313772/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/1313772/canvas/page",

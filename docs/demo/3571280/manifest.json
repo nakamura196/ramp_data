@@ -3,121 +3,121 @@
   "id": "https://nakamura196.github.io/ramp_data/demo/3571280/manifest.json",
   "type": "Manifest",
   "label": {
-    "ja": [
+    "none": [
       "日本のアクセントと言葉調子（下）"
     ]
   },
   "metadata": [
     {
       "label": {
-        "ja": [
+        "none": [
           "作詞・作曲・編曲・実演家"
         ]
       },
       "value": {
-        "ja": [
+        "none": [
           "神保　格"
         ]
       }
     },
     {
       "label": {
-        "ja": [
+        "none": [
           "製作者（レーベル）"
         ]
       },
       "value": {
-        "ja": [
+        "none": [
           "コロムビア（戦前）"
         ]
       }
     },
     {
       "label": {
-        "ja": [
+        "none": [
           "注記"
         ]
       },
       "value": {
-        "ja": [
+        "none": [
           "商品番号 : 33000"
         ]
       }
     },
     {
       "label": {
-        "ja": [
+        "none": [
           "注記"
         ]
       },
       "value": {
-        "ja": [
+        "none": [
           "デジタル変換後ノイズ除去 : 無"
         ]
       }
     },
     {
       "label": {
-        "ja": [
+        "none": [
           "注記"
         ]
       },
       "value": {
-        "ja": [
+        "none": [
           "日本語学習"
         ]
       }
     },
     {
       "label": {
-        "ja": [
+        "none": [
           "出版年月日(W3CDTF)"
         ]
       },
       "value": {
-        "ja": [
+        "none": [
           "1929-09"
         ]
       }
     },
     {
       "label": {
-        "ja": [
+        "none": [
           "歴史的音源ジャンル"
         ]
       },
       "value": {
-        "ja": [
+        "none": [
           "教育・児童"
         ]
       }
     },
     {
       "label": {
-        "ja": [
+        "none": [
           "歴史的音源ジャンル"
         ]
       },
       "value": {
-        "ja": [
+        "none": [
           "語学"
         ]
       }
     }
   ],
   "summary": {
-    "ja": [
+    "none": [
       "日本語のアクセントは、言葉の声の上げ下げを指しますが、同じ言葉でも場合によって変わることがあります。例えば、「そうですか」のように、終わりの部分が上がったり下がったりすることがあります。これを「言葉上司」と呼びます。言葉上司には二つの種類があります。一つは文の切れ目での上げ下げ、もう一つはアクセントに従って声の高低を変えるものです。声を高くすると自然に強くなり、話す人の感情が反映されます。例えば、「おやおや」という言葉は、その時の心持ちによって変わりますが、特定のアクセントはありません。"
     ]
   },
   "requiredStatement": {
     "label": {
-      "ja": [
+      "none": [
         "Attribution"
       ]
     },
     "value": {
-      "ja": [
+      "none": [
         "国立国会図書館 National Diet Library, JAPAN"
       ]
     }
@@ -128,7 +128,7 @@
       "id": "https://rekion.dl.ndl.go.jp/",
       "type": "Agent",
       "label": {
-        "ja": [
+        "none": [
           "国立国会図書館 National Diet Library, JAPAN"
         ]
       }
@@ -139,7 +139,7 @@
       "id": "https://rekion.dl.ndl.go.jp/pid/3571280",
       "type": "Text",
       "label": {
-        "ja": [
+        "none": [
           "日本のアクセントと言葉調子（下） - 国立国会図書館デジタルコレクション"
         ]
       },
@@ -210,7 +210,7 @@
               "id": "https://nakamura196.github.io/ramp_data/demo/3571280/canvas/annotation/webvtt",
               "type": "Annotation",
               "label": {
-                "ja": [
+                "none": [
                   "日本語 (machine-generated)"
                 ]
               },
@@ -220,7 +220,7 @@
                 "type": "Text",
                 "format": "text/vtt",
                 "label": {
-                  "ja": [
+                  "none": [
                     "日本語 (machine-generated)"
                   ]
                 }
@@ -231,7 +231,7 @@
               "id": "https://nakamura196.github.io/ramp_data/demo/3571280/canvas/annotation/webvtt/2",
               "type": "Annotation",
               "label": {
-                "ja": [
+                "none": [
                   "English (machine-generated)"
                 ]
               },
@@ -241,7 +241,7 @@
                 "type": "Text",
                 "format": "text/vtt",
                 "label": {
-                  "ja": [
+                  "none": [
                     "English (machine-generated)"
                   ]
                 }

@@ -93,6 +93,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は、ある人物が玄関で他の人と会話をしている場面を描写しています。内容は以下の通りです：\n\nある人物が玄関に到着し、玄関の障子を開けて中に入ります。そこで、玄道様という人物が過ごしているかどうかを尋ねますが、玄道様は赤坂に用事で出かけていると知らされます。さらに、他の家族の状況も尋ねますが、皆それぞれ忙しい様子です。人物はしばらく玄道様の帰りを待つことにし、頭に乗っているものについての話題に移ります。最後に、刀の台紐をほどいて玄関横に投げ、片手にたこ魚を持って奥の人間に渡します。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -137,6 +142,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/1314802/canvas",
       "type": "Canvas",
       "duration": 224.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1314802/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1314802/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1314802/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1314802/1314802_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/rekion/1314802/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/1314802/canvas/page",

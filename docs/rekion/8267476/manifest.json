@@ -81,6 +81,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は非常に抽象的で、具体的な内容がつかみにくいですが、要約すると以下のようになります：\n\n「僕は古い音楽部屋に興味を持っています。この部屋は特別なもので、ドイツやハルカ、イダイといったものを試みる場所です。しかし、本物のドイツのものはあまりありません。この部屋は人間の鼻元のようなもので、長い頭と尻尾があるため理解しにくいです。現在、この部屋では亡霊が曲げられており、女の子たちはイダイをやっていますが、詳細は不明です。梶原さんが朝起きたことや、人類が不安になることも書かれていますが、全体的に何が言いたいのかはっきりしません。」\n\n文章全体が非常に曖昧で、具体的な意味を捉えるのが難しいです。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -125,6 +130,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/8267476/canvas",
       "type": "Canvas",
       "duration": 197.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8267476/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8267476/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8267476/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8267476/8267476_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/rekion/8267476/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/8267476/canvas/page",

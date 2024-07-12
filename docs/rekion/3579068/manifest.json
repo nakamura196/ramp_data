@@ -105,6 +105,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "その昔、母と共に雪の中で困っていたところを助けられたことがありました。その時の恩を忘れず、感謝の気持ちを持ち続けています。私は当時三歳で、その出来事は鮮明に覚えています。後に、しげもりが行方不明になり、よしつねがそのことを知って動揺しました。よしつねは、むねきよが自分を助けるために行動していることを知り、感謝の気持ちを抱きました。むねきよは、へいけの一族を助けるために尽力し、よしつねとよりともを支えました。最終的に、よしつねとよりともは、せいけの一族を滅ぼすことに成功しました。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -149,6 +154,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/3579068/canvas",
       "type": "Canvas",
       "duration": 326.08,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/3579068/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/3579068/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/3579068/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/3579068/3579068_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/rekion/3579068/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/3579068/canvas/page",

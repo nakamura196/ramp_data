@@ -154,7 +154,7 @@
     }
   ],
   "summary": {
-    "ja": [
+    "none": [
       "この内容は、戦車が全日本を進軍し、敵を打ち破る様子を描いた歌詞のようです。戦車が大地を踏みしめ、無敵の部隊として進み、戦火の中で勝利を収める姿が強調されています。全体を通じて、戦車の力強さと勝利への決意が表現されています。"
     ]
   },
@@ -270,6 +270,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/8275394/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8275394/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8275394/8275394_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

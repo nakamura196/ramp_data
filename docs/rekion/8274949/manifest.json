@@ -94,7 +94,7 @@
     }
   ],
   "summary": {
-    "ja": [
+    "none": [
       "この文章は非常に難解で、具体的な意味を捉えるのが難しいです。文中には多くの抽象的な表現や繰り返しが含まれており、明確なストーリーやテーマが見えにくいです。要約すると、以下のような内容が含まれているようです：\n\n- おもしろい出来事が繰り返される。\n- 風景や自然の描写が多く含まれている。\n- 人間や自然の動きが描かれている。\n- 夢と現実が交錯するような表現がある。\n\n全体として、詩的で抽象的な文章であり、具体的な意味を捉えるのが難しいです。"
     ]
   },
@@ -210,6 +210,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/8274949/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8274949/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8274949/8274949_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

@@ -130,7 +130,7 @@
     }
   ],
   "summary": {
-    "ja": [
+    "none": [
       "「はじめしゃちょーエンディング」は、人気YouTuberであるはじめしゃちょーの動画の最後に流れるエンディング部分を指します。エンディングでは、視聴者に感謝の意を伝えたり、次回の動画の予告やチャンネル登録のお願いなどが含まれていることが一般的です。エンディングの内容やスタイルは動画ごとに異なる場合がありますが、視聴者とのコミュニケーションを深める重要な要素となっています。"
     ]
   },
@@ -246,6 +246,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/8275091/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8275091/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8275091/8275091_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

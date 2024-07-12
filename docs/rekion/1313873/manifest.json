@@ -81,6 +81,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は、政治における権力の誤解とその結果生じた問題について述べています。具体的には、政治が権力の獲得を目的とするという誤解が、新庁投票の買収市場を生み出し、政権争奪の取引に没頭する状況を招いたことを遺憾としています。今後は、政治は法治であり、家族的な法治を重視する新しい政治を目指すべきだと主張しています。また、選挙は国民の修正なる事務であり、選挙権は政治法治の倫理に基づくものであると強調しています。最後に、非立憲的な政党政治の強制を避け、政治の倫理化を進めるために県民の理解と協力を求めています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -125,6 +130,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/1313873/canvas",
       "type": "Canvas",
       "duration": 240.08,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1313873/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1313873/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1313873/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1313873/1313873_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/rekion/1313873/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/1313873/canvas/page",

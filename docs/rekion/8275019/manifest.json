@@ -166,7 +166,7 @@
     }
   ],
   "summary": {
-    "ja": [
+    "none": [
       "この文章は、カナダをテーマにした歌詞の一部です。内容は、カナダの美しい風景や春の訪れを喜び、踊りや手振りでその喜びを表現する様子が描かれています。歌詞の中では「カナダワ オンドヤトサトサッサ」というフレーズが繰り返され、カナダの自然や季節の変化を楽しむ気持ちが強調されています。"
     ]
   },
@@ -282,6 +282,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/8275019/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8275019/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8275019/8275019_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

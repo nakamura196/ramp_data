@@ -142,7 +142,7 @@
     }
   ],
   "summary": {
-    "ja": [
+    "none": [
       "この文章は繰り返しが多く、具体的な内容が少ないため要約が難しいですが、以下のようにまとめることができます：\n\n「私たちは日々を君のために生きている。」\n\nこの要約は、文章の主旨を簡潔に表現しています。"
     ]
   },
@@ -258,6 +258,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/8275412/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8275412/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8275412/8275412_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

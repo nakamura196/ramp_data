@@ -130,7 +130,7 @@
     }
   ],
   "summary": {
-    "ja": [
+    "none": [
       "この文章は、詩的な表現を用いており、具体的な内容を要約するのは難しいですが、以下のようにまとめることができます：\n\nこの詩は、お城や花の里、桜、恋の船、夢、祭りなどの美しい風景や情景を描写しています。詩の中で「ほんとにね」というフレーズが繰り返され、感情の強調がされています。全体として、自然や人々の生活、喜びを讃える内容となっています。"
     ]
   },
@@ -246,6 +246,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/8275061/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8275061/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8275061/8275061_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

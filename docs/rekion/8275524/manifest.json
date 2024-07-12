@@ -118,7 +118,7 @@
     }
   ],
   "summary": {
-    "ja": [
+    "none": [
       "内容を要約すると、以下のようになります：\n\n「そらるエキゾで有名な故郷、そらるに行く際には、武田泉や地下松の筆に残すべきものがある。大阪山村君の涙や人形遺産が木の間に生きているかのように感じられる。」\n\nこの文章は、そらるという場所に関する思い出や遺産について述べているようです。"
     ]
   },
@@ -234,6 +234,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/8275524/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8275524/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8275524/8275524_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

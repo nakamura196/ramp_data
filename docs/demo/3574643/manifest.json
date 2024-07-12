@@ -3,121 +3,121 @@
   "id": "https://nakamura196.github.io/ramp_data/demo/3574643/manifest.json",
   "type": "Manifest",
   "label": {
-    "ja": [
+    "none": [
       "講演：道徳、経済合一論（一）Union of Morality of Economy"
     ]
   },
   "metadata": [
     {
       "label": {
-        "ja": [
+        "none": [
           "作詞・作曲・編曲・実演家"
         ]
       },
       "value": {
-        "ja": [
+        "none": [
           "Shibusawa（渋沢　栄一）[作詞]"
         ]
       }
     },
     {
       "label": {
-        "ja": [
+        "none": [
           "作詞・作曲・編曲・実演家"
         ]
       },
       "value": {
-        "ja": [
+        "none": [
           "Shibusawa（渋沢　栄一）"
         ]
       }
     },
     {
       "label": {
-        "ja": [
+        "none": [
           "製作者（レーベル）"
         ]
       },
       "value": {
-        "ja": [
+        "none": [
           "ニッポノホン"
         ]
       }
     },
     {
       "label": {
-        "ja": [
+        "none": [
           "注記"
         ]
       },
       "value": {
-        "ja": [
+        "none": [
           "商品番号 : 15289"
         ]
       }
     },
     {
       "label": {
-        "ja": [
+        "none": [
           "注記"
         ]
       },
       "value": {
-        "ja": [
+        "none": [
           "デジタル変換後ノイズ除去 : ノイズ除去なし"
         ]
       }
     },
     {
       "label": {
-        "ja": [
+        "none": [
           "注記"
         ]
       },
       "value": {
-        "ja": [
+        "none": [
           "講演"
         ]
       }
     },
     {
       "label": {
-        "ja": [
+        "none": [
           "出版年月日(W3CDTF)"
         ]
       },
       "value": {
-        "ja": [
+        "none": [
           "0000"
         ]
       }
     },
     {
       "label": {
-        "ja": [
+        "none": [
           "歴史的音源ジャンル"
         ]
       },
       "value": {
-        "ja": [
+        "none": [
           "講義、講演、演説"
         ]
       }
     }
   ],
   "summary": {
-    "ja": [
+    "none": [
       "この文章は、道徳と経済の関係について述べています。著者は、道徳と生産力は本来共に進むべきものであると主張していますが、歴史的に誤解が生じてきたと指摘しています。古の聖人たちは人々に道徳を説くことに重点を置きましたが、その結果、後の学者たちは道徳と実務を対立するものと誤解しました。この誤解により、学問と実務が分離し、封建時代には学問が消費階級のものとなり、生産階級には無用とされました。著者は、このような誤解を解消し、道徳と経済が共に進むべきだと訴えています。"
     ]
   },
   "requiredStatement": {
     "label": {
-      "ja": [
+      "none": [
         "Attribution"
       ]
     },
     "value": {
-      "ja": [
+      "none": [
         "国立国会図書館 National Diet Library, JAPAN"
       ]
     }
@@ -128,7 +128,7 @@
       "id": "https://rekion.dl.ndl.go.jp/",
       "type": "Agent",
       "label": {
-        "ja": [
+        "none": [
           "国立国会図書館 National Diet Library, JAPAN"
         ]
       }
@@ -139,7 +139,7 @@
       "id": "https://rekion.dl.ndl.go.jp/pid/3574643",
       "type": "Text",
       "label": {
-        "ja": [
+        "none": [
           "講演：道徳、経済合一論（一）Union of Morality of Economy - 国立国会図書館デジタルコレクション"
         ]
       },
@@ -210,7 +210,7 @@
               "id": "https://nakamura196.github.io/ramp_data/demo/3574643/canvas/annotation/webvtt",
               "type": "Annotation",
               "label": {
-                "ja": [
+                "none": [
                   "日本語 (machine-generated)"
                 ]
               },
@@ -220,7 +220,7 @@
                 "type": "Text",
                 "format": "text/vtt",
                 "label": {
-                  "ja": [
+                  "none": [
                     "日本語 (machine-generated)"
                   ]
                 }
@@ -231,7 +231,7 @@
               "id": "https://nakamura196.github.io/ramp_data/demo/3574643/canvas/annotation/webvtt/2",
               "type": "Annotation",
               "label": {
-                "ja": [
+                "none": [
                   "English (machine-generated)"
                 ]
               },
@@ -241,7 +241,7 @@
                 "type": "Text",
                 "format": "text/vtt",
                 "label": {
-                  "ja": [
+                  "none": [
                     "English (machine-generated)"
                   ]
                 }

@@ -93,6 +93,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は、さまざまな地名や人名、出来事が混在しており、具体的なストーリーやテーマが明確ではありません。以下に要約を試みます。\n\n---\n\n大手鏡木の障害から始まり、上野で八幡を守り、出町に移り、心が早く成長する様子が描かれています。お経の恋や鐘の音、島の人々の使いなどが登場し、石引き町や川上町などの地名が次々と出てきます。河原町の昔と今の車の音、村里や島の村の話、娘を持つ清吉田という人物が紹介されます。夫が鹿児島村や若松村に行くことを嫌がり、最終的に平和が生まれるという流れです。家畜の道具や土器、刀などの詳細も含まれています。\n\n---\n\nこの要約は、文章の全体的な流れと主要な要素を簡潔にまとめたものです。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -137,6 +142,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/8267347/canvas",
       "type": "Canvas",
       "duration": 152.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8267347/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8267347/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8267347/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8267347/8267347_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/rekion/8267347/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/8267347/canvas/page",

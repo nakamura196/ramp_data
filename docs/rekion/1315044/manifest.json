@@ -93,6 +93,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "お杉が蟻の不断義を持ってきて、玄像がそれを受け取り柱に掛けました。お杉は酒漬を貸してくれと頼み、玄像は蟻の着物に酒漬を刺し、酒を注ぎました。玄像は、今宵本城松坂町平戸の屋敷へ行くことを告げ、別れの挨拶をしました。お杉は玄像が泣いているのを見て理由を尋ねましたが、玄像は泣いていないと答えました。玄像は次に会うことができないかもしれないと告げ、広島の浅野大学様のもとへ行くことを伝えました。お杉はそれが遠方であることを心配し、帰りがいつになるのか尋ねましたが、玄像はまだ先が長いと答えました。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -137,6 +142,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/1315044/canvas",
       "type": "Canvas",
       "duration": 187.08,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1315044/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1315044/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1315044/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1315044/1315044_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/rekion/1315044/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/1315044/canvas/page",

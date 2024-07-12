@@ -118,7 +118,7 @@
     }
   ],
   "summary": {
-    "ja": [
+    "none": [
       "内容を要約すると、以下のようになります：\n\n作詞・作曲および編曲はすべて山口雄二が担当しています。歌詞の一部には「津軽ゆかしき 顔どりよ」「ついたと言えばすぐと言うおまえ」などのフレーズが含まれています。"
     ]
   },
@@ -234,6 +234,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/8275630/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8275630/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8275630/8275630_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

@@ -94,7 +94,7 @@
     }
   ],
   "summary": {
-    "ja": [
+    "none": [
       "この文章は、春のソウル西洋の風景や自然の美しさを詩的に描写しています。四季の移り変わりや自然の光景、音、色彩が詳細に表現されており、それらが一体となって美しい景観を作り出している様子が伝わります。また、自然の恵みに対する感謝の気持ちも述べられています。"
     ]
   },
@@ -210,6 +210,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/8274950/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8274950/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8274950/8274950_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

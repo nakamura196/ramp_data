@@ -105,6 +105,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は、戦神の教えについて述べています。戦神は大名に基づき、戦いにおいて常に勝利を収めることを目指し、敵に対して尊厳を示す存在です。戦神を目指す者は、国の使命を深く理解し、軍の道義を守り、国の遺徳を尊重することが求められます。軍人精神の根本は、賢明な軍人の行動にあり、戦闘や訓練においてもその精神を持つべきです。戦神の環境においては、目の前の事象にとらわれず、常に大本を見失わないことが重要です。具体的な行動指針を示し、先人の教えを復興することが求められます。天皇を中心とした国の公謀を象徴し、国運を支えるために、先人の将兵は国体の本義を理解し、信念を堅持し、国を守る大任を果たすことが求められます。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -149,6 +154,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/8266881/canvas",
       "type": "Canvas",
       "duration": 183.08,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8266881/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8266881/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8266881/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8266881/8266881_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/rekion/8266881/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/8266881/canvas/page",

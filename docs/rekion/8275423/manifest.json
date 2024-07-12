@@ -154,7 +154,7 @@
     }
   ],
   "summary": {
-    "ja": [
+    "none": [
       "この文章は非常に抽象的で、具体的な内容を把握するのが難しいですが、以下のように要約できます：\n\n文章は、過去の作品や文化、生活のタイミングについての感情や考えを表現しています。特に「プライネル」という存在が重要であり、それが合流しなければ文化や生活の維持が難しいと述べています。また、自然や天体に関する描写も含まれており、全体的に詩的で感情的なトーンが強調されています。"
     ]
   },
@@ -270,6 +270,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/8275423/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8275423/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8275423/8275423_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

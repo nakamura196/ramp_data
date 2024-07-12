@@ -89,6 +89,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この内容は、誤った発音と正しい発音の例を示し、次に歌われる「ふ」「さ」「と」「せ」などの発音に注意を促すものです。具体的には、「青い柱 吉切が鳴くキリリ キリリ 吉切が鳴く」というフレーズが誤った発音と正しい発音の両方で示され、その後に「夏の暑さにそよ風吹いて岸の浜尾に吉切が鳴く」というフレーズが続きます。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -133,6 +138,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/8267708/canvas",
       "type": "Canvas",
       "duration": 192.08,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8267708/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8267708/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8267708/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8267708/8267708_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/rekion/8267708/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/8267708/canvas/page",

@@ -105,6 +105,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は、軍の精神と行動について述べています。要約すると以下の通りです：\n\n1. **幸運**：軍は天皇の精神を体現し、幸運をもたらす存在であるべき。大御心を奉じ、精武を兼ね備え、敵を断固として撃砕する。復讐はせず、慈しみの徳を持つことが重要。\n\n2. **軍旗**：皇軍の軍旗は絶対的な忠誠と崇高な精神を象徴。全軍が一体となり、戦争と治安確保のために統率を保つ。特に先陣は苦情の精神を実践し、献身的に行動することが求められる。\n\n3. **統率**：軍隊は統率を重視し、最長の意図に従い、団結を保つ。各将家はその分を厳守し、全体のために自己を犠牲にする覚悟が必要。\n\nこの要約は、軍の精神的な指針と行動規範を強調しています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -149,6 +154,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/8266882/canvas",
       "type": "Canvas",
       "duration": 221.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8266882/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8266882/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8266882/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8266882/8266882_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/rekion/8266882/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/8266882/canvas/page",

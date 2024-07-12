@@ -89,6 +89,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は、「唐瀧の花が咲いたよ」というフレーズを異なる方法で歌う例を紹介しています。以下がその要約です：\n\n1. ポルタメントを用いて歌う例。\n2. 飾り気のない自然な感情で歌う例。\n3. 特殊なポルタメントを用いて、舞踏のような表現で歌う例。\n4. 良いデザートを用いて歌う例。\n\nまた、「あそうだよ」というフレーズについても異なる方法で歌う例が紹介されています：\n\n1. 故郷を感じさせるポルタメントを用いた例。\n2. 上品なデザートを用いた例。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -133,6 +138,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/8267710/canvas",
       "type": "Canvas",
       "duration": 166.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8267710/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8267710/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8267710/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8267710/8267710_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/rekion/8267710/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/8267710/canvas/page",

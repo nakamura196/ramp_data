@@ -105,6 +105,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は非常に断片的で、具体的な内容を把握するのが難しいですが、以下のように要約できます：\n\n今夜、六兵衛が飛び出し、優勝の模範となる。小読み半蔵がいるかどうかは不明だが、身体が大きく背が高い。船が増え、鯖が額面に尾を上げて立派に修行を積んだ。独舞廟の陰で男と女が一年間浜で長月を待ち、今日の死について話をした。あんこちゃんは知らないが、鷲となり、仕事をして給与を得た。江戸の評判となり、吉原で全盛を極めた鷹おだゆうが職人となる。船上に住まず、店も繁盛し、六部陰境して急が二代目六部となり、夫婦の仲を保ち立派な家庭を作った。平成の真実の恋は今夜の読み切りである。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -149,6 +154,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/1315017/canvas",
       "type": "Canvas",
       "duration": 144.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1315017/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1315017/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1315017/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1315017/1315017_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/rekion/1315017/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/1315017/canvas/page",

@@ -130,7 +130,7 @@
     }
   ],
   "summary": {
-    "ja": [
+    "none": [
       "この文章は、詩的な表現を用いて自然や風景、人々の感情を描写しています。具体的には、広い海や空を見上げる情景、川の流れ、月夜の風景などが描かれています。また、感情の変化や人々の行動についても触れられています。全体として、自然の美しさと人々の感情が交錯する様子が表現されています。"
     ]
   },
@@ -246,6 +246,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/8275160/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8275160/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8275160/8275160_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

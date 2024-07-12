@@ -93,6 +93,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "要約すると、現在の日本では財閥と一般人民の対立があり、財閥の利益は一般人民の不利益となり、逆もまた然りです。国民は増税派（財閥派）と減税派（一般人民派）に分かれるべきですが、一般人民は自分たちの利益を理解せず、財閥の手先となる候補者に投票してしまうことが多いです。これが日本の経済問題の大きな原因です。国民は自分たちの利益を理解し、国家の利益と一致する候補者に投票すべきです。また、少数意見も議会で重要であり、実際に軍備制限や普通選挙の実現など、少数意見が国の大問題を解決した例もあります。将来も少数意見が重要な役割を果たすでしょう。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -137,6 +142,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/1314406/canvas",
       "type": "Canvas",
       "duration": 228.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1314406/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1314406/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1314406/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1314406/1314406_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/rekion/1314406/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/1314406/canvas/page",

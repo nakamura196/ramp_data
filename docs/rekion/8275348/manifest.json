@@ -130,7 +130,7 @@
     }
   ],
   "summary": {
-    "ja": [
+    "none": [
       "この内容は、山下達郎が作詞・作曲・編曲を手掛けた歌詞の一部です。歌詞は以下のようなテーマを含んでいます：\n\n1. 天獣を背に乗せて小歌を歌うと、花や岩のしぶきに虹が立つ。\n2. 空を見上げると晴れていて、なぜか嬉しい気持ちになる。\n3. 船が命の住居を運び、親や恋の架け橋となるが、いつ渡るのかは不明。\n\n全体として、自然の美しさや感情の高まり、そして人生の旅路を象徴する内容が描かれています。"
     ]
   },
@@ -246,6 +246,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/8275348/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8275348/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8275348/8275348_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

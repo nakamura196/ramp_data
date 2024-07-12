@@ -105,6 +105,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は非常に難解で、文脈が不明瞭な部分が多いですが、以下のように要約できます。\n\n相模は夫に向かい、わが子の死について話をしている。彼女は既に諦めているが、厚森卿と小尻を取り替えようとする。小尻を連れ帰ったが、厚森卿は白山を追いかけて出て行った。小尻を見つけたかどうかは不明で、話は江戸に移る。江戸でも後悔し、百里二百里と旅を続ける。小尻を見つけたかどうかは再び不明で、戦に参加することを願う。最終的に、戦の中で願いが叶い、彼女の息子小尻が戦に参加することになる。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -149,6 +154,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/3579070/canvas",
       "type": "Canvas",
       "duration": 350.08,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/3579070/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/3579070/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/3579070/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/3579070/3579070_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/rekion/3579070/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/3579070/canvas/page",

@@ -118,7 +118,7 @@
     }
   ],
   "summary": {
-    "ja": [
+    "none": [
       "この内容は、東京都大学院大学の院長が特定の年に教授を誘導したことや、特定の日に卒業したこと、また特定の日に15歳になったことを記述しています。以下に要約します。\n\n1940年から1964年にかけて、東京都大学院大学の院長は複数回にわたり教授を誘導した。1991年5月23日、院長は卒業した。2014年3月21日から3月28日にかけて、院長は15歳になった。2001年2月29日、2012年3月29日、2014年3月29日に院長は卒業した。"
     ]
   },
@@ -234,6 +234,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/8275350/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8275350/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8275350/8275350_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

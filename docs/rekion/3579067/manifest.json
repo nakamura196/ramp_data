@@ -105,6 +105,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は非常に難解で、文脈や意味が不明瞭な部分が多いですが、以下のように要約できます：\n\nある子供が無官の大夫として誕生し、16年間国を隔てて過ごしました。親子の関係は一年間だけで、最後には医者に対する恨みを抱いて死にました。夫も戦後の涙を流し、千代の思いを抱えています。ある時、小銭に誘われて耳をじらぬ話を聞き、医者が悪魔であることを知ります。出院の際に急いで人間の世界に戻り、医者をやめることを決意します。幽霊の話を聞いて安心し、最後には人間の感情について考えます。\n\nこの要約は、元の文章の複雑さと曖昧さを考慮しつつ、主要なポイントを抽出したものです。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -149,6 +154,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/3579067/canvas",
       "type": "Canvas",
       "duration": 310.08,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/3579067/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/3579067/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/3579067/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/3579067/3579067_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/rekion/3579067/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/3579067/canvas/page",

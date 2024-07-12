@@ -106,7 +106,7 @@
     }
   ],
   "summary": {
-    "ja": [
+    "none": [
       "この文章は、山伏（やまぶし）という修行者の姿やその意味について述べています。山伏は厳しい修行を行い、特有の装束を身にまとっています。彼らの修行は、内面的な慈悲の徳を養い、外面的には強い意志を示すものです。山伏の装束や持ち物には、それぞれ深い意味があり、修行の過程で得られる徳や力を象徴しています。特に、金剛杖（こんごうづえ）という杖は、天竺（インド）から伝わったもので、修行者の精神的な力を表しています。"
     ]
   },
@@ -222,6 +222,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/8275631/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8275631/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8275631/8275631_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

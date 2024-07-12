@@ -89,6 +89,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は、古い発音法と新しい発音法で歌われた「この道」という歌について述べています。古い発音法では、歌詞の本質を理解せずに歌われていましたが、新しい発音法では歌詞の持つ味を表現しています。特に、映画の高速度撮影の手法を用いて、歌詞の特質を明瞭に示すために極めて緩やかに歌われています。歌詞の一部「この道はいつか来た道、ああ、そうだよアカシアの花が咲いてる」が繰り返されています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -133,6 +138,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/8267706/canvas",
       "type": "Canvas",
       "duration": 173.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8267706/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8267706/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8267706/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8267706/8267706_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/rekion/8267706/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/8267706/canvas/page",

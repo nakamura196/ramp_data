@@ -142,7 +142,7 @@
     }
   ],
   "summary": {
-    "ja": [
+    "none": [
       "この文章は、詩的な表現を用いて、戦いや自然の風景、感情の移り変わりを描写しています。具体的には、戦いの中での情景や、夜の月明かり、風にそよぐ草木、秋風に乗る哀愁などが描かれています。全体として、戦いと自然、そして感情の交錯がテーマとなっています。"
     ]
   },
@@ -258,6 +258,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/8275365/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8275365/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8275365/8275365_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

@@ -93,6 +93,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は、昔のご夫人たちが持っていた「いろげ」（色気）について述べています。具体的には、風邪を敷いたときに江戸桜座や玉江の木工所の紙を貼ることが色っぽいとされていたことや、梅干しを貼ることが不快であることが述べられています。また、目が悪い女性が白いハンカチで拭くことが色気に欠けるとされています。さらに、尺という山に住む女性が男と手をつなぐ様子や、オクレゲ（髪の毛）が黒くて十五六本あることが嬉しくないと感じることが描かれています。最後に、苦しい状況で男の顔を見つめる女性の目つきについても触れられています。全体的に、昔の女性の色気や行動についての感想や描写が中心となっています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -137,6 +142,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/8268051/canvas",
       "type": "Canvas",
       "duration": 146.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8268051/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8268051/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8268051/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8268051/8268051_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/rekion/8268051/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/8268051/canvas/page",

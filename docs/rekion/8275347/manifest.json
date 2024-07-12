@@ -130,7 +130,7 @@
     }
   ],
   "summary": {
-    "ja": [
+    "none": [
       "この内容は、詩的な表現と音楽的な要素が組み合わさった文章です。以下の要約を提供します：\n\n鳥が飛び交う広大な風景や、しぶきが立つ様子が描かれています。夢の中でさえも、立ちたいという願望が表現され、帰る日を待ち望む気持ちが込められています。繰り返し「Sound Hodori 사운드 호돌이 サウンド ホドリ」というフレーズが登場し、全体のリズムを作り出しています。"
     ]
   },
@@ -246,6 +246,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/8275347/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8275347/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8275347/8275347_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

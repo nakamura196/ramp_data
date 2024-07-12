@@ -106,7 +106,7 @@
     }
   ],
   "summary": {
-    "ja": [
+    "none": [
       "この文章は非常に難解で、古典的な文体や専門用語が多く含まれていますが、要約すると以下のような内容です：\n\nある重要な文書が伝わり、その内容は宗教的な儀式や教義に関するものである。この文書は代々受け継がれ、特定の儀式や教えを守るために使用されてきた。文書の内容には、悪を退ける方法や正しい行いについての指示が含まれており、これを実践することで人々は救われるとされている。また、特定の儀式や祈りの方法についても詳細に記されており、それを正しく行うことで霊的な力を得ることができるとされている。\n\nこの要約は、文章の全体的なテーマと主要なポイントを簡潔にまとめたものです。"
     ]
   },
@@ -222,6 +222,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/8275632/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8275632/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8275632/8275632_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

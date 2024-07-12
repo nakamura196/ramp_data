@@ -105,6 +105,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は、音楽の演奏やポスターの貼り方、スパイの警戒、外国人との関係、商売の現状などについての雑多な話題を含んでいます。以下に要約します：\n\n1. **音楽の演奏**: 名人会で歌を披露する予定。\n2. **ポスターの貼り方**: ポスターを貼る場所を考えないと失敗する例を紹介。\n3. **スパイの警戒**: スパイが身近にいる可能性があり、注意が必要。\n4. **外国人との関係**: 外国人と一緒にいる女性がスパイに利用されるリスクがある。\n5. **商売の現状**: 商売が現金取引になり、買い手も売り手も気を使うようになった。商人は笑顔で接客することが大切。\n\n全体として、日常生活や社会の中での注意点や心構えについて述べています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -149,6 +154,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/8272512/canvas",
       "type": "Canvas",
       "duration": 219.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8272512/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8272512/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8272512/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8272512/8272512_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/rekion/8272512/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/8272512/canvas/page",

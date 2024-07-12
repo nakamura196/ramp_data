@@ -130,7 +130,7 @@
     }
   ],
   "summary": {
-    "ja": [
+    "none": [
       "この内容は、丸山剛が作詞・作曲・編曲を手掛けた歌詞の一部です。歌詞は以下のようなテーマを含んでいます：\n\n1. 「おびわらうみとうひぶき」：たまに便りを聞かせてほしいという願い。\n2. 「あいさつばきのはなかげ」：花の影での挨拶や、疲れてうたた寝をする情景。\n3. 「こころぼそいぞみどりのかみ」：心細さや、夕焼けの波に対する感情。\n\n全体として、自然や感情に関する詩的な表現が多く含まれています。"
     ]
   },
@@ -246,6 +246,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/8275185/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8275185/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8275185/8275185_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

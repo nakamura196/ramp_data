@@ -154,7 +154,7 @@
     }
   ],
   "summary": {
-    "ja": [
+    "none": [
       "この歌詞は、春の旅を楽しむ様子を描いています。二人で山に出かけ、歌いながら旅を楽しむ様子が描かれています。箱根山や富士山などの風景が登場し、春の自然の美しさが強調されています。また、旅の途中での様々な出来事や風景が生き生きと描かれています。全体的に、春の旅の楽しさと美しさを歌った内容です。"
     ]
   },
@@ -270,6 +270,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/8275424/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8275424/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8275424/8275424_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

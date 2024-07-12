@@ -93,6 +93,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "政府と反対党は選挙で支持を得るために異なる政策を提案していますが、どちらも財源について具体的な説明をしていません。政府は起訴を利用し、反対党は教育費を国庫に移すことを主張していますが、財源がなければ実現不可能です。両党とも増税を提案しており、不景気を悪化させる可能性があります。特に、少数の利益を優先し多数を苦しめる増税は問題です。例えば、政府が提案する開館税の増税は、木材を売る少数の利益を増やし、木材を買う多数を苦しめる結果になります。増税は不景気をさらに深刻にするため、国民は慎重に投票すべきです。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -137,6 +142,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/1314404/canvas",
       "type": "Canvas",
       "duration": 234.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1314404/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1314404/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1314404/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/1314404/1314404_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/rekion/1314404/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/1314404/canvas/page",

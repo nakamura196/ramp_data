@@ -105,6 +105,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は非常に混乱しており、一貫した意味を持つ内容を見つけるのが難しいです。いくつかの部分は無意味な文字列や繰り返しが含まれており、他の部分は断片的な会話や感情的な表現が含まれています。要約すると、以下のような要素が含まれています：\n\n1. 混乱した文字列や繰り返し（例：「ああああああああいいいいいつもいいいい」）。\n2. 感情的な対話の断片（例：「何を言うのじゃいがなぁ そなたも島をさんの娘ではないか」）。\n3. 一部の単語やフレーズが意味を持つが、全体としては一貫性がない（例：「おいどんは一生この島を出られん身の上じゃ」）。\n\n全体として、文章は一貫したストーリーやメッセージを伝えるものではなく、断片的で混乱した内容です。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -149,6 +154,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/3579570/canvas",
       "type": "Canvas",
       "duration": 202.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/3579570/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/3579570/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/3579570/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/3579570/3579570_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/rekion/3579570/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/3579570/canvas/page",

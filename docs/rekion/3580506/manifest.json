@@ -93,6 +93,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は、軍隊の精神や行動指針について述べたものです。以下に要約します：\n\n1. **強度と協力**：各隊は互いの任務を尊重し、名誉を重んじ、助け合いながら苦難に立ち向かい、全軍の勝利を目指すべきである。\n2. **攻撃精神**：戦闘では常に攻撃精神を持ち、敵を粉砕するために勇猛果敢に行動し、防御も攻勢を含むべきである。自由を信じ、恐れずに大胆に行動し、勝利を確信することが重要である。\n3. **信念**：信念は力であり、自らを信じることで勝利を得る。訓練を惜しまず、実力を養い、歴史に学び、常に忠誠心を持って行動すべきである。\n4. **行動の忠孝**：忠孝は国の精神であり、終生守るべきものである。先人の功績を尊重し、大義に徹することで祖先の遺風を継承することが求められる。\n\nこの要約は、文章の主要なポイントを簡潔にまとめたものです。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -137,6 +142,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/3580506/canvas",
       "type": "Canvas",
       "duration": 204.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/3580506/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/3580506/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/3580506/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/3580506/3580506_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/rekion/3580506/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/3580506/canvas/page",

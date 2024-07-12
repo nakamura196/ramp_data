@@ -89,6 +89,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この内容は、音階の歌い方に関する説明です。最初の方法は、音の高さに関係なく口を同じ形に開け、喉の働きだけで音を出す方法です。次の方法は、音の高さに応じて口の開け方を変え、舌やあごの動きを使って喉を自由に開放する歌い方です。ドイツ語のLの発音を例に、キューベルトの「モルゲン・グループ」という曲で、古い発音法と新しい発音法の違いを示しています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -133,6 +138,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/8267705/canvas",
       "type": "Canvas",
       "duration": 171.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8267705/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8267705/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8267705/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8267705/8267705_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/rekion/8267705/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/8267705/canvas/page",

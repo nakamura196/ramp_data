@@ -106,7 +106,7 @@
     }
   ],
   "summary": {
-    "ja": [
+    "none": [
       "この文章は非常に難解で、具体的な内容を把握するのが難しいですが、要約すると以下のようになります：\n\n戦士たちが激しい戦闘を繰り広げ、敵を殲滅しようとする中で、多くの犠牲が出る。戦闘は混乱し、敵は次々と襲いかかってくるが、戦士たちは奮闘し続ける。最終的に、戦士たちは勝利を収め、帰還するが、その過程で多くの血が流れる。\n\nこの要約は、元の文章の詩的で象徴的な表現を簡略化したものです。"
     ]
   },
@@ -222,6 +222,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/8275127/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8275127/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8275127/8275127_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

@@ -154,7 +154,7 @@
     }
   ],
   "summary": {
-    "ja": [
+    "none": [
       "この文章は非常に難解で、具体的な内容を把握するのが困難です。しかし、全体的に見ると、戦いや困難な状況に立ち向かう人々の姿や、自然の力（雨など）に対する描写が含まれているようです。また、友情や忠誠心、戦いの結果などについても触れられているようです。"
     ]
   },
@@ -270,6 +270,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/8275395/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8275395/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/rekion/8275395/8275395_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },
