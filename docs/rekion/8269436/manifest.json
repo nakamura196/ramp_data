@@ -81,6 +81,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "内容を要約します。\n\n昔と今ではすべてのものが変わり、昔は「恋やまえ」というものがありましたが、今では「ジャボシック」と呼ばれるようになりました。ある人が病気で寝ていると、友人が訪ねてきて、表の扉を開けるように頼みます。扉を開けると庭がびちゃびちゃで、カンヌチ（門の柱）がひっくり返っていることに気づきます。友人は病気の原因を尋ねますが、病人は笑われるのを恐れて答えません。友人は病気の深刻さを理解し、笑わないと約束します。病人は「こいやまい」という病気で、友人はその話を聞いて驚きます。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -166,6 +171,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/8269436/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/8269436/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/8269436/8269436_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

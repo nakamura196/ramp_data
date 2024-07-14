@@ -105,6 +105,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は非常に断片的で、具体的な意味を把握するのが難しいですが、要約すると以下のようになります：\n\n「君は名も無い女の子を見つけに来ている。君の情報によれば、その女の子は八重にかかる場所にいる。君の真っ白な髪の毛と顔が特徴的で、お金屋の上にいる。」\n\nこの要約は、元の文章の断片的な内容をできるだけ簡潔にまとめたものです。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -190,6 +195,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/8269696/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/8269696/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/8269696/8269696_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

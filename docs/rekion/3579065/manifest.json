@@ -105,6 +105,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は非常に難解で、古典的な日本語のようです。内容を要約すると、ある人物が他の人物の首を取る場面が描かれています。首を取った後、その首を見せることで何かを証明しようとしているようです。また、首を取る行為に対する感情や、その行為が他の人々に与える影響についても触れられています。全体的に、戦いや武士の名誉に関する内容のようです。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -190,6 +195,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/3579065/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/3579065/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3579065/3579065_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

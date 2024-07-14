@@ -93,6 +93,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "このテキストは、いくつかの異なる歌詞の断片を含んでいます。以下に要約します：\n\n1. **フォーリー・ウォーリー・デュードルハリボリ・ミル・オブ・ゲイ**:\n   - 谷間の教会についての歌詞。子供時代に親しんだ小さな茶色の教会が描かれています。\n\n2. **トップ・ゴースト・ウィーゾー**:\n   - カーペットのベンチの周りで猿がイタチを追いかける様子が描かれています。また、時間がないことや別れのキスについても触れられています。\n\n3. **Home Sweet Home**:\n   - 家の魅力と、どんなに遠くに行っても家ほど素晴らしい場所はないというテーマの歌詞です。\n\n全体として、これらの歌詞はノスタルジアや家、教会、別れなどのテーマを扱っています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -178,6 +183,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/3578974/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/3578974/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3578974/3578974_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

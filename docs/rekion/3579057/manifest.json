@@ -105,6 +105,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は非常に難解で、古風な言葉遣いや文法が混在していますが、要約すると以下のようになります：\n\n若武者が戦いに参加し、約束を守るために奮闘する様子が描かれています。彼は刀を手に取り、敵と戦う決意を固めますが、戦場での困難や悲しみも経験します。最終的には、彼の行動が平家の一部を倒すことに繋がり、戦いの結果に影響を与えることになります。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -190,6 +195,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/3579057/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/3579057/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3579057/3579057_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

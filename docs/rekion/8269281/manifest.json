@@ -81,6 +81,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "ある人物が右の枝に飛び上がると、上の方で異変が起こり、石原へ向かいます。そこで寄生している何者かを発見し、国勢調査に漏れた存在だと気づきます。顔の赤い花のような高い人がケンゴであることに気づき、ケンゴに捕まると困るので檻を進むと、獅子が根元まで来ていました。地面にはケンゴ、下には獅子という状況で、身を捨てて飛び降り、獅子の中にうまく乗ります。獅子に乗っていると、猪の首が無いことに気づき、盾が欲しいと思います。盾は千田の木橋から捨てたもので、横手の萩の間から首が出てきます。萩の間から首が出ると大変なことになり、後に続く話が展開されます。最終的に、命の尾を引っ張ると伸び、金玉に触れると命が泣き出します。さらに、熊が現れ、腰に下げたあずきのさいたんを投げて熊を倒します。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -166,6 +171,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/8269281/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/8269281/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/8269281/8269281_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

@@ -81,6 +81,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は非常に詩的で抽象的な表現が多く、具体的な内容を要約するのは難しいですが、以下のように要約できます：\n\n「私は尾道から出発し、光が戻る時期に世の終わりを感じる。親の時代からの苦しみや心の痛みを感じながら、血の繋がりを求めるが、それは残酷なものだ。膝の痛みや無慈悲な状況に直面しながら、日常の中でお茶を入れたり、町を歩いたりする。黒い心の味を感じながら、日々を過ごしている。」\n\nこの要約は、元の文章の詩的な要素をできるだけ保ちながら、主要なテーマを抽出したものです。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -166,6 +171,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/8267010/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/8267010/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/8267010/8267010_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

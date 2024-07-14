@@ -89,6 +89,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は、日本語の発音に関する説明をしています。具体的には、「く」「つ」「ふ」「む」「ぐ」の音が母音を伴わずに単独で発音されることを述べています。例えば、「さくら」や「おんがく」などの単語では「く」が単独で発音され、「すこし」や「はつか」などの単語では「す」が単独で発音されます。また、「ふくさ」や「よふけ」などの単語では「ふ」が単独で発音され、「かんむり」や「さむさ」などの単語では「む」が単独で発音されます。さらに、「うるし」や「かるさ」などの単語では「る」が単独で発音されます。\n\nまた、鼻にかかった音として発音することが正しいとされる例も挙げられています。例えば、「たながら」や「すぎゆく」などの単語では鼻にかかった音で発音されます。\n\n最後に、「ふ」の音は通常「fu」と続けて発音されますが、狭い口径による「hu」の発音が正しいとされています。また、日本語の「r」の音は「d」と「l」の混合音であり、英語の「r」や「l」とは異なる発音であると説明されています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -174,6 +179,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/8267707/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/8267707/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/8267707/8267707_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

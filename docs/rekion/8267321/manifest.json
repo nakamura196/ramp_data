@@ -69,6 +69,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この内容は繰り返しの多い文章で、具体的な意味を持たないようです。要約すると、「あげたさあすよりかやりのげによあんさらえ」というフレーズが繰り返され、「あげてひとりにあげてしょうがかんぼうど」というフレーズも繰り返されています。全体としては、特定の意味や情報を伝えるものではないようです。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -154,6 +159,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/8267321/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/8267321/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/8267321/8267321_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

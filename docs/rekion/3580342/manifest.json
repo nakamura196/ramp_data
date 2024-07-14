@@ -93,6 +93,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "内容を要約すると、以下のようになります：\n\nある人が友人の家を訪れ、赤ちゃんが生まれたことを報告し、名前をつけてもらうよう頼みます。友人は「初七日」という言葉の意味を説明し、赤ちゃんの名前をつけるのは重要なことだと話します。訪問者は、名前をつけるのに詳しい人に頼むべきだと考え、友人に助けを求めます。友人は冗談を交えながらも、赤ちゃんにふさわしい名前を考えることを約束します。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -178,6 +183,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/3580342/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/3580342/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3580342/3580342_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

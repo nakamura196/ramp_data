@@ -81,6 +81,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は非常に断片的で、具体的な内容や文脈が不明瞭です。登場人物が複数存在し、会話が断続的に続いているようですが、具体的なテーマやストーリーが明確ではありません。以下は、文章の要約を試みたものです：\n\n登場人物たちが会話を交わしており、何かの計画ややりとりについて話しています。特定の作品や物事についての評価や意見交換が行われているようです。会話の中で、年齢や役割についての言及もありますが、全体として具体的な内容や結論は明示されていません。\n\nこの文章は、元の文脈や詳細な情報が不足しているため、完全な要約を提供するのが難しいです。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -166,6 +171,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/8267973/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/8267973/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/8267973/8267973_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },
