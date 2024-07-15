@@ -105,6 +105,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は、12月の寒さと孤独感を描写しています。主人公はアパートの空白な洋室で寂しく過ごし、人生の疲れや飢えを感じています。昼間は酒場で酔おうとし、夜はベッドで熊のように眠ります。火の美しさに魅了されつつも、全てを焼き尽くす炎の恐ろしさを思い描きます。焦沢気候の中で孤独に歩き、悲しげな夢に溺れる日々を過ごします。最後に、別れを告げる相手との思い出が描かれ、再び会うことのない寂しさが強調されています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -149,6 +154,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/3571577/canvas",
       "type": "Canvas",
       "duration": 181.08,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/3571577/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/3571577/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3571577/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/3571577/3571577_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/3571577/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/3571577/canvas/page",

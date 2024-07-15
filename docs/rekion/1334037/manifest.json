@@ -177,6 +177,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は非常に断片的で意味が取りにくい部分が多いですが、以下のように要約できます：\n\n「フーライパワンに発紙を投げ込むことを考えている。Producer認定の黒多いドロッコメ殿が椅子際にいる。水を飲んだ後、何かを終わらせる。日本人が赤と黄色の服を着ている。」\n\nこの要約は、元の文章の断片的な情報を基にしています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -221,6 +226,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/1334037/canvas",
       "type": "Canvas",
       "duration": 188.08,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/1334037/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/1334037/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/1334037/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/1334037/1334037_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/1334037/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/1334037/canvas/page",

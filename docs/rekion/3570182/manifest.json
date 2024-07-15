@@ -141,6 +141,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "内容を要約します。\n\n「おかさわしを見ていると、わしはおかさを見ているのか取られているのか分からない。水のつきうしょんのことではない。これはおなつの歌だ。おなつの歌は何かというと、おなつの歌はくっするころさま。この世を生きるよりも、おむおりを生きる方が良い。あそこへせいじゅうろうが来た。どこへ？そこへすげんあさんがいる。」\n\nこの文章は詩的で抽象的な表現が多く、具体的な意味を捉えるのが難しい部分がありますが、主要な要素をまとめました。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -185,6 +190,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/3570182/canvas",
       "type": "Canvas",
       "duration": 197.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/3570182/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/3570182/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3570182/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/3570182/3570182_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/3570182/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/3570182/canvas/page",

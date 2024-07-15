@@ -141,6 +141,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は、ある人物が「おめかちゃん」と呼ばれる女性に対して、彼女を可愛がるように頼んでいる場面を描いています。彼は、彼女が以前は可愛がられていたことを思い出させ、再び可愛がってもらうように説得しています。しかし、彼女の現在の姿（いがぐり頭）が問題となり、家に置いてもらうためにはその頭が人並みになる必要があると言われます。彼はそれに対して、そんなに待てないと反論し、最終的には旅に出るための「わらいせん」として百両を要求し、それを受け取ります。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -185,6 +190,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/3571799/canvas",
       "type": "Canvas",
       "duration": 207.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/3571799/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/3571799/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3571799/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/3571799/3571799_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/3571799/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/3571799/canvas/page",

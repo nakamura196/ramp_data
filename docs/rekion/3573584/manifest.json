@@ -93,6 +93,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "要約：\n\n小学校一本の皆様、丸々先生、女子部付近の会社に第四日目の放送をお送りします。昨晩、我々の一行の一人である自衛隊平塚新城の青年が九州の戦線を突破し、鹿野予州に突入しました。町は戦争の影響で大きな被害を受け、崩れた煉瓦や焼け残った柱などが散乱しています。一部の町は全く破壊されていない場所もありますが、戦争の痕跡が至る所に見られます。住民は数千人が避難し、汚れた顔や着物で警備の日本兵を恐れながらも復讐心を抱いています。戦いに敗れてはならず、勝利が全てを解決すると信じています。現在、女子部の街にはほとんど物資がなく、軍隊は互いに物資を分け合っています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -137,6 +142,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/3573584/canvas",
       "type": "Canvas",
       "duration": 180.08,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/3573584/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/3573584/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3573584/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/3573584/3573584_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/3573584/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/3573584/canvas/page",

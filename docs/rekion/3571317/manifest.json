@@ -81,6 +81,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "俳句は400年の歴史を持ち、その存続には「期待」が重要な役割を果たしています。期待がなければ俳句は滅びてしまいますが、死は新しい形で存続します。俳句を「課長風営の文学」と表現し、期待を「課長風月」として示しています。俳句は17文字で構成され、期待によって制限された文学であり、初めは不自由に感じられるかもしれませんが、慣れてくると自由に感じられるようになります。これは狭い部屋で長い槍を使うようなもので、練習を重ねることで自在に使えるようになるのと同じです。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -125,6 +130,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/3571317/canvas",
       "type": "Canvas",
       "duration": 190.08,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/3571317/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/3571317/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3571317/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/3571317/3571317_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/3571317/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/3571317/canvas/page",

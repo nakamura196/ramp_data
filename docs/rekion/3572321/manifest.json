@@ -93,6 +93,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "第72議会では、膨大な予算が全会一致で迅速に承認されました。このことは日本以外の国では珍しく、日本内部の分裂を期待していた中国にとっても意外な精神的打撃となりました。私は国民の協力と敬意に感謝し、日本の歴史的組織の尊厳を再認識しました。国家は単なる利益団体ではなく、文化的使命を持つ共同体であり、国民は自己利益を追求するだけでなく、民族国家を通じて人類に貢献する精神的存在です。この新しい要求は、日本の国家組織においては先天的に具現されており、国家総動員は強制を待たずして自然に行われるものです。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -137,6 +142,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/3572321/canvas",
       "type": "Canvas",
       "duration": 161.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/3572321/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/3572321/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3572321/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/3572321/3572321_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/3572321/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/3572321/canvas/page",

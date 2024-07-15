@@ -141,6 +141,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は非常に難解で、古風な言い回しや曖昧な表現が多く含まれています。要約すると、以下のような内容が含まれていると考えられます：\n\n- 話し手は、相手に対して疑いを持っている。\n- 話し手は都の島原で「木更木」という形勢にある。\n- 勇者が波濤を越えてこの国に来ることはないと述べている。\n- 話し手は相手に対して不信感を持っている。\n- 過去の出来事について言及し、相手の心情を推測している。\n\n全体として、話し手が相手に対して疑念や不信感を抱いていることが主な内容です。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -185,6 +190,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/3570163/canvas",
       "type": "Canvas",
       "duration": 168.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/3570163/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/3570163/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3570163/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/3570163/3570163_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/3570163/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/3570163/canvas/page",

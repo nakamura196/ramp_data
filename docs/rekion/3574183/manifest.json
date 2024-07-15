@@ -105,6 +105,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "内容を要約します。\n\n登場人物が出家することになり、名前が変わる前にもう一度「とらじ」と呼んでほしいと父親に頼みます。父親が「とらじ」と呼ぶと、彼女は駆け寄り抱きしめます。別れの時が悲しく、鐘の音がその別れを告げる中、涙の物語が展開されます。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -190,6 +195,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/3574183/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/3574183/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3574183/3574183_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

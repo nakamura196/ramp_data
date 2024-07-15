@@ -93,6 +93,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "陸軍航空部隊は海軍航空部隊と協力し、敵航空機の攻撃や地上部隊の支援、船団の援護を行っています。最近の航空戦闘では、我が軍の損害に対して敵の損害は常に数倍に上ります。ニューギニア方面では、6月以降、敵飛行機約500機、艦艇18隻、輸送船約40隻、襲艇約50隻以上を撃墜し、地上戦闘で少なくとも1万4千の敵を撃破しました。この地域での作戦は厳しい環境下で行われ、補給も困難ですが、敵も同様に苦しんでいます。敵の第一線兵士は生活に悩み、精神的にも追い詰められています。南方方面の状況については、後ほど海軍大臣から報告がある予定です。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -178,6 +183,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/3574086/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/3574086/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3574086/3574086_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

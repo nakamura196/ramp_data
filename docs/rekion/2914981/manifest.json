@@ -69,6 +69,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は、詩的な表現が多く含まれており、具体的な内容を一言で要約するのは難しいですが、以下のように要約できます。\n\nこの詩は、自然の美しさや歴史、神秘的な存在、そして人々の心の動きや信仰について描かれています。波や風、雲などの自然現象が鮮やかに描写され、古代のアイヌ文化や神々の存在が感じられます。また、信仰や祈り、芸術的な要素も含まれており、全体としては深い感情と美しさが表現されています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -113,6 +118,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/2914981/canvas",
       "type": "Canvas",
       "duration": 185.08,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/2914981/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/2914981/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/2914981/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/2914981/2914981_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/2914981/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/2914981/canvas/page",

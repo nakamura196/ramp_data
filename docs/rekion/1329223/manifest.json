@@ -141,6 +141,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は非常に難解で、意味を解釈するのが困難です。文中には多くの繰り返しや意味不明な部分が含まれており、具体的な内容を把握するのが難しいです。ただし、以下のような要素が含まれているようです：\n\n- お札や石に関する話題\n- 「おのご」や「おのにがの」といった言葉\n- 「こがれしおすがた」や「えにかかせはせぬもの」といった表現\n- 自然の描写（枝や葉、花など）\n- 「おきよどころのあらいぐ」というフレーズの繰り返し\n\n全体として、詩的で抽象的な表現が多く、具体的なストーリーやメッセージを特定するのは難しいです。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -185,6 +190,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/1329223/canvas",
       "type": "Canvas",
       "duration": 217.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/1329223/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/1329223/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/1329223/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/1329223/1329223_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/1329223/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/1329223/canvas/page",

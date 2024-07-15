@@ -81,6 +81,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "明治38年12月21日の連合艦隊解散式における演説の要約です。\n\n10月に戦争が終結し、連合艦隊はその任務を終えて解散することになりました。しかし、海軍軍人の責務はこれで軽減されるわけではありません。海軍は常にその武力を海洋に保ち、一朝有事に備える覚悟が必要です。艦船や兵器だけでなく、それを活用する実力が重要であり、軍人は常にその実力を磨くべきです。\n\n過去の戦いでは多くの困難を乗り越え、生死の間をさまよったこともありましたが、それもまた武人の幸福といえます。戦争が終わっても、武人としての責務は続き、日々の訓練と準備が重要です。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -125,6 +130,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/3572554/canvas",
       "type": "Canvas",
       "duration": 206.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/3572554/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/3572554/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3572554/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/3572554/3572554_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/3572554/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/3572554/canvas/page",

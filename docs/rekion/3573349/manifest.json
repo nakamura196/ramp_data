@@ -93,6 +93,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "11日の朝5時、各部隊は武器を手に集結し、我が軍は飛行機で降伏勧告を行ったが、夜になっても返事がなかった。そこで砲兵が攻撃を開始し、敵も激しい反撃を行った。15日午前10時に最後の突撃を予定していたが、激しい集中射撃で進行が遅れた。私は軍司令部に戻り、再び前線に向かうと、兵団長が第一線に出る準備をしていた。私は兵団長に思いとどまるよう説得したが、兵団長は部下と最後の別れをしたいと涙ながらに語った。午後4時10分、敵の指揮官パーシファルが降伏し、戦闘は終結した。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -137,6 +142,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/3573349/canvas",
       "type": "Canvas",
       "duration": 278.08,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/3573349/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/3573349/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3573349/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/3573349/3573349_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/3573349/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/3573349/canvas/page",

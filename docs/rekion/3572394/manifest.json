@@ -93,6 +93,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "政府は、世界の歴史的転換期において、天皇陛下の指導のもと、ドイツとイタリアと三国条約を締結し、世界平和と進歩のために協力することを決定しました。この決定に際し、副省内閣総理大臣は責任の重大さを痛感し、国民に対して真相を語り、奮起を促したいと述べています。シナ事変以来、陸海軍の奮闘により戦火を収めましたが、東亜の情勢は複雑化し解決が困難になっています。日本はこの紛争を解決し、世界の旧秩序の矛盾を解消するために重要な役割を果たす必要があるとしています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -137,6 +142,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/3572394/canvas",
       "type": "Canvas",
       "duration": 146.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/3572394/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/3572394/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3572394/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/3572394/3572394_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/3572394/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/3572394/canvas/page",

@@ -93,6 +93,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "要約：\n\n一丹川の戦いで、3月2日夜以降に四国時で敵と戦い、7日午後に敵を撃破して占領しました。8日午前10時には敵の首領と軍を捕らえ、ビルマ演奏廊を完全に遮断しました。南方の戦況は概ねこの通りで、開戦以来3月10日までに判明した総合戦果として、捕虜は累計21万を超え、敵の飛行機損害は約1600機に達しました。戦利品として火砲約2100万、銃器約19万丁、戦車・自動車・鉄道車両等約2万8000両が得られました。その他の戦果も多数に上ると予想されます。施設や資源には一部損害がありますが、大部分は無事に摂取できる見込みです。破壊された施設も日本軍の指導のもとで復旧が進められています。香港、シンガポール、ジャワ島の敵軍を制圧し、ビルマの首都も攻略しました。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -137,6 +142,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/3573720/canvas",
       "type": "Canvas",
       "duration": 180.08,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/3573720/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/3573720/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3573720/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/3573720/3573720_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/3573720/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/3573720/canvas/page",
@@ -178,6 +210,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/3573720/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/3573720/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3573720/3573720_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

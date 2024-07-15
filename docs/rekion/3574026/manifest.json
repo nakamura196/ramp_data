@@ -93,6 +93,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は、日本の国民が一体となって戦争に取り組むべきだという主張を述べています。具体的には、長い歴史と親恩に育まれた日本国民が、戦争の目的を達成するために全力を尽くすべきだと強調しています。大将の誠意と志に応えるため、国民全体が協力し、国の総力を挙げて戦線の目的を達成することを目指しています。また、国民運動をさらに強化し、正しく敏活に展開することを求めています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -178,6 +183,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/3574026/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/3574026/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3574026/3574026_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

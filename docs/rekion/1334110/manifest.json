@@ -177,6 +177,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は、山口 忠が作詞・作曲・編曲を担当した作品に関する内容です。具体的な歌詞の一部が含まれていますが、全体的に抽象的で詩的な表現が多く、具体的な意味を捉えるのが難しいです。主要なテーマとしては、夕暮れや人々の感情、過ちや恐れなどが描かれています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -221,6 +226,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/1334110/canvas",
       "type": "Canvas",
       "duration": 190.08,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/1334110/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/1334110/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/1334110/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/1334110/1334110_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/1334110/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/1334110/canvas/page",

@@ -117,6 +117,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この内容は、いくつかの異なる歌詞の断片が含まれています。要約すると、以下のようになります：\n\n1. 愛に関する歌詞：愛に関する感情や状況が繰り返し表現されています。\n2. 米山さんの歌詞：米山さんから雲が出て、湯立が来ることを予告し、音がする様子が描かれています。\n3. 竹の子の歌詞：かわいがられた竹の子が切られて桶の棚にかけられる様子が描かれています。\n\n全体として、これらの歌詞は自然や日常の出来事を詩的に表現しています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -161,6 +166,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/3569683/canvas",
       "type": "Canvas",
       "duration": 198.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/3569683/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/3569683/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3569683/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/3569683/3569683_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/3569683/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/3569683/canvas/page",

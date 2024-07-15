@@ -81,6 +81,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は、戦時中の日本における国民への呼びかけを要約しています。以下がその要約です：\n\n日本は現在、一大国難に直面しており、国民全員が一致団結して困難を克服し、国運を発揮することが求められています。戦いにおいては必勝の信念が重要であり、国民は建国以来の歴史を振り返り、いかなる困難にも耐え抜く覚悟を持つべきです。敵国である米国は広大な領土と豊富な資源を持ち、世界制覇を目指していますが、日本はこの強大な敵を打ち破らなければなりません。長期戦を覚悟し、戦力を増強し、南方地域の新たな参加を含めて体制を整備する必要があります。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -125,6 +130,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/3573558/canvas",
       "type": "Canvas",
       "duration": 209.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/3573558/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/3573558/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3573558/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/3573558/3573558_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/3573558/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/3573558/canvas/page",

@@ -117,6 +117,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は、さくらに関する詩的な表現や言葉遊びが含まれており、特定の意味を持たない部分も多いです。また、「Sound Hodori 사운드 호돌이 サウンドゥ ホドリ」というフレーズが繰り返し登場し、最後に「チャンネル登録よろしくお願いします!」とあります。要約すると、以下のようになります：\n\n「さくらに関する詩的な表現が続き、途中で『Sound Hodori』というフレーズが繰り返されます。最後に『チャンネル登録よろしくお願いします!』と締めくくられています。」"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -161,6 +166,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/2914338/canvas",
       "type": "Canvas",
       "duration": 165.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/2914338/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/2914338/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/2914338/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/2914338/2914338_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/2914338/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/2914338/canvas/page",

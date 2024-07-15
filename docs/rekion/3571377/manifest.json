@@ -117,6 +117,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "モーツァルトの「フィガロの結婚」のオーバーチュアは、以下のような構成になっています。\n\n1. **第一主題**：この主題は繰り返され、その後中間のエピソード的な部分に移ります。\n2. **中間エピソード**：曲は転調し、バスの楽器からヴァイオリンに移り、五度上の長調に変わります。\n3. **第二主題**：第一主題に比べて派手で戦術的なこの主題も繰り返されます。\n4. **エピソードの再現**：初めのエピソードと似た展開があり、短い学説を経て第一主題に戻ります。\n5. **副章部**：ソナタ形式の副章部に相当し、転調を必要としない部分です。\n6. **第二主題の再現**：再び第二主題が現れ、曲は激しく揺れながら終局に向かいます。\n7. **終局**：モーツァルトが好んだ音階の形を用いながら、華やかなオーバーチュアは終わります。\n\nこのオーバーチュアはソナタ形式に似ていますが、発展部がない点が異なります。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -161,6 +166,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/3571377/canvas",
       "type": "Canvas",
       "duration": 220.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/3571377/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/3571377/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3571377/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/3571377/3571377_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/3571377/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/3571377/canvas/page",

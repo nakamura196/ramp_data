@@ -177,6 +177,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は非常に難解で、具体的な内容を把握するのが困難です。しかし、要約を試みると以下のようになります：\n\nある人物が田んぼを見て回り、他の人々と共に何かの計画を立てているようです。彼らは金銭や物品を手に入れるために行動し、その結果として涙を流すこともあるようです。また、親のために娘を嫁がせることや、金銭を得るための行動についても言及されています。全体的に、困難な状況や感情的な葛藤が描かれているようです。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -221,6 +226,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/1334036/canvas",
       "type": "Canvas",
       "duration": 189.08,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/1334036/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/1334036/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/1334036/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/1334036/1334036_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/1334036/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/1334036/canvas/page",

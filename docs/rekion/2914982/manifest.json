@@ -69,6 +69,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は、過去の思い出や感情を詩的に表現したものです。内容は、昼過ぎの曖昧な記憶や、穀物の花や鳩の毛、ハーモニカの音色など、さまざまな感覚的なイメージが交錯しています。特に、過ぎ去った人や出来事に対する哀愁や寂しさが強調されており、孤独感や懐かしさが漂っています。全体を通じて、過去の美しい瞬間や失われたものへの郷愁が描かれています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -113,6 +118,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/2914982/canvas",
       "type": "Canvas",
       "duration": 177.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/2914982/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/2914982/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/2914982/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/2914982/2914982_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/2914982/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/2914982/canvas/page",

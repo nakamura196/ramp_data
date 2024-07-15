@@ -93,6 +93,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "内容を要約します。\n\n北の新地で芸妓と舞妓を呼び、自動車で到着した一行が騒ぎを始めました。太鼓や三味線の音が響き、近所の人々が気にし始めます。隣の家の先生が騒ぎを覗こうとしますが、穴を塞がれてしまいます。先生は梯子を使って塀を越え、騒ぎを見ようとしますが、番頭に鼻を釘抜きで刺されてしまいます。最終的に先生の鼻がちぎられてしまい、騒ぎは収束します。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -178,6 +183,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/3577166/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/3577166/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3577166/3577166_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

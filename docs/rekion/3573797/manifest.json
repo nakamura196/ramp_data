@@ -93,6 +93,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は、米英が日本を過小評価した結果、アメリカ国内で政府批判が高まり、ルーズベルト大統領もアメリカの状況が悪化していることを認めざるを得なくなったという内容です。ゴーシュー（イギリス）は資源や人口が不足しているにもかかわらず、無駄な戦争を続ける理由が理解できないと述べています。ゴーシューは態度を決める必要があり、戦うなら日本が撃滅する準備があるし、提携するなら歓迎するとしています。また、日本海軍がインド洋東半部からアフリカ西岸まで作戦を展開しており、これがインドや近東に重大な影響を及ぼすと確信しています。イギリスの海軍力が弱体化していることを示し、インドと近東の生命線が遮断されると予言し、日本が南洋圏を確保し、大攻勢を開始する準備が整ったことを強調しています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -178,6 +183,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/3573797/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/3573797/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3573797/3573797_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

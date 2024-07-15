@@ -93,6 +93,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は非常に混乱しており、明確なストーリーや論理的な流れが見えにくいです。登場人物たちが断片的な会話を交わしているようですが、具体的な内容や背景が不明瞭です。以下に要約を試みますが、元の文章の曖昧さを考慮してください。\n\n---\n\n登場人物たちが会話をしているが、内容は非常に断片的で混乱している。ある人物が「ユルシャンシェ」について話し始めるが、他の人物はそれに対して異議を唱える。会話の中で「用題」や「タネ」についての言及があり、誰かが泣いている様子も描かれている。さらに、病気や寝ることについての話題も出てくるが、具体的な意味は不明瞭。全体として、会話は一貫性がなく、登場人物たちの意図や背景が明確に伝わってこない。\n\n---\n\nこの要約は、元の文章の曖昧さと混乱を反映しています。もし具体的な情報や背景が必要であれば、追加の文脈や詳細が必要です。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -178,6 +183,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/3576018/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/3576018/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3576018/3576018_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

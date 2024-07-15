@@ -105,6 +105,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この詩は、自然の風景と感情を織り交ぜた描写が特徴的です。霧が晴れた山や、日の光が反射する山のふもと、空の色が薄青く映る様子が描かれています。詩人の悲しみは静かに表現され、ひまわりが金色に輝く様子や、春の訪れが感じられる風景が続きます。朝風に吹かれる青樫の音や、外海の寒さ、木の下で子供を見守る様子、そして大山木の花や蓮の花が描かれています。最後に、炎天下の道や濁った川、土から湧き立つ虹が詩の締めくくりとなっています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -149,6 +154,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/3571565/canvas",
       "type": "Canvas",
       "duration": 161.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/3571565/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/3571565/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3571565/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/3571565/3571565_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/3571565/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/3571565/canvas/page",

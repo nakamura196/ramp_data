@@ -81,6 +81,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "インドは数千年の歴史と高貴な文化を持つ国であり、今こそ帝国の支配から脱し、大東亜共栄圏の建設に参加する絶好の機会です。インドが独立し、本来の地位を取り戻すことを期待しています。もしインドが英国の支配に留まるなら、その機会を逃すことになります。インドネシアも同様に、帝国の協力を得て独立し、米英の支配から解放されるべきです。オーストラリアとニュージーランドも米英の援助に頼る無益な戦闘を避け、帝国の意図を理解し、公正な態度を取るべきです。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -125,6 +130,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/3573615/canvas",
       "type": "Canvas",
       "duration": 173.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/3573615/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/3573615/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3573615/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/3573615/3573615_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/3573615/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/3573615/canvas/page",

@@ -93,6 +93,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は非常に断片的で、意味が取りにくい部分がありますが、要約を試みます。\n\n内容：\n- 人間は弱い存在であり、これまでの楽器や音楽が広がってきたが、現在は混乱している。\n- 洋楽家のライッド・エイ・ライットと藤井理子について言及されている。\n- 身体が重いと感じることや、講演がうまくいかないことが述べられている。\n- 武士の忠義や地震、仙台萩の正岡について触れられている。\n- 最後に「ご視聴ありがとうございました」と締めくくられている。\n\n全体として、音楽や忠義、地震などのテーマが混在している文章です。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -178,6 +183,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/3574690/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/3574690/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3574690/3574690_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

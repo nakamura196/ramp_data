@@ -81,6 +81,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "本日の開印式において、特別なご配慮をいただき感激しております。私は皆さんと共に、聖主に応え、誠心誠意奉公し、聖戦の目的を達成することを誓います。この機会に、国民の予防を担う皆さんに対し、政府の意向を率直にお伝えすることが私の責務です。大東亜戦争の勃発以来、短期間で我が軍は敵を撃破し、重要な地域を占領しました。米英の海上部隊も太平洋とインド洋から駆逐されました。これにより、我が国は未曾有の栄光を手にしました。各方面での連戦連勝と新たな建設が進み、大東亜戦争の目的は着実に達成されつつあります。南方での作戦も成功し、北方の守りも万全です。次回予告。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -125,6 +130,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/3573645/canvas",
       "type": "Canvas",
       "duration": 214.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/3573645/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/3573645/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3573645/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/3573645/3573645_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/3573645/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/3573645/canvas/page",

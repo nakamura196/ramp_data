@@ -105,6 +105,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は、道徳と経済の関係について述べています。著者は、道徳と生産力は本来一緒に進むべきものであると主張しています。しかし、歴史的に道徳が重視されすぎて経済活動が軽視されることがあり、その結果、学問と実務が分離してしまったと指摘しています。封建時代には、学問は主に武士階級のものであり、農民などの生産階級には無用とされていました。この誤解が続く限り、学問や道徳が正しく理解されることは難しいと述べています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -190,6 +195,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/3574643/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/3574643/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3574643/3574643_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

@@ -81,6 +81,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は、第二次世界大戦中の日本、ドイツ、イタリアの三国同盟に関する内容を述べています。要約すると以下の通りです：\n\n1. **三国同盟の目的**：日本、ドイツ、イタリアは、戦争中および戦後において経済協力を通じて共存共栄を目指す理想を共有している。\n2. **経済協力協定の締結**：1940年9月27日に三国条約が結ばれ、その精神を経済分野にも反映させるため、日独および日伊間で経済協力に関する協定が署名された。\n3. **協定の意義**：この協定により、三国間の経済協力が強化され、戦力増強に寄与し、枢軸国側の勝利が確実になると期待されている。\n4. **大東亜共栄圏の建設**：日本は大東亜共栄圏の建設において、侵略的な意図はなく、協定の成立はその意図を明確に示すものである。\n5. **ソビエト連邦との関係**：1941年4月に成立した日ソ中立条約に基づく日本の外交方針には変更がない。\n\nこの要約は、三国同盟の経済協力の重要性とその影響、そして日本の外交方針について述べています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -125,6 +130,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/3573884/canvas",
       "type": "Canvas",
       "duration": 210.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/3573884/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/3573884/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3573884/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/3573884/3573884_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/3573884/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/3573884/canvas/page",
@@ -166,6 +198,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/3573884/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/3573884/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3573884/3573884_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

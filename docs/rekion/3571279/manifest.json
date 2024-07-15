@@ -105,6 +105,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章では、日本語の音声表現について説明しています。具体的には、声の高さや強さ、速さを変えることで意味やニュアンスが異なることを述べています。例えば、「そうですか」という言葉は、声の高さを変えることで異なる意味を持ちます。また、「私は昨日帰りました」という文も、強調する部分や話す速さによって異なる印象を与えます。さらに、日本語には特定の言葉に対して決まったアクセントがあり、例えば「箸」と「橋」や「吹いて」と「拭いて」など、声の上げ下げで意味が変わる例を挙げています。最後に、日本語のアクセントについて簡単に触れ、説明を終えています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -149,6 +154,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/3571279/canvas",
       "type": "Canvas",
       "duration": 166.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/3571279/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/3571279/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3571279/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/3571279/3571279_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/3571279/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/3571279/canvas/page",

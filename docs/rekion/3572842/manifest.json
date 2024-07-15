@@ -105,6 +105,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は、詩的で抽象的な表現が多く含まれており、具体的なストーリーや明確な意味を持たない部分が多いです。以下はその要約です：\n\n文章は、自然や動物、季節の移り変わり、そして感覚的な描写を通じて、独特の雰囲気を描き出しています。トラピストの牛や七面鳥、キャベツ、虫、花粉などが登場し、それぞれが不器用さや焦り、静けさ、匂いなどの感覚を表現しています。特に「不器用であります」というフレーズが繰り返され、全体のテーマとしての不器用さが強調されています。また、真冬や月夜、夕暮れなどの時間の移り変わりも描かれています。全体として、自然の中での静かな時間の流れと、それに伴う感覚的な体験が描かれています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -149,6 +154,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/3572842/canvas",
       "type": "Canvas",
       "duration": 148.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/3572842/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/3572842/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3572842/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/3572842/3572842_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/3572842/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/3572842/canvas/page",

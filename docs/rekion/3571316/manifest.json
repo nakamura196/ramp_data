@@ -81,6 +81,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "俳句は十七音の詩であり、季節の移り変わりに基づく「期待」を重視します。期待とは自然や人事の現象を指し、詳細は「祭辞記」に記されています。俳句を作る方法として「代営」「区会」「銀行」があり、代営は祭辞記の期待を取り出して十七音にまとめること、区会は大勢で行うこと、銀行は実際の景色から期待を選んで詠むことです。俳句作りは代営から始まり、区会、銀行へと進みますが、これらは手段に過ぎず、俳句の目的は感情を歌うことです。期待を通じて感情を表現し、期待と感情が互いに影響し合うことで俳句が生まれます。感情と期待が自然に融合する人は特に手段を必要としませんが、そうでない人は代営、区会、銀行を利用します。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -125,6 +130,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/3571316/canvas",
       "type": "Canvas",
       "duration": 196.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/3571316/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/3571316/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3571316/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/3571316/3571316_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/3571316/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/3571316/canvas/page",

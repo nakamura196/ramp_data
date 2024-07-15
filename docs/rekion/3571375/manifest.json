@@ -105,6 +105,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "要約：\n\n発展部と副小部について説明します。第二の発展部は作曲者の技能が最も求められる部分で、急激な転調が行われます。発展部の長さは低小部とほぼ同じで、完全な集結を持たずに副小部に移行します。発展部の集結は真の集結ではなく、副小部に続くため、特定の減調を避ける必要があります。副小部では低小部と同じ調子で繰り返され、転調は不要です。副小部の後には付随的な学説が現れ、最終的に結晶が曲の形式を完成させます。低小部では第一主題が終わり、転調学説が展開され、エピソードが続きます。第二主題とその繰り返しが終わり、短い結尾の文章で低小部が終わります。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -149,6 +154,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/3571375/canvas",
       "type": "Canvas",
       "duration": 199.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/3571375/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/3571375/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3571375/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/3571375/3571375_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/3571375/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/3571375/canvas/page",

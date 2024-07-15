@@ -81,6 +81,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "以下は要約です：\n\n12月21日から1月17日までの作戦で、279機の石器が破壊され、戦車78台、装甲車115台、機関銃109両、自動車2,153両、鉄道車両394両、補給品2,566名が確認されました。北方では極寒の中、警備と訓練が続けられています。香港方面では、12月25日に降伏を受け入れ、26日に全島を占領し、在留邦人80名を救出しました。12月31日までに、敵の飛行機14機、艦船19艘、陸軍飛行機5機、火砲63門、機関銃983種、船舶140艘、自動車や鉄道車両、多量の燃料や建築材料が戦果として確認されました。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -125,6 +130,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/3573602/canvas",
       "type": "Canvas",
       "duration": 220.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/3573602/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/3573602/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3573602/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/3573602/3573602_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/3573602/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/3573602/canvas/page",

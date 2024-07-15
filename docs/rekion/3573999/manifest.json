@@ -93,6 +93,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "要約：\n\nアメリカの指導者たちは、ソロモン海戦の結果を認めざるを得なくなり、デマ宣伝では日本の海軍に対抗できないことを理解しました。ソロモン海戦により、オーストラリア（ゴーシュー）は孤立し、アメリカに依存することの危険性を痛感しています。アメリカの欺瞞政策が自国の海軍を滅ぼしつつあり、オーストラリアも同様の運命を辿る可能性があります。戦争はまだ終わっておらず、日本は敵の戦力を破壊し続ける必要があります。アメリカは資源を使って軍備を増強しており、日本はこれに対抗するために全力を尽くす決意を新たにしています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -178,6 +183,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/3573999/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/3573999/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3573999/3573999_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

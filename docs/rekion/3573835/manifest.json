@@ -81,6 +81,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は、複数の戦線における戦闘状況と治安確保の取り組みについて述べています。以下に要約します。\n\n1. **マレー、ギャガ、ツマトラ、ボルネオ方面**:\n   - 治安確保のための戦闘が行われており、今後の準備も進められている。\n\n2. **総門軍闘方面**:\n   - 海軍と陸軍が協力して困難な上陸作戦を実施中。米軍がマリマ島に上陸し、激しい戦闘が続いている。\n   - 敵は整備された航空基地を持ち、海陸一体の作戦が展開されている。\n\n3. **品川方面**:\n   - 品川県軍が広範な戦線を構成し、約三百万の重型軍と約六十万の共産軍に対して攻撃を続けている。\n   - 中市、北市、南市、盲協の各地域で約二百五十回の戦闘が行われ、治安確保に努めている。\n\n全体として、各方面での戦闘と治安確保の努力が強調されています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -125,6 +130,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/3573835/canvas",
       "type": "Canvas",
       "duration": 189.08,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/3573835/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/3573835/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3573835/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/3573835/3573835_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/3573835/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/3573835/canvas/page",
@@ -166,6 +198,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/3573835/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/3573835/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3573835/3573835_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

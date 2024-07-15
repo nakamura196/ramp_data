@@ -117,6 +117,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は、意味が取りにくい言葉の羅列や、リズムを持った言葉遊びのように見えます。具体的な内容やストーリーは明確ではありませんが、以下のように要約できます：\n\n「イリアヒンドキカネワウメモツヒトモツモノスカゼモノスゴキウリガラニカブカノブヤコシエグミヨシヨシワケテルカタモノサラの水際にトモロを並べて、キノドルマネがトモロを並べる。お尻と頭のどちらにするか迷い、お尻にもちをつくことに決める。頭をたたいてお尻にもちをつく。」\n\nこの要約は、元の文章のリズムや言葉遊びの要素を保持しつつ、主要な行動や選択を簡潔にまとめたものです。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -161,6 +166,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/3568264/canvas",
       "type": "Canvas",
       "duration": 216.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/3568264/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/3568264/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3568264/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/3568264/3568264_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/3568264/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/3568264/canvas/page",

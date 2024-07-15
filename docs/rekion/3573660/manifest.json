@@ -81,6 +81,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "内容を要約します。\n\n4月下旬、各方面からの迅速な進撃により敵の抵抗組織は破壊され、混乱に陥りました。軍はこれを集中攻撃し、追撃を開始しました。4月29日にラジオ、5月1日にマンダレオ、3日にファーモ、5日にフィルマ国境を越えて丘陵、8日にミートキナオ、10日にチョウエスを占領し、その後さらにドコウを突破して進撃しました。マンダレオはフィルマ中央の政治経済の中心であり、フィルマルートの重要な役割を果たしていましたが、これによりフィルマルートは完全に破壊されました。国境付近の要点を迅速に脱出したことで、鋭印軍と重警軍の撃破の基礎が確立されました。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -125,6 +130,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/3573660/canvas",
       "type": "Canvas",
       "duration": 139.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/3573660/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/3573660/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3573660/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/3573660/3573660_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/3573660/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/3573660/canvas/page",

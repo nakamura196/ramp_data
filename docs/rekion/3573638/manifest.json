@@ -93,6 +93,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は、日本の軍隊が戦争で勝利を収めた理由について述べています。勝利の要因として、精神力や訓練、機材の優秀さが挙げられていますが、同時に敵が日本の実力を過大評価したことも大きな要因であるとしています。具体的な作戦の詳細には触れず、特にハワイやマレーでの作戦において、日本の飛行機が冷静に訓練通りの行動を実行したことが強調されています。例として、魚雷を発射する際の冷静な対応や、敵の激しい攻撃の中での再攻撃の様子が描かれています。また、ハワイでの空襲後、遅れて帰還した小隊が見物をしていたことも述べられています。全体を通じて、兵士たちの冷静さと訓練の成果が強調されています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -137,6 +142,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/3573638/canvas",
       "type": "Canvas",
       "duration": 217.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/3573638/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/3573638/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3573638/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/3573638/3573638_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/3573638/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/3573638/canvas/page",

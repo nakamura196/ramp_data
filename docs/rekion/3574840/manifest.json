@@ -93,6 +93,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は非常に断片的で、意味が取りにくい部分が多いですが、以下のように要約できます：\n\n「眠りたいという強い願望と、心配する人々（特に家族）への思いが交錯している。特に母親への愛情が強調されており、その愛を伝えたいという気持ちが繰り返し表現されている。」\n\nこの要約は、文章の全体的な感情とテーマを捉えたものです。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -178,6 +183,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/3574840/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/3574840/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3574840/3574840_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

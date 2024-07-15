@@ -93,6 +93,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "要約：\n大戦中にもかかわらず、中華民国、大国、満州国、フィリピン国、ミルナ国、自由インドカリ政府の代表を迎え、大東亜決勝国民大会が開催されました。大東亜会議では、大東亜戦争の完遂と新地上建設の方針について意見が一致し、共同使命の達成を決意しました。昨日、大東亜共同宣言が発表され、五大綱領（自主独立の尊重、大東亜文化の向上、経済発展の整形、人種差別の撤廃、世界平和の確立）に基づき、大東亜各国が協力して新しい大東亜を建設し、世界平和を目指すことを宣言しました。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -137,6 +142,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/3573365/canvas",
       "type": "Canvas",
       "duration": 250.08,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/3573365/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/3573365/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3573365/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/3573365/3573365_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/3573365/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/3573365/canvas/page",

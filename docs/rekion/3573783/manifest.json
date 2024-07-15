@@ -81,6 +81,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この演説は、総裁が米国および英国に対する宣戦布告が発表されたことを受けて行ったものです。総裁は、この戦争が国の存亡をかけた重大な事態であり、国民全員が一丸となって立ち上がるべき時であると強調しています。全国民が団結すれば、どんな障害も乗り越えられると確信しており、各自が自分の役割を果たすことを求めています。最後に、総裁は再び集まることがあるかもしれないと述べ、演説を締めくくりました。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -166,6 +171,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/3573783/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/3573783/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3573783/3573783_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

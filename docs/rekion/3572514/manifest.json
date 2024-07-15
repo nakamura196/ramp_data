@@ -129,6 +129,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は、ある戦闘の様子を描写しています。敵艦が見え、火が尽きる中、二国の後輩たちが覚悟を決めて努力する様子が描かれています。機関の歩柱が信号を上げ、空は果てしなく広がり、波が高い中で主力艦隊が前を押さえ、巡洋艦隊が後ろから迫ります。敵艦は袋のネズミのように撃たれ、次々と乱れ散ります。水雷戦隊やフリー部隊が敵を逃さず、朝鮮の闇夜に戦いが繰り広げられます。翌日、日本海上で敵陣は逃げ場を失い、撃たれ降伏する者も出ます。最終的に敵国艦隊は全滅し、日本の勝利が宣言されます。日本海軍の各艦隊が登場し、帝国の万歳が叫ばれます。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -173,6 +178,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/3572514/canvas",
       "type": "Canvas",
       "duration": 122.08,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/3572514/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/3572514/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3572514/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/3572514/3572514_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/3572514/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/3572514/canvas/page",

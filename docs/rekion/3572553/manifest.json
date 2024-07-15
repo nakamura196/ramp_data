@@ -81,6 +81,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は、韓国の歴史や軍事的な出来事について述べています。以下に要約します。\n\n韓国は一時期、強力な指導者の下で繁栄していましたが、海軍の敗退によりその地位を失いました。近代に入り、徳川伯父が兵部を立てたものの、困難に直面しました。英国海軍は成功を収め、その後も国力を維持し続けました。これに対し、戦後の日本の軍人たちは西洋の進歩に遅れないよう努力し、実力を蓄えることが重要だと述べています。最後に、勝利を収めた後も油断せず、常に準備を怠らないことが大切だと結論づけています。\n\n昭和八年二月十八日、東郷慶八郎道俗巣による文章です。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -125,6 +130,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/3572553/canvas",
       "type": "Canvas",
       "duration": 177.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/3572553/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/3572553/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3572553/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/3572553/3572553_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/3572553/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/3572553/canvas/page",

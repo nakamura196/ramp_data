@@ -93,6 +93,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "我が国の産業発展は目覚ましく、世界市場を圧倒する勢いを見せています。この発展の背景には、過去50年間の実業教育が大きく寄与していることが重要です。現在、国は非常時にあり、さらなる産業発展と世界経済戦への備えが必要です。国土が狭く天然資源が乏しいため、特筆優位の地位を築き、学術の応用と経営の合理化を図ることが求められます。国民の約8割が実業に従事している現状を踏まえ、実業教育の重要性を認識し、その普及と発展に努めることが必要です。実業教育に従う者は研鑽を重ね、実際に即した実行を心がけるべきであり、社会全体も実業教育への関心を深め、協力することが望まれます。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -137,6 +142,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/3571301/canvas",
       "type": "Canvas",
       "duration": 156.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/3571301/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/3571301/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3571301/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/3571301/3571301_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/3571301/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/3571301/canvas/page",

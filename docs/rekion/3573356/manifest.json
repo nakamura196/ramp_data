@@ -93,6 +93,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "要約：\n\n1942年1月11日、ボルネオ・サラカンへの上陸を皮切りに、ライン軍に対する戦闘が開始された。2月9日にはパンジェル・マシンを占領し、ボルネオの前線を確保。2月14日にはスマトラ島パレンバンに奇襲をかけ、成功を収めた。2月15日には陸軍航空部隊が協力し、戦果を拡大。3月9日にはライン軍主力を無条件降伏させ、全ラインの官邸を完全に掌握。3月10日には南方軍総司令官と連合艦隊司令長官に対し、東インド諸島の敵勢力を一掃する意向が示された。これにより、インドネシアは大東亜共栄圏の秩序の中で新しい時代の第一歩を踏み出した。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -137,6 +142,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/3573356/canvas",
       "type": "Canvas",
       "duration": 245.08,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/3573356/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/3573356/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3573356/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/3573356/3573356_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/3573356/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/3573356/canvas/page",

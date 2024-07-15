@@ -93,6 +93,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は、昭和16年12月8日に発表された声明の要約です。内容は以下の通りです：\n\nある国（政国）が富裕を誇示し、平和的な通商を妨害し、経済断交を行い、他国の生存に脅威を与えたため、政府は平和を回復するための行動を決意しました。隠人者（特定の人物）は問題解決を宣言しましたが、経済的・軍事的脅威は増大し、国の努力は無駄に終わりました。政国は存続のために全力を尽くす必要があり、忠誠と勇気を持って行動し、永遠の平和を確立し、帝国の栄光を守ることを目指しています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -137,6 +142,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/3572399/canvas",
       "type": "Canvas",
       "duration": 141.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/3572399/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/3572399/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3572399/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/3572399/3572399_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/3572399/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/3572399/canvas/page",

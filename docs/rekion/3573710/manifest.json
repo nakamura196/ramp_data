@@ -105,6 +105,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は、帝国政府が短期間で成果を上げたことを報告し、特にビルマの制圧や香港、マレーシアなどの地域の解放について述べています。これらの地域の民衆が新しい体制に信頼を寄せていることを強調し、インドネシア人やビルマ人の苦悩に対する同情を表明しています。また、欧州やインドに対しても帝国の意図を再確認し、広大な地域での支配力を強調しています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -190,6 +195,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/3573710/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/3573710/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3573710/3573710_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

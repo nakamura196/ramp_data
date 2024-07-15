@@ -93,6 +93,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は、帝国の外交と経済政策について述べています。外交に関しては、帝国独自の立場を堅持し、世界的な変化を指導し、新しい秩序を作り上げる覚悟が必要であると強調しています。外交は短期的な動きにとらわれず、長期的な視点で自主的、積極的、建設的に進めるべきだと述べています。\n\n経済に関しては、外国依存から脱却し、国民の生活を確保するために全力を尽くす必要があると述べています。物資の不足や時給の円滑さに問題があるかもしれないが、国民全体が節約と増産に努めるべきだとしています。政府も予算を節約し、民間の希望を尊重しつつ、国民が自発的に協力するように指導することが重要だと述べています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -137,6 +142,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/3572392/canvas",
       "type": "Canvas",
       "duration": 188.08,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/3572392/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/3572392/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3572392/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/3572392/3572392_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/3572392/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/3572392/canvas/page",

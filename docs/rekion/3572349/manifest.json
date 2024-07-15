@@ -93,6 +93,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "昨年7月7日に北京の高雷、横浜町で発生した武装射撃事件からちょうど1年が経ちました。当時、日本は和平解決を目指し、不拡大方針を取っていましたが、相手側の挑発行動により、やむを得ず軍事行動を開始しました。この事件は国民を敵とするものではなく、誤った認識を持つ政権に対するものでした。1年間、陸海空で日本軍は活躍し、天皇陛下の指導のもとで大きな進展を遂げました。この事件は日露戦争に匹敵する規模であり、激しい戦闘が繰り広げられました。日本軍は信頼と戦略に基づき、敵に多大な損害を与え、勝利を収めました。戦争は武力戦だけでなく、自動戦や経済戦も含まれます。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -137,6 +142,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/3572349/canvas",
       "type": "Canvas",
       "duration": 213.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/3572349/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/3572349/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3572349/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/3572349/3572349_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/3572349/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/3572349/canvas/page",

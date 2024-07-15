@@ -81,6 +81,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は、やすだくんと話し手が、話し手の妻についてのユーモラスな会話をしている内容です。話し手は妻の清子が非常に気が利く女性で、彼に対して非常に献身的であると述べています。清子は彼の手を引いて起こしたり、新聞をめくったり、食事を手伝ったりします。しかし、ある日、彼が火鉢を見たときに、清子が熱い炭を持ってきたことがあり、その時の熱さを語ります。また、彼のへそが長いことを面白おかしく話し、妻がそれを見て詩を作ったことも紹介します。最後に、妻が女子大を出たと自慢しますが、実はそれが「自動車の助手席」のことだとオチをつけています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -125,6 +130,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/2914861/canvas",
       "type": "Canvas",
       "duration": 189.08,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/2914861/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/2914861/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/2914861/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/2914861/2914861_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/2914861/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/2914861/canvas/page",

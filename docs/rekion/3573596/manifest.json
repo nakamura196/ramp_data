@@ -81,6 +81,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は、ある地域の建設計画について述べています。この計画は広範囲にわたり、多くの民族が協力して進められるものです。特に新たに参加する地域は、過去百年間に西洋諸国からの損失を受け、文化の発展が妨げられてきた場所です。帝国はこの地域を超えて、新たな構想の下で大東亜の永遠の平和を確立し、世界の新しい秩序を築こうとしています。この大事業の成功は、帝国の戦争の最終的な勝利に不可欠です。建設にあたっては、大東亜防衛に必要な地域は帝国が直接管理し、その他の地域は各民族の状況に応じて適切に処置されます。現在、帝国の陸海軍は香港やマレー半島などの重要な地域を占領し、これらを大東亜防衛の拠点とする計画です。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -125,6 +130,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/3573596/canvas",
       "type": "Canvas",
       "duration": 187.08,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/3573596/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/3573596/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3573596/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/3573596/3573596_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/3573596/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/3573596/canvas/page",

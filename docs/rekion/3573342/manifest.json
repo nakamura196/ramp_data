@@ -93,6 +93,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は、戦時中の日本における決意と覚悟を表明する内容です。要約すると以下の通りです：\n\n日本は祖国の歴史と名誉を守り、世界平和と人類の安全を追求してきたが、敵の挑戦により生存と権威が脅かされているため、戦わざるを得ない状況にある。敵は物資が豊富で世界制覇を目指しているが、日本は早期に戦いを決意し、建設的努力を続ける必要がある。最終的な勝利を確信し、困難を克服して大東亜建設の栄誉を後世に担うことを目指す。国民全体が一体となって国に尽くし、勝利を信じて戦うべき時が今であると強調している。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -137,6 +142,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/3573342/canvas",
       "type": "Canvas",
       "duration": 231.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/3573342/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/3573342/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3573342/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/3573342/3573342_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/3573342/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/3573342/canvas/page",

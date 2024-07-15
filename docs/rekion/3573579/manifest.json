@@ -93,6 +93,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "要約：最近、日本の偵察活動が成功したと大々的に宣伝されていますが、偵察は作戦の基礎であり、成果が伴って初めて価値があります。アメリカ海軍が偵察結果を誇らしげに発表するのは、戦果に自信がないことの表れです。一方、ドイツの作戦は好調であり、日本のインド洋作戦もドイツを援助し、日独伊の連携でアメリカとイギリスを打倒する共同作戦が進行中です。アメリカとイギリスが南アフリカ経由で物資を輸送しているのは周知の事実ですが、これも日独の攻撃で切断されつつあります。また、アラスカ・アリューシャン方面からのアメリカ空軍の日本攻撃の可能性についても触れていますが、これは準備と精神力に依存します。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -137,6 +142,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/3573579/canvas",
       "type": "Canvas",
       "duration": 188.08,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/3573579/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/3573579/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3573579/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/3573579/3573579_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/3573579/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/3573579/canvas/page",

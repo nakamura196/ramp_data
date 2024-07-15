@@ -93,6 +93,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は、大東亜戦争の初期段階における決意と覚悟を表明する内容です。以下に要約します。\n\n古来の伝統に従い、我々は大東亜戦争の第一歩を踏み出しました。私たちは戦争の道を選んだわけではありませんが、必要な時には戦う覚悟があります。古い将軍たちの必勝の信念を受け継ぎ、我々は大東亜建設の責任を果たすために犠牲を厭わず進む決意です。本日、第一回戦争祝賀国民大会が開催され、我々は戦果と大アジアの将来を祝福し、戦没者と将軍将兵に感謝の意を捧げ、戦争目的の達成に向けて邁進することを誓います。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -137,6 +142,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/3573630/canvas",
       "type": "Canvas",
       "duration": 180.08,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/3573630/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/3573630/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3573630/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/3573630/3573630_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/3573630/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/3573630/canvas/page",

@@ -81,6 +81,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "要約：帝国はインドの指導者たちがインドの独立と発展に尽力することを期待しています。大東亜戦争後、帝国はドイツやイタリアと協力し、世界新秩序の構築を目指しています。三国の協力は政治、経済、文化の面で緊密に行われており、他の欧州諸国の協力も得ています。中南米諸国の中には米国の圧力に対抗し、独自の中立政策を維持している国もあります。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -166,6 +171,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/3573669/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/3573669/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3573669/3573669_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

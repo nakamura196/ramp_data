@@ -93,6 +93,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は、大東亜戦争（第二次世界大戦）における日本の戦争遂行の重要性と国民の結束を強調しています。戦争の行方が世界の動向に影響を与えるため、日本はこの戦争に勝利しなければならないと述べています。特に今後の戦いが国民の試練の時期であり、国民全体が一丸となって戦争に取り組む必要があると強調しています。また、敵が国内の不満を利用して攻撃を仕掛けてくる可能性があるため、国内でも前線と同じ心構えで対処することが求められています。最終的には、米英勢力を徹底的に破壊し、戦争を完遂するために国防体制を強化することが重要であり、これが総選挙の意義であると述べています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -178,6 +183,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/3573734/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/3573734/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3573734/3573734_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

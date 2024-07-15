@@ -69,6 +69,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "銀座の賑やかな通りを描写し、華やかな着物を着た女性や交通整理をする警官の様子が描かれています。住宅くじが25円で販売されているが、実際には当たる可能性が低いことが示唆されています。電車は混雑しており、乗客が乗れない状況が続いています。車掌が美しい女性を見て気を取られる場面や、駅名を叫ぶ車掌の様子が描かれています。全体的に、銀座の活気と混雑、そして人々の様々な反応がユーモラスに描かれています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -113,6 +118,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/2914773/canvas",
       "type": "Canvas",
       "duration": 178.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/2914773/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/2914773/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/2914773/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/2914773/2914773_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/2914773/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/2914773/canvas/page",

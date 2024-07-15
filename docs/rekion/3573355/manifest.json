@@ -93,6 +93,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は、1942年5月7日にフィリピンのマニラでの出来事を描写しています。アメリカ軍のウェインライト将軍が日本軍に降伏し、フィリピンのアメリカ軍に対して武器を捨てて投降するよう呼びかけました。マニラの朝はカルマタという馬車の音で始まり、街は日本軍の入場によって新たな時代を迎えました。マニラの人々は早起きで、店を開き、街に出て、新聞を売る子供たちの声が響きます。フィリピン人、ドイツ人、スペイン人などが平和と喜びに満ちた表情で過ごしており、寺院の鐘の音が聞こえる中、民族解放への感謝とアメリカ軍に対する反抗を続ける家族の無事を祈っています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -137,6 +142,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/3573355/canvas",
       "type": "Canvas",
       "duration": 289.08,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/3573355/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/3573355/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3573355/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/3573355/3573355_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/3573355/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/3573355/canvas/page",

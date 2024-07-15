@@ -93,6 +93,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は、軍人に対する訓戒や指導をまとめたものです。以下に要約します：\n\n1. 油断せず常に警戒を怠らないこと。\n2. 軍旗を守り、指導者を尊重すること。\n3. 総務の重要性を認識し、責任を持って行動すること。\n4. 敵の宣伝に惑わされず、信念を持って行動すること。\n5. 信念を持ち、上官を信頼すること。\n6. 敵戦や物資の管理は指揮官の指示に従うこと。\n7. 無垢な住民を愛護すること。\n8. 主食や浴場に惑わされず、軍人としての本分を守ること。\n9. 怒りを抑え、不満を制御し、常に家族の心情を思い、罪を犯さないこと。\n\nこれらの教えは、軍人が自己の行動を律し、責任を持って任務を遂行するための指針となっています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -137,6 +142,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/1333608/canvas",
       "type": "Canvas",
       "duration": 201.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/1333608/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/1333608/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/1333608/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/1333608/1333608_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/1333608/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/1333608/canvas/page",

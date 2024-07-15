@@ -105,6 +105,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は、詩的で抽象的な表現が多く含まれており、具体的なストーリーや明確な意味を持たない部分が多いです。以下はその要約です：\n\n文章は、自然や動物、匂い、音などの感覚的な描写を通じて、静かで不思議な雰囲気を伝えています。トラピストの牛や七面鳥、キャベツ、虫などが登場し、それぞれが独特の動きや音を持っています。全体的に、静けさと不器用さ、そして自然の中での生命の営みが描かれています。最後に、月夜やマリア様、夕暮れの情景が描かれ、詩的な終わりを迎えます。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -149,6 +154,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/3571441/canvas",
       "type": "Canvas",
       "duration": 148.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/3571441/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/3571441/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3571441/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/3571441/3571441_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/3571441/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/3571441/canvas/page",

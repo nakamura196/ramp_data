@@ -81,6 +81,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は、戦時中の国際情勢について述べています。以下に要約します。\n\n中津くん、芸国（ドイツ）の環境には見学すべき点が多くありました。東アジアでの全面的な衰退や、大西洋および世界各地でのドイツ海軍の活躍により、ドイツ本国の情勢は非常に不安定になり、国民生活は停滞しています。これに伴い、インドは動揺し、ヨーロッパは危機に瀕し、ドイツ帝国の崩壊の兆しがますます顕著になっています。\n\n一方、アメリカでは、続く失敗を隠しつつ、戦場での勝利を報じて国民の支持をつなぎ止めようとしています。以前は率直さを誇っていたアメリカの政治家たちが、最近では正直に物を言わなくなっているのは顕著な傾向です。しかし、戦争の重圧により、アメリカ国民の生活はますます困難になっています。既に多くの死者が出ており、政府が何の生産もせず、戦争に国民を巻き込み、国民の福祉を無視していることに対する不満が高まっています。\n\nアメリカ政府が建国の理念に基づき、干渉と侵略を行い、帝国を容易に福祉に導けると盲信していることが、世界の動乱を引き起こす重大な原因です。ドイツ帝国の目的は、アメリカの侵略主義を徹底的に撃滅することにあります。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -125,6 +130,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/3573671/canvas",
       "type": "Canvas",
       "duration": 173.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/3573671/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/3573671/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3573671/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/3573671/3573671_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/3573671/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/3573671/canvas/page",
@@ -166,6 +198,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/3573671/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/3573671/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3573671/3573671_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

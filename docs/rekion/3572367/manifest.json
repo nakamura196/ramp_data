@@ -93,6 +93,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "要約：\n\n私は予期せぬ状況で皆さんの前に立つことになりました。帝国が重大な局面に直面している今、私がここに立つことは恐れ多いことです。しかし、私は誠心誠意を尽くして報告し、全国民の協力を求めたいと思います。現在の世界情勢は非常に複雑であり、帝国は重要な国際的地位を持っています。この状況に対処するためには、国民の一致団結が必要です。帝国の方針は東亜進出の確立であり、これに伴う国際環境の調整も重要です。政府は独自の立場を堅持し、協力者とは密に連携し、世界平和と人類文化の進歩に貢献します。しかし、帝国の使命を妨げる者には断固として対処します。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -137,6 +142,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/3572367/canvas",
       "type": "Canvas",
       "duration": 157.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/3572367/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/3572367/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3572367/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/3572367/3572367_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/3572367/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/3572367/canvas/page",

@@ -81,6 +81,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "豚の夫婦がキャベツ畑で昼寝をしていたが、夫の豚が怖い夢を見て目を覚ました。夢の内容は、二人が殺されてカツにされ、みんなに食べられるというものだった。女房の豚が周囲を見渡すと、そこはキャベツ畑だった。\n\n一方、人間は働き続けても楽にならない生活を送っている。街では宝くじが売られており、30円で100万円が当たるという宣伝がされているが、売り手自身はあまり買わない。\n\nまた、紫の着物を着た女性が通り、その着物には古い詩が書かれていた。風呂に行く際には物がなくなることがあり、犠牲的精神が必要だという話もある。風呂場では男湯と女湯を間違える老人がいて、騒動が起きる。\n\n最後に、ある人物が毎日同じことを続けていると語り、自分の生き方を誇りに思っている。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -125,6 +130,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/2915044/canvas",
       "type": "Canvas",
       "duration": 193.08,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/2915044/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/2915044/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/2915044/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/2915044/2915044_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/2915044/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/2915044/canvas/page",

@@ -93,6 +93,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は、いくつかの異なるエピソードやニュースを含むユーモラスな内容です。以下に要約します。\n\n1. **川上の少年時代のエピソード**:\n   - 川上という少年が野球でガラスを割ってしまい、家族が困る話。彼は打つたびに学校のガラスを割り、家に帰ると父親がガラス代を支払うために頭を下げている。母親はお金がないのでガラスを割らないように頼むが、結局川上は三振ばかりして補欠になってしまう。\n\n2. **野球ファンの様子**:\n   - 野球が非常に人気で、ファンが球場に集まる様子が描かれる。しかし、若い落語家の川上はプロ野球にはあまり関心がなく、ラジオで試合を聞くことが多い。ラジオで試合を聞いていると停電が起こり、試合の良い場面を聞き逃してしまう。\n\n3. **ユーモラスなスポーツニュース**:\n   - 全日本社会人優勝野球大会の夜間試合で、オール警察対オール刑務所の試合が行われ、オール刑務所が勝利する。\n   - 大相撲の春場所の勝敗がユーモラスに報告される。例えば、「ごみ取り対紙のくず」や「郵便局対小包み」などの架空の取り組みが紹介される。\n\n全体として、文章はユーモアと風刺を交えたスポーツに関するエピソードやニュースを描いています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -137,6 +142,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/2913465/canvas",
       "type": "Canvas",
       "duration": 211.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/2913465/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/2913465/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/2913465/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/2913465/2913465_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/2913465/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/2913465/canvas/page",

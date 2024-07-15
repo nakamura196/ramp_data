@@ -93,6 +93,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は、繰り返しの多い表現が特徴的です。要約すると、以下のようになります：\n\n竹芸の劇袖に影をとめ、女の子が玉を割り、三毛紙をうやうやしく捧げる。その後、裸足を改める行為が繰り返される。\n\nこの要約は、文章の主要な行動と繰り返しのパターンを簡潔にまとめたものです。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -178,6 +183,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/3575477/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/3575477/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3575477/3575477_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

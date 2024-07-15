@@ -93,6 +93,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "要約：\n\n山口司令官とその幕僚、各官庁や副庁などが集まり、燃え盛る炎と月の光に照らされる中、全員が一瞬の感動を覚えました。各分隊長は人員の転向を行い、上官に報告しました。その後、山口司令官に敬礼し、飛行看板に降り立ちました。足元には駆逐官が運んだビスケット箱がありましたが、誰も口にしませんでした。司令官は戦闘配食の握り飯一個だけで水も飲まずに戦っていたのです。司令官は部下たちに感謝と満足を伝え、戦友の英霊に対する哀悼の意を表し、戦いはこれからだと激励しました。そして、全員に退却を命じました。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -137,6 +142,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/3573239/canvas",
       "type": "Canvas",
       "duration": 211.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/3573239/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/3573239/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3573239/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/3573239/3573239_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/3573239/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/3573239/canvas/page",

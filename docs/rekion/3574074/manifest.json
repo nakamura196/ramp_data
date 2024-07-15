@@ -105,6 +105,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は、戦争の現状と今後の展望について述べています。以下に要約します。\n\n戦争の経緯と現状を考慮し、我々は必勝の信念を強固にしています。戦局の現段階を転機とし、官民一体となって戦闘を続け、大君に全てを捧げ、全力を前衛撃退に集中することで勝利を目指します。欧州では、パトリオ一派の裏切り行為がありましたが、それは一時的なものであり、適切な対応により再び同盟国と協力して戦うことができました。ドイツは新たな作戦を展開し、我々はその成功を期待し、共に敵を屈服させる日が来ることを確信しています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -190,6 +195,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/3574074/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/3574074/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3574074/3574074_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

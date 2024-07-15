@@ -93,6 +93,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "要約：\n\n流爆が続く中、天津車へ向かう船は潮風と砂糖のような状況でした。駆逐艦〇〇は減速し、消火活動に尽力し、戦友を救おうと必死でした。船の焼死と熱流の中でも、乗組員たちは礼儀正しく行動し、防御甲板にある御神影を守り続けました。最終的に、全員退去の決定が山口司令官に報告され、艦隊司令部にも伝えられました。深夜の東太平洋で、機械室や釜室の戦友を救おうとする努力が続けられましたが、厚い煙に阻まれました。最終命令が発せられ、総員が飛行艦舶に集合しました。彼らの顔は油と汗で黒く汚れていましたが、誰も失望していませんでした。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -137,6 +142,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/3573238/canvas",
       "type": "Canvas",
       "duration": 217.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/3573238/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/3573238/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3573238/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/3573238/3573238_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/3573238/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/3573238/canvas/page",

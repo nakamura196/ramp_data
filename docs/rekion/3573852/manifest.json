@@ -81,6 +81,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は、会議において特別な職務を与えられたことに対する感謝と決意を述べています。天皇陛下が戦争遂行の途上で特別な行動を取られたことに感激し、全力を尽くして戦争目的を達成することを誓っています。また、大東亜戦争が始まってから一年が経ち、帝国が全力を挙げて戦争に取り組んでいることに対する敬意を表しています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -166,6 +171,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/3573852/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/3573852/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3573852/3573852_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

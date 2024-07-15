@@ -93,6 +93,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は、戦時中の状況報告と宣伝放送の内容を伝えています。以下に要約します。\n\n1. **戦況報告**:\n   - 物資の整備のために人員が派遣されている。\n   - 食料やガソリンの備蓄が進んでいる。\n   - 大規模な戦闘が行われており、ラジオ放送を通じて情報が伝えられている。\n\n2. **宣伝放送**:\n   - 敵国（品川）は敗北しているが、ラジオ放送で虚偽の情報を流している。\n   - 日本側はこれに対抗して正確な情報を伝える努力をしている。\n\n3. **戦争の現状**:\n   - 戦争はまだ終わっておらず、敵の抵抗が続いている。\n   - 日本軍はさらに進軍を続けている。\n   - 国民の支援が重要であると強調している。\n\n4. **結論**:\n   - 戦争はこれからが本番であり、国民の支援が不可欠である。\n   - 放送は第四日目を迎えた。\n\nこの要約は、戦時中の情報伝達と国民への呼びかけを中心にまとめています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -137,6 +142,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/3573586/canvas",
       "type": "Canvas",
       "duration": 190.08,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/3573586/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/3573586/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3573586/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/3573586/3573586_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/3573586/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/3573586/canvas/page",

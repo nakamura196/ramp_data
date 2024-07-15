@@ -81,6 +81,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "前回の報告に続き、3月14日から今日までの選挙について報告します。選挙は大きく三つに分けられます。第一はビルマ進行作戦の続行、第二は敵残存勢力の徹底的撃滅作戦、第三は武力官邸地域の建設です。これらの作戦は順調に進行し、南方の建設も初期の目的を達成しつつあります。\n\nビルマの作戦について具体的に述べると、ビルマの面積は約60万平方キロメートルで、帝国の城との約9割に相当します。ビルマ北部の鉄道端末間の距離は約1200キロメートルで、青森から京都までの鉄道距離に相当します。ビルマには英国兵、インド兵、英国に支援されているビルマ兵のほか、精鋭を誇るニコ軍や重型軍も参加しました。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -125,6 +130,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/3573657/canvas",
       "type": "Canvas",
       "duration": 198.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/3573657/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/3573657/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3573657/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/3573657/3573657_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/3573657/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/3573657/canvas/page",

@@ -81,6 +81,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は、複数の地域での軍事行動とその成果について報告しています。以下が要約です：\n\n- 2月6日、クラットを占領。\n- エーノボルラ西部の部隊の一部が退場予定。\n- 1月27日、サマンガットに上陸。\n- その後、金河湾、ボンチャナスを占領。\n- ダンジョウ、ソルネオ島、パラカウキンの部隊の一部が返事。\n- 7月24日、サリックスバニー、31日、サナーグロボットで上陸作戦成功。\n- 2月10日、パンデルマシンを占領し、実勤を完成。\n- 東洋資源開発についても言及。\n- 1月中旬から昼間方面での行動開始、19日にダボーイ、29日にギエを占領。\n- 31日にモールメンを完全占領、2月9日にサルミン側の敵戦に成功、10日にマルタパンを占領。\n- さらに進撃中。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -125,6 +130,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/3573623/canvas",
       "type": "Canvas",
       "duration": 144.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/3573623/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/3573623/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3573623/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/3573623/3573623_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/3573623/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/3573623/canvas/page",

@@ -129,6 +129,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は、ハイルンシンフォニー11番の第2楽曲「アレグレット」の構造について説明しています。この楽曲は三部形式の歌謡形式で構成されています。\n\n1. **第一部**:\n   - 第一の旋律は調の根音から始まり、個性的な調子を示しながら進行し、不安定な静止に至ります。\n   - 楽器の編成は変わりますが、第一旋律はそのまま続き、再び不安定な静止に至り、第二の旋律に移行します。\n   - 第二の旋律は調の五度上に変調し、決定的な答えを与えます。その後、第一の旋律に戻り、再び第二の旋律に移行し、最終的に弦調二の主歌音に解決して第一部を終えます。\n\n2. **中間楽節**:\n   - 第一部に対する対照的な部分であり、二つの部分から成ります。第二の部分は繰り返されます。\n\n3. **第三部**:\n   - 第一部と全く同じ内容を演奏します。本来はこの後に「コーダ」と呼ばれる結びの楽節が続きますが、レコードの都合で説明が省略されています。\n\nこのように、楽曲の構造と進行が詳細に解説されています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -173,6 +178,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/3571368/canvas",
       "type": "Canvas",
       "duration": 189.08,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/3571368/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/3571368/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3571368/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/3571368/3571368_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/3571368/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/3571368/canvas/page",

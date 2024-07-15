@@ -105,6 +105,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "要約：昨年、全英連の支配下で苦しんでいたが、今や大東亜のために新しい世界建設を目指して力強く進んでいる。一方、インドの民衆は依然として英国の弾圧に苦しみ、社会混乱が深刻化している。インドの志士スバス・チャンドラ・ボース氏のもとでインド仮政府が樹立され、日本はこれを承認し、インドの独立と解放を支援する決意を表明した。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -190,6 +195,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/3574078/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/3574078/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3574078/3574078_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

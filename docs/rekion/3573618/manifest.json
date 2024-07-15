@@ -81,6 +81,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "シンガポール間楽の記念日に際し、1月14日以降の戦争の概要を報告します。マレー方面では、我が陸軍部隊が困難な大密林地帯を克服し、猛進撃を続けました。北部マレーの戦闘では、敵の抵抗が強まりましたが、我が軍は訓練と戦機の威力を発揮し、成功を収めました。北部マレー上陸から55日でジョホール・バルに突入し、作戦の勝利を収めました。この間、陸軍航空部隊も重要な役割を果たし、敵の部族撃滅やシンガポール付近の軍事施設攻撃、スマトラ方面の敵航空基地攻撃などで活躍しました。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -125,6 +130,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/3573618/canvas",
       "type": "Canvas",
       "duration": 175.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/3573618/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/3573618/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3573618/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/3573618/3573618_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/3573618/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/3573618/canvas/page",

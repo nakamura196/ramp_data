@@ -93,6 +93,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "加藤武雄君は昭和十七年九月二十二日に閉職所集の典を挙げられた。彼は北海道で生まれ、仙台陸軍幼年学校と陸軍師官学校を卒業後、陸軍将尉に任命された。その後、所沢陸軍飛行学校で優秀な成績を収め、教官として学生の訓練に尽力した。昭和七年には陸軍飛行学校の教官となり、戦闘飛行隊長としても活躍。部下を大切にし、功績を譲る姿勢を持っていた。陸軍大学校で学び、独位領国に派遣されて軍事知識を深めた。十六年四月には再び戦闘飛行隊長として関東方面で活躍し、大東亜戦争中には敵地飛行場への攻撃を成功させた。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -137,6 +142,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/3573303/canvas",
       "type": "Canvas",
       "duration": 204.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/3573303/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/3573303/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3573303/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/3573303/3573303_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/3573303/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/3573303/canvas/page",

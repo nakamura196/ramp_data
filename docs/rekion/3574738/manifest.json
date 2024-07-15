@@ -105,6 +105,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "内容を要約します。\n\nある場面で、槍先に驚いた女性が泣き声を上げ、母子の関係が明らかになる。母親が子供を失ったことに対して深い悲しみを感じ、周囲の人々も驚愕する。ミサという人物がこの状況を聞きつけて駆けつけ、情けない有様に嘆く。内大臣春永という主君の外出中に起きた出来事で、家族の名誉が傷つけられたことを嘆く内容です。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -190,6 +195,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/3574738/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/3574738/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3574738/3574738_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

@@ -105,6 +105,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "銃声が遠くで聞こえ、榴弾が頭上を通り過ぎる中、森に近づくと黒い影や馬が見えた。部落に入ると土の家が収容所として使われており、自動車隊のところで報道部の高橋少佐がいると聞いたが見つけられなかった。疲れていたので寝ることにし、壊れた懐中時計が5時14分で止まっていた。満員の部屋で寝台を見つけて横になり、家族に感謝の言葉をつぶやいた。眠れずにいると鶏のひなの鳴き声が聞こえ、手に触れると温かさが伝わり涙が出た。寒くなり牛小屋に移動し、遠くの銃声を聞きながら眠りについた。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -149,6 +154,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/3571580/canvas",
       "type": "Canvas",
       "duration": 199.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/3571580/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/3571580/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3571580/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/3571580/3571580_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/3571580/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/3571580/canvas/page",

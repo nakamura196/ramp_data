@@ -93,6 +93,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は、ある人物の卓越した戦功とその功績を称える内容です。以下に要約します。\n\n---\n\nこの人物は、卓越した操縦技術と戦術で多くの敵機を撃墜し、その戦功は天朝（天皇）にまで達しました。彼の勇猛さと功績は諸国に伝えられ、軍臣として仰がれました。彼の名声は広まり、敵も彼を恐れるようになりました。彼の英霊が永遠に栄誉を守り続けることを祈り、長寿を願います。\n\n昭和十七年一月二十二日、大閣総理大臣、千里君大臣、登場です。\n\n---\n\nこの要約は、文章の主要なポイントを簡潔にまとめたものです。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -137,6 +142,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/3573305/canvas",
       "type": "Canvas",
       "duration": 158.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/3573305/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/3573305/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3573305/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/3573305/3573305_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/3573305/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/3573305/canvas/page",

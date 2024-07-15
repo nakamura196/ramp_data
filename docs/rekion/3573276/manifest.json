@@ -93,6 +93,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は、外務大臣の辞任に関する声明です。内容は以下の通りです：\n\n1. 外務大臣が辞任したことに対する驚きと感謝の意を表明。\n2. 大東亜戦争の完遂に向けて国全体で努力する決意を示す。\n3. 朝国の大君と戦線の大将に対する敬意を表し、同盟国との提携を強化する意向。\n4. 米英の妨害を排除し、大東亜新秩序と世界新秩序の確立を目指す。\n5. 皇軍将兵の奮闘により戦局が進展しているが、戦争は長期化する見込み。\n6. 一億同胞に対し、必勝の信念を持ち、総力戦における各自の役割を全うするよう呼びかける。\n\n要するに、外務大臣の辞任を受けて、戦争の完遂と新秩序の確立に向けた決意を新たにし、国民に協力を求める内容です。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -137,6 +142,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/3573276/canvas",
       "type": "Canvas",
       "duration": 94.08,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/3573276/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/3573276/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3573276/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/3573276/3573276_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/3573276/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/3573276/canvas/page",

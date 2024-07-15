@@ -93,6 +93,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は、大東亜戦争（太平洋戦争）中の日本の立場と決意を表明したものです。要約すると以下のようになります：\n\n日本は大東亜共栄圏の理念に基づき、米英の支配に対抗して戦っている。重慶政権（中国国民党政府）は依然として米英に従い、民衆に無益な苦しみを強いている。日本はこれを反逆行為と見なし、断固として撃滅する決意を持っている。大東亜の建設は着実に進んでおり、中華民国国民政府の努力に感謝し、さらなる発展を期待している。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -178,6 +183,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/3573723/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/3573723/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3573723/3573723_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

@@ -93,6 +93,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "要約：日本は、国民政府が中国の本来の精神に立ち返り、政策と人事を改めて再建を目指すならば、それを拒むことはないと述べています。世界各国も東アジアの新情勢を理解し、期待すべきだとしています。日本は、過去の帝国主義的な野心が中国の平和と独立を脅かしてきたことを認識し、今後は正義に基づく新しい平和体制を確立することを望んでいます。また、日本は他国との協力を拒むものではなく、第三国の正当な権益を損なう意図もないと強調しています。日本は共産主義と戦う意志を持ち、ドイツとイタリアの支援に感謝し、共通の世界観のもとで協力して世界の再建を目指すと述べています。最後に、公正な均衡の上に平和を築くことが現代に必要であると強調しています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -137,6 +142,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/3572359/canvas",
       "type": "Canvas",
       "duration": 217.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/3572359/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/3572359/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3572359/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/3572359/3572359_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/3572359/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/3572359/canvas/page",

@@ -129,6 +129,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は詩的な表現が多く、具体的な内容を要約するのは難しいですが、以下のように解釈できます。\n\n「もつ焦げに塩を移すように、みどり子（若者）はなおもたぎり続ける。水はおぞおぞとし、何かを言いながらもおざまる（落ち着く）。やものきみ（君）は船に乗り、波に揺られながら進む。水は船を浮かべ、君を深く浸す。あわみよ（泡のような世界）とて、ひさし（長い時間）さまに引かれる。君に光る玉のような水は、かに住むときは澄んでおり、濁らない。水の浮き沈みは、再び良い君の世を示す。ぼんぜい（凡庸な人々）の道に戻り、君を深く浸す。あわみよとて。」\n\nこの詩は、若者の情熱や人生の浮き沈み、そして再び良い時代が訪れることを象徴的に表現しているようです。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -173,6 +178,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/3571629/canvas",
       "type": "Canvas",
       "duration": 204.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/3571629/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/3571629/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3571629/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/3571629/3571629_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/3571629/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/3571629/canvas/page",

@@ -117,6 +117,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "このテキストは、山下達郎による作詞・作曲・編曲の作品に関する内容です。具体的には、以下の2つの部分に分かれています：\n\n1. **最初の部分**:\n   - みどりが揺れる風景や、蚊のいる山辺の情景が描かれています。\n   - 過去の日々の熱い涙や夢について触れられています。\n   - 「君がことごふるしき兄ロリ」というフレーズがあり、個人的な感情や関係性が示唆されています。\n\n2. **次の部分**:\n   - 「マックス・ウェルトン ブレイズ・ア・ボニーウェルリー・フォーク・ザ・デュー」というフレーズがあり、具体的な意味は不明ですが、詩的な表現が続きます。\n   - 「オーニー・ローリー ゲブミー・ハ・プロミス・トゥ」というフレーズが繰り返されており、約束を求める内容が強調されています。\n\n全体として、詩的で感情豊かな表現が特徴的な作品です。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -161,6 +166,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/1331253/canvas",
       "type": "Canvas",
       "duration": 164.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/1331253/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/1331253/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/1331253/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/1331253/1331253_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/1331253/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/1331253/canvas/page",

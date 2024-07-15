@@ -93,6 +93,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は、武士や軍人としての心得や行動指針を述べたものです。以下に要約します。\n\n1. **武徳と技能の向上**：将軍の伝統を尊重し、武徳を持ち、技能を磨くこと。\n2. **奉公の道**：皇子の礼を守り、奉公に励み、身辺を整えること。戦場での覚悟を持ち、遺骨が戻らない場合も覚悟すること。\n3. **健康管理**：病気に倒れることなく、衛生を重んじ、奉公に支障をきたさないようにすること。\n4. **武器の尊重**：刀を魂とし、武器を大切にし、馬を愛すること。\n5. **公正な行動**：宿舎物資の独占を避け、立つ鳥跡を濁さずの精神で行動すること。\n6. **謙虚さと他者への配慮**：功績を誇らず、他者の栄達を妬まず、自分の不足を反省すること。\n7. **正直さ**：正直に行動すること。\n8. **大国民としての誇り**：誠意を持ち、義を貫き、国の威風を世界に示すこと。\n9. **健康と奉公の覚悟**：健康を大切にし、奉公の覚悟を固めること。\n\n結論として、先人の教えを実践し、奉公の姿勢を持ち続け、軍人としての本分を全うすることが求められています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -137,6 +142,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/1333609/canvas",
       "type": "Canvas",
       "duration": 228.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/1333609/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/1333609/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/1333609/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/1333609/1333609_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/1333609/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/1333609/canvas/page",

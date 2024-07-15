@@ -105,6 +105,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "11月8日、雨は止んだが泥だらけの衣装は乾かず、午前8時に出発した。道は泥だらけで歩きにくく、足の痛みや首の痛みで頻繁に休憩しながら進んだ。本道は特に歩きにくく、稲田の中を進んだが、それでも泥に足を取られた。坂上上等兵が心配して付き添ってくれたが、本隊から遅れ、分隊とも離れてしまった。本道上では車輌部隊が泥に苦しみながら進んでおり、馬や兵隊が泥にまみれながら奮闘していた。放射は悪路を通過できず、分解して運んでいた。進軍する兵隊たちは苦しみながらも美しく勇ましく見え、私も勇気を感じて再び歩き出した。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -149,6 +154,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/3571578/canvas",
       "type": "Canvas",
       "duration": 164.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/3571578/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/3571578/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3571578/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/3571578/3571578_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/3571578/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/3571578/canvas/page",

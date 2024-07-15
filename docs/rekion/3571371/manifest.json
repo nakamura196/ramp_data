@@ -117,6 +117,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "モーツァルトの有名なセレナーデの最後の楽曲についての説明です。この楽曲は「正手台」という主題が繰り返され、その後「不二位学節」に移行します。不二位学節は弦長の5度で終わり、副手台が弦長の5度上に現れます。その後、再び正手台が現れますが、今回は副手台と同じ調子で現れます。曲は弦長の6下弦に戻り、全体が再び繰り返されます。正手台、不二位学節、副手台、異なった調子の正手台がそれぞれ反復されます。繰り返しが終わると、ソナタ形式のように正手台が弦長の3度下の調子で現れ、副手台が弦長の1度に現れます。最終的に正手台が4度目の姿を見せ、繰り返しを含めると8回になります。最後に正手台を模倣した不二位学節が現れ、講座部分で正手台が5回繰り返され、繰り返しを含めると9回になります。曲は常に正手台を模倣しながら華々しい解決を作ります。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -161,6 +166,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/3571371/canvas",
       "type": "Canvas",
       "duration": 218.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/3571371/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/3571371/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3571371/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/3571371/3571371_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/3571371/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/3571371/canvas/page",

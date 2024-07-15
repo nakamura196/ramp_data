@@ -93,6 +93,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "要約：日独伊三国はそれぞれの地域で共存共栄を目指し、協力し合っている。ドイツとイタリアは欧州で、日本は大東亜で進出を進めている。世界が一つの組織にまとまることは現段階では難しく、各地域で共存共栄の権利を形成するのは必然である。日本が東亜で、ドイツとイタリアが欧州で指導的立場に立つのも必然であり、これが第二次大戦や国際関係の緊張を引き起こした。三国が協力し、場合によっては軍事同盟を発揮するのも必然であり、我々はこの困難に立ち向かう覚悟が必要である。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -137,6 +142,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/3572395/canvas",
       "type": "Canvas",
       "duration": 145.07999999999998,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/3572395/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/3572395/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3572395/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/3572395/3572395_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/3572395/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/3572395/canvas/page",

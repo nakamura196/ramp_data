@@ -81,6 +81,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は、帝国が大東亜共栄圏の建設を目指し、他の地域や国々に対してその権威を理解し協力するよう求めている内容です。具体的には、リルマ島やラインなどの地域が帝国に対して好戦的な態度を続ける場合、帝国はこれを撃退すると述べています。しかし、これらの地域が帝国の権威を理解し協力するならば、帝国はその福祉と発展に力を貸すとしています。また、中経政権が無意味な好戦を続けていることを遺憾とし、帝国はこれを徹底的に破壊すると述べています。最後に、万華大の諸国民が帝国と協力して大東亜共栄圏の建設に努力していることを称賛し、独立領国が帝国とともに世界進出を目指して戦火を上げていることに同情を示しています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -125,6 +130,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/3573597/canvas",
       "type": "Canvas",
       "duration": 188.08,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/3573597/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/3573597/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3573597/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/3573597/3573597_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/3573597/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/3573597/canvas/page",

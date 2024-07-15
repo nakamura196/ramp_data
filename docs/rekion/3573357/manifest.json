@@ -93,6 +93,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "インドシナ山脈山群攻略戦では、敵だけでなく厳しい自然環境とも戦わなければなりませんでした。タイとビルマの国境に位置するインドシナ山脈は、鬱蒼とした樹木や露出した赤土と岩が続き、道もほとんどありません。昼間は太陽の直射が非常に強く、色鉛筆の芯が溶けるほどの暑さです。兵士たちは重い装具を身に着け、山肌を進みます。夜は寒さが厳しく、兵士たちは孤独な夢を見ながら目を覚まします。山越えは最初の自然的難関であり、次にサルインガーが第二の難関として立ちはだかります。山を越えた我が軍はサルインを突破し、現在は第三の難所である漆炭川の左岸に到達しました。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -137,6 +142,33 @@
       "id": "https://s3ds.mdx.jp/rekion/iiif/3573357/canvas",
       "type": "Canvas",
       "duration": 252.08,
+      "accompanyingCanvas": {
+        "id": "https://s3ds.mdx.jp/rekion/iiif/3573357/canvas/accompanying",
+        "type": "Canvas",
+        "height": 1024,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://s3ds.mdx.jp/rekion/iiif/3573357/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3573357/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://s3ds.mdx.jp/rekion/iiif/3573357/3573357_summary_image.webp",
+                  "type": "Image",
+                  "height": 1024,
+                  "width": 1024,
+                  "format": "image/jpeg"
+                },
+                "target": "https://s3ds.mdx.jp/rekion/iiif/3573357/canvas/accompanying/annotation/page"
+              }
+            ]
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://s3ds.mdx.jp/rekion/iiif/3573357/canvas/page",

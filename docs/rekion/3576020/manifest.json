@@ -93,6 +93,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は非常に混乱しており、具体的な内容を把握するのが難しいです。登場人物が何かについて議論しているようですが、文脈や具体的な情報が欠けています。要約すると、以下のような内容が含まれているようです：\n\n- 桜大大大大大大いや小島と馬鹿なことを話している。\n- 何かを捕まえる話や、けんかやばくちについての言及。\n- 井戸町での遊びや立ち寄りについての話。\n- 金持ちの家やけんかの話題。\n- 男らしさや言葉遣いについての議論。\n\n全体として、具体的なストーリーや結論は不明瞭です。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -178,6 +183,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/3576020/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/3576020/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3576020/3576020_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },
