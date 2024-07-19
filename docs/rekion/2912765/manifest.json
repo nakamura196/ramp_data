@@ -105,6 +105,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は非常に難解で、意味を理解するのが困難です。文法や語彙の使い方が不自然であり、具体的な内容やテーマが明確ではありません。要約するためには、もう少し具体的な情報や文脈が必要です。もし可能であれば、もう少し詳しい説明や背景情報を提供していただけると助かります。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -190,6 +195,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/2912765/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/2912765/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/2912765/2912765_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

@@ -129,6 +129,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "申し訳ありませんが、提供された内容は無意味な文字列や異なる言語の断片が混在しており、意味を理解することができません。そのため、要約を行うことができません。もし別のテキストや具体的な情報があれば、再度提供していただければ幸いです。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -214,6 +219,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/3568070/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/3568070/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3568070/3568070_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

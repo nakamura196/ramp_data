@@ -117,6 +117,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この内容には意味のある情報が含まれていないようです。多くの「ああああああ」といった繰り返しや、ランダムな文字列が含まれています。要約する具体的なポイントが見当たりません。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -202,6 +207,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/2914856/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/2914856/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/2914856/2914856_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

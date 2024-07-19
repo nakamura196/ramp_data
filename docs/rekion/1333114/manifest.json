@@ -105,6 +105,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この内容は意味を持つ文章ではなく、無意味な文字の羅列です。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -190,6 +195,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/1333114/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/1333114/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/1333114/1333114_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

@@ -117,6 +117,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は非常に断片的で、文法的にも不完全な部分が多いため、正確な要約を作成するのは難しいです。しかし、以下のような要約が考えられます：\n\n「おさむという人物が涙を流し、女子の桜庭さんに対する恋心を抱いている様子が描かれています。親の意見に悩みながらも、未来の彼に向けて行動しようとする決意が見られます。過去の出来事を振り返りつつ、恋に壊れた庭を行く様子が表現されています。」\n\nこの要約は、元の文章の断片的な情報を基にしたものであり、完全な理解を保証するものではありません。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -202,6 +207,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/3568019/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/3568019/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3568019/3568019_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

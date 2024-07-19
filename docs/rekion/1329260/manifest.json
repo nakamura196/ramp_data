@@ -141,6 +141,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は非常に難解で、文脈や意味が不明瞭な部分が多いです。要約するためには、もう少し具体的な情報や文脈が必要です。しかし、以下は文章の一部を簡略化した試みです：\n\n妻の髪が枝葉のようで、子供を見つけ次第、首を手に取り、清森甲の黄衣式を着て、清札に松を倒し、ナイフを使う。清森殿の言葉を賜り、心ありげな小僧がいる。関森が話し相手がいないので退屈し、水間を避ける兵書を読む。犠牲に論を忘れるため、他の尊行が行き分かれ、同時に開いてみようかと考える。涙を流しながら泳ぐ。\n\nこの要約は、元の文章の意味を完全に捉えているわけではありませんが、主要な要素を抽出しています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -226,6 +231,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/1329260/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/1329260/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/1329260/1329260_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

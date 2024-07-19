@@ -141,6 +141,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "申し訳ありませんが、提供された内容は意味を持つ文章として解釈するのが難しいです。もう少し具体的な情報や文脈を提供していただければ、要約のお手伝いができるかもしれません。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -226,6 +231,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/1334321/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/1334321/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/1334321/1334321_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

@@ -153,6 +153,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は非常に難解で、具体的な意味を把握するのが困難です。文中の単語やフレーズが一貫性を欠いており、明確なストーリーや情報が読み取れません。おそらく、文章が無作為に生成されたか、意味のない文字列が含まれている可能性があります。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -238,6 +243,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/1329101/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/1329101/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/1329101/1329101_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

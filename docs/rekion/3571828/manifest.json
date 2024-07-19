@@ -117,6 +117,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この内容は、神様が男性と女性をどのように作ったのかについての疑問を表現しています。具体的には、男性がそれなりに大きく作られた理由と、女性が大きく作られずに揺るがれない存在である理由についての問いかけが繰り返されています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -202,6 +207,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/3571828/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/3571828/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3571828/3571828_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

@@ -105,6 +105,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この内容は、山下達郎が作曲、編曲、作詞、歌を担当していることを繰り返し述べています。また、山下達郎が棋譜や主演にも関わっていることが記載されています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -190,6 +195,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/2914992/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/2914992/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/2914992/2914992_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

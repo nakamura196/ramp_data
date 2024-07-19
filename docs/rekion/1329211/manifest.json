@@ -141,6 +141,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は非常に難解で、古風な言い回しや文体が使われていますが、要約すると以下のような内容です。\n\nある大名が鶴を投げかけられ、驚いた猿が飛び跳ねる場面が描かれています。大名は猿の皮を手に入れたいと考えますが、猿を殺すと皮に傷がついてしまうため、どうすればよいか悩みます。そこで、猿の急所を狙って皮に傷をつけずに殺す方法を提案されます。大名はその方法に従い、猿を殺して皮を手に入れますが、その後、さらに不適切な要求が続きます。最終的には、大名を殺すという話にまで発展します。\n\nこの要約は、文章の全体的な流れと主要な出来事を簡潔にまとめたものです。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -226,6 +231,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/1329211/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/1329211/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/1329211/1329211_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

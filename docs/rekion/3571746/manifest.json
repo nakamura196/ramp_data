@@ -129,6 +129,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "内容を要約すると、「おたよりに届けてほしい」という願いがあり、その中で「おじや知事身の男」や「国のがらいにおじや知事身の国」といった要素が含まれています。また、「兄じゃないもの妻じゃもの」という表現もあります。全体として、特定の人物や関係性に関するメッセージが含まれているようです。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -214,6 +219,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/3571746/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/3571746/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3571746/3571746_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

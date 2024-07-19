@@ -93,6 +93,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は非常に混乱しており、明確な意味を持つ部分がほとんどありません。要約することが難しいですが、以下のように解釈できるかもしれません：\n\n「畜生が侵略し、王殿と陰に関する話があり、葉っぱが隠れてキリ葉が伸びるという内容が含まれています。しかし、全体的に意味が不明瞭で、混乱した表現が多いです。」\n\nこの文章はおそらく誤って入力されたか、無意味な文字列が含まれている可能性があります。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -178,6 +183,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/3570090/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/3570090/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3570090/3570090_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

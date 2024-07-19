@@ -129,6 +129,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この内容は意味のある文章ではなく、ランダムな文字列や音の繰り返しが含まれています。要約する具体的な情報がありません。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -214,6 +219,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/3571790/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/3571790/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3571790/3571790_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

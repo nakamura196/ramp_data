@@ -141,6 +141,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "内容は非常に断片的で意味が取りにくいですが、以下のように要約できます：\n\n谷口遥に関する入門的な内容が含まれているようですが、具体的な情報は不明です。また、感情的な表現や音声的な表現が多く含まれています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -226,6 +231,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/3570166/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/3570166/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3570166/3570166_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

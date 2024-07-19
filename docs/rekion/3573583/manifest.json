@@ -81,6 +81,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "要約：法人600名を救出後、北上部隊はラム湾に上陸し、敵を撃破してマニラ南方の敵陣地を突破。1月2日午後に南北両部隊がマニラ市に侵入し、翌日には市を完全に占領、在留法人約3300名を救出。自動車燃料や兵器などの物資を確保。敵はマニラ西方のバタン半島とコレイドール要塞に撤退し、我が軍は猛攻中。1月10日にオロンガボ密港を占領し、18日にはバタン半島東岸のマバタン川とモロンを越えて攻撃前進中。ミンダナオではダバオ付近を制圧し、12月25日にプロ島を占領。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -166,6 +171,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/3573583/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/3573583/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3573583/3573583_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

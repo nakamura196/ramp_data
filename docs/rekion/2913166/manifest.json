@@ -105,6 +105,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この内容は意味のある情報がほとんど含まれておらず、要約することが難しいです。多くの「ああああああ」という無意味な文字列が含まれており、特定の情報やメッセージを伝えているようには見えません。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -190,6 +195,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/2913166/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/2913166/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/2913166/2913166_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

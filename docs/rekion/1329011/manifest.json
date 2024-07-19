@@ -129,6 +129,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は非常に断片的で、意味が取りにくい部分が多いですが、以下のように要約できます：\n\n主人の若殿様が殺され、春徳様が後を継ぐことになった。ローバル様の悪意に対して、主人は心にもないことを言い、財産を守ろうとした。困難な状況の中で、女性の力を信じて頑張ることが求められている。母の心を知らない者に対しても、正しい行動を取るべきだと感じている。最終的に、二郎丸様が切腹か手打ちになる可能性があるが、これは私のためである。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -214,6 +219,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/1329011/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/1329011/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/1329011/1329011_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

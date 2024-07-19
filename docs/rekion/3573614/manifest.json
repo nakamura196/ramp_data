@@ -81,6 +81,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "要約：大東亜戦争の目標は、日本を中心に大東亜の各国・民族が共栄することです。米英の東亜侵略に対抗し、シンガポールや香港、マレー半島などの要所を再建し、防衛拠点としています。ビルマでも攻撃を進め、英国の軍事拠点を制圧し、米英の補給路を遮断することを目指しています。ビルマ民衆を敵視せず、協力を求め、ビルマの建設に積極的に協力する意向です。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -166,6 +171,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/3573614/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/3573614/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3573614/3573614_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

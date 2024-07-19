@@ -141,6 +141,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "申し訳ありませんが、提供された内容は意味を持つ文章ではないため、要約することができません。何か他にお手伝いできることがあれば教えてください。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -226,6 +231,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/2915712/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/2915712/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/2915712/2915712_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

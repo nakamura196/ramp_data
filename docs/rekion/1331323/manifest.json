@@ -153,6 +153,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は意味が不明瞭で、具体的な内容を要約するのが難しいです。文中には「松」や「かね」、「みどり」などの単語が繰り返し登場していますが、文脈や具体的な情報が不足しているため、明確な要約を提供することができません。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -238,6 +243,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/1331323/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/1331323/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/1331323/1331323_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

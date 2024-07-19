@@ -165,6 +165,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この内容は意味を持つ文章ではなく、無意味な文字列や音の羅列のようです。要約する具体的な情報が含まれていないため、要約はできません。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -250,6 +255,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/1329031/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/1329031/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/1329031/1329031_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

@@ -129,6 +129,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は意味が不明瞭で、具体的な内容を把握するのが難しいです。文中の単語やフレーズがランダムに並んでいるように見え、明確なテーマやメッセージが伝わってきません。もし特定の情報やテーマについて要約を希望される場合は、もう少し具体的な内容を提供していただけると助かります。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -214,6 +219,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/3571858/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/3571858/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3571858/3571858_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

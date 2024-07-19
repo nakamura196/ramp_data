@@ -153,6 +153,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は非常に難解で、意味を正確に把握するのが困難です。しかし、要約を試みると以下のようになります：\n\n「横島秀を憎みながらも従い、失望させようとする巧妙な計画を知っているため、陰でそれに従う。偽りや欲望、争いを見て、表面上は励んでいるように見えるが、内心では羨ましがっている。自分自身を見つめ直し、言葉を反省し、心の中で葛藤している。」\n\nこの要約は、元の文章の一部の要素を取り入れていますが、元の文章の全体的な意味を完全に捉えることは難しいです。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -238,6 +243,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/1334383/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/1334383/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/1334383/1334383_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

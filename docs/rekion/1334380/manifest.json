@@ -153,6 +153,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は意味が不明瞭で、具体的な内容やテーマを把握するのが難しいです。文中には無意味な音や言葉の羅列が多く含まれており、明確な要約を提供することができません。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -238,6 +243,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/1334380/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/1334380/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/1334380/1334380_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

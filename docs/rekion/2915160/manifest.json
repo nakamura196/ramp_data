@@ -81,6 +81,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は、感情的な内容を含んでいるようですが、具体的な意味が曖昧で理解しにくい部分があります。要約すると、以下のようになります：\n\n「話者は何度でも生きることができると述べ、懐かしさを感じることがもったいないと考えています。ふたり一緒にいることができれば、どんな貧しい暮らしでも嬉しいと感じると述べています。また、女の道を進むことについても言及しています。」\n\n文章全体の意味が不明瞭なため、正確な要約が難しいですが、主要なポイントはこのようになります。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -166,6 +171,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/2915160/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/2915160/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/2915160/2915160_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

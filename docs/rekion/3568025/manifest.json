@@ -117,6 +117,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この内容は意味のある文章ではなく、無意味な文字や音の羅列が含まれています。要約することは難しいです。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -202,6 +207,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/3568025/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/3568025/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3568025/3568025_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

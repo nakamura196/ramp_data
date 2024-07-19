@@ -177,6 +177,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は非常に難解で、具体的な意味を解釈するのが困難です。しかし、繰り返し使われているフレーズや単語から、特定のテーマや概念に関連している可能性があります。特に「ほんきょうぞくゆんのりんのこと」や「としまのなくてにしょりもりんのこと」が繰り返されているため、これらが重要な要素であると考えられます。全体として、特定の儀式や祭り、または特定の場所や人物に関する記述である可能性があります。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -262,6 +267,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/1334111/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/1334111/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/1334111/1334111_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

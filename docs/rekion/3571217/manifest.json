@@ -93,6 +93,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は意味が不明瞭で、具体的な内容を要約することが難しいです。多くの部分が無意味な文字の羅列や感嘆詞で構成されています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -178,6 +183,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/3571217/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/3571217/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3571217/3571217_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

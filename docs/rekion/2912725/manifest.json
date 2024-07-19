@@ -81,6 +81,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "内容を要約するのは難しいですが、以下のようにまとめることができます：\n\n「やいもぐもらい おわちがほしくば なぜうたをうたわぬのにがいのすりも なんなりとうとうてみかぜとおちともてまえひとのままとひまいれたさあいとあいのとでなにがうさしぶりのははのまえことのくにとはひきかえてのめいをつまぐふろいとにかわむもやぶれじさにせむばきもよがいもかえりにおねがいもうじたてまつるきまのみときのはるかききまのみ」\n\nこの文章は非常に抽象的で、具体的な意味を捉えるのが難しいです。詩的な表現や暗示的な要素が多く含まれているため、解釈には個々の読者の感性や背景知識が大きく影響します。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -166,6 +171,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/2912725/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/2912725/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/2912725/2912725_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

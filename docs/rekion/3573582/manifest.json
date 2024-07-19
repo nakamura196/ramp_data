@@ -81,6 +81,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "要約: 前回の報告に続き、時空の選挙の進展について報告します。香港、マニラ、シンガポールは戦略上重要な拠点であり、我が陸軍は1月2日にマニラを攻略し、次はシンガポールを目指しています。英米勢力の後退も予想されます。帝国陸軍は満州での防衛を固め、大東亜戦争の勝利を目指しています。具体的な戦況として、12月22日に林河沿岸に上陸し、敵に大打撃を与え、31日にはマニラ北方約40キロのアンダット側に進出しました。また、27日には林河沿岸東方の馬戸を占領しました。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -166,6 +171,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/3573582/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/3573582/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3573582/3573582_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

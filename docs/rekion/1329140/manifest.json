@@ -105,6 +105,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は非常に難解で、具体的な内容を把握するのが困難です。しかし、要約すると以下のような内容が含まれているようです：\n\n- 何か重要な出来事や状況についての記述があり、それに対する感情や思考が述べられている。\n- 特定の行動や決断が強調されており、それが個人や集団にとって重要であることが示唆されている。\n- 何かを守るための努力や、困難な状況に対する対処が含まれている。\n\n具体的な文脈や詳細な情報が不足しているため、これ以上の詳細な要約は難しいです。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -190,6 +195,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/1329140/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/1329140/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/1329140/1329140_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

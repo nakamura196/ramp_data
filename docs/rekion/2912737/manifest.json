@@ -81,6 +81,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は非常に断片的で、具体的な内容や意味を把握するのが難しいです。繰り返し使われている「お!」や「いーぞー!」などの表現が多く、全体として一貫したテーマやメッセージが見受けられません。要約すると、以下のようになります：\n\nこの文章は「お!」や「いーぞー!」といった感嘆詞が多用されており、具体的な内容や意味を把握するのが難しい断片的な文章です。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -166,6 +171,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/2912737/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/2912737/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/2912737/2912737_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

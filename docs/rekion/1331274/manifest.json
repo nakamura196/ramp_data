@@ -141,6 +141,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は非常に難解で、意味を理解するのが困難です。文中には「とまり」「こぞる」「まわせ」「おいおい」「たちかいり」「ほんしょう」「げんこん」「こまいし」「じょちゅう」「こどもしゅう」「しゅうまわ」「しきょう」「めでたや」「きみがよ」「ちょうせい」「そろむわん」「うまいうち」「ばこまね」「さいき」「おいみだる」などの単語が含まれていますが、これらがどのように関連しているのかが不明です。\n\n要約するためには、もう少し具体的な文脈や背景情報が必要です。もし可能であれば、もう少し詳しい説明や文脈を提供していただけると助かります。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -226,6 +231,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/1331274/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/1331274/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/1331274/1331274_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

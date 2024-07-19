@@ -69,6 +69,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は、シェイクスピアの「ベニスの商人」の一部を要約したものです。内容は、シャイロックが法に基づいて訴訟を起こし、裁判で自分の権利を主張する場面です。裁判官は、慈悲の重要性を説き、正義だけでなく慈悲も考慮すべきだと述べます。シャイロックは法に基づいた厳格な判決を求めますが、他の登場人物は金銭で解決しようと提案します。最終的に、裁判官は慈悲をもって法を和らげることが人間の力を神の力に近づけると説きます。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -154,6 +159,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/2914983/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/2914983/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/2914983/2914983_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

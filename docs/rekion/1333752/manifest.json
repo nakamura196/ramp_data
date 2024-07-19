@@ -93,6 +93,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は、意味が不明瞭で、特定のテーマや内容を明確に伝えていないようです。繰り返し使われる「はーりょうぞ」というフレーズが多く含まれており、全体として一貫したメッセージやストーリーが見受けられません。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -178,6 +183,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/1333752/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/1333752/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/1333752/1333752_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

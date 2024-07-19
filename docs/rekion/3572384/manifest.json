@@ -93,6 +93,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "本日の伏名新中央政府の自立に際し、私はその意義を強調したいと思います。事変以来、帝国は障害政権に対して断固たる制圧を行い、日西両国が友好と経済提携を進めて東亜の安定を目指してきました。尖閣愚官氏や王政英氏の努力により、新中央政府が成立し、国民を救うための和平運動が展開されました。私は新政府の将来に大きな期待を寄せ、日西両国が東亜の平和と世界の進展に寄与する使命を持つことを強調します。帝国は新政府の発展を支援し、他国も協力することを信じています。新中央政府の成立を祝福し、その発展を祈ります。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -178,6 +183,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/3572384/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/3572384/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3572384/3572384_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

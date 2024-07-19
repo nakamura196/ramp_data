@@ -93,6 +93,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は、ある法廷でのやり取りを描写しています。商人が命をかけて友人バッサーニョのために負債を支払う覚悟を示し、バッサーニョもまた友人を救うために全てを犠牲にする意志を表明しています。裁判官は、契約に基づいて商人の肉を切り取ることを許可しますが、血を流すことは許されないと指摘します。もし血が一滴でも流れれば、契約者は全財産を没収されるという法律が適用されるため、契約者は厳しい状況に置かれます。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -178,6 +183,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/3571949/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/3571949/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3571949/3571949_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

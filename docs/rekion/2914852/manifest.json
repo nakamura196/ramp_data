@@ -117,6 +117,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は非常に難解で、意味を理解するのが困難です。文中には一貫したテーマや明確な文脈が見当たりません。おそらく、文章が乱れているか、無意味な文字列が含まれている可能性があります。もし特定の情報やテーマについて要約を希望される場合は、もう少し明確な文脈や詳細を提供していただけると助かります。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -202,6 +207,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/2914852/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/2914852/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/2914852/2914852_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

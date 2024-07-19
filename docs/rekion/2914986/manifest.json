@@ -69,6 +69,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は、裁判の場面を描写しています。白額の裁判官が登場し、ジュウという人物が法律に基づいた裁判を求めています。ジュウはキリスト信者を許す代わりに金を受け取ることを提案されますが、法律に厳格に従うことを主張します。裁判官は、ジュウが肉を切り取る際に血を流さず、正確に一ポンドだけを切り取るように命じます。もし少しでも誤差があれば、ジュウの命はないと警告します。最終的に、ベニス市の法律により、ジュウがベニス市民を殺そうとした罪で財産を没収されることが決まります。ジュウは公釈の御慈悲をお願いするように命じられます。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -154,6 +159,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/2914986/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/2914986/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/2914986/2914986_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

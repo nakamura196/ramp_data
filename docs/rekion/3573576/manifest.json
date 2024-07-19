@@ -93,6 +93,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "インド洋作戦がイギリスに与える影響は非常に深刻であり、軍事、政治、経済に大きな打撃を与えると考えられます。米海軍は凶悪な心に支配され、兵術研究や訓練が不足している間に、日本海軍は徹底的な兵術研究と新軍備の建設を進めました。イギリス海軍は伝統的な戦闘精神を失い、敵を見れば逃げるようになり、将来は降参することが予想されます。イギリス国民はその海軍に最後の望みをかけていますが、哀れな状況です。イギリスの新聞は、日本軍がセイロン島を制圧すれば、アラビア海やインド北部への進出が可能になると警告しています。日本海軍のインド洋作戦はまだ初期段階であり、イギリス海軍を完全に撃滅するまで続ける必要があります。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -178,6 +183,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/3573576/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/3573576/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3573576/3573576_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

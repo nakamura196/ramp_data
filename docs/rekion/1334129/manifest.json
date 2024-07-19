@@ -129,6 +129,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は、戦闘中の緊迫した状況を描写しています。全隊長が指揮を執り、兵士たちが敵と戦いながら、仲間を守ろうと奮闘しています。戦闘の中で多くの兵士が戦死し、指揮官の指示に従って敵を攻撃し、火を放ち、機関銃で応戦しています。最終的に、援軍が到着し、戦況が好転する様子が描かれています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -214,6 +219,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/1334129/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/1334129/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/1334129/1334129_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

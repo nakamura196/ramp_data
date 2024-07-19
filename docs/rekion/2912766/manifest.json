@@ -105,6 +105,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は、話者が自分の心情を述べている内容です。話者は、他の男性と会っている女性に対して腹立たしさを感じています。また、女性が自分の心情を理解していないことに対しても不満を抱いています。話者は、女性の行動や言葉に対して怒りや悲しみを感じており、その感情を抑えようとしていますが、涙がこぼれてしまう様子が描かれています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -190,6 +195,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/2912766/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/2912766/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/2912766/2912766_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

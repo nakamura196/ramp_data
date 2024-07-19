@@ -153,6 +153,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "申し訳ありませんが、提供された内容は無意味な文字列のようですので、要約することができません。何か他にお手伝いできることがあれば教えてください。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -238,6 +243,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/1334379/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/1334379/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/1334379/1334379_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

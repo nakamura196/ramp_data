@@ -117,6 +117,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "内容を要約します。\n\n北の風が吹く中、軍船が波に揺れながら進んでいます。船上の人々は運命を祈り、特に八万歳菩薩や国の神明に対して祈りを捧げています。もしこの大義を果たせなければ、自ら命を絶つ覚悟を持っています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -202,6 +207,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/1334392/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/1334392/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/1334392/1334392_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

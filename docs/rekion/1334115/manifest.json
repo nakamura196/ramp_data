@@ -177,6 +177,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は非常に難解で、意味を解釈するのが困難です。しかし、要約すると以下のようになります：\n\n「ある人が他の人に対して強い感情を抱いており、その感情が叶わないならば、相手を殺してしまいたいという激しい思いを持っている。」\n\nこの要約は、元の文章の一部の要素を取り入れたものです。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -262,6 +267,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/1334115/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/1334115/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/1334115/1334115_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

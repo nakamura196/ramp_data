@@ -93,6 +93,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "今後の政策の重点は、総合国力の拡充と世界情勢の注視にあります。国家創造委員体制を強化し、内外の国策成功を目指します。国民全員が職業に関わらず一致団結し、困難を克服することが重要です。伝統的な国民精神と国家創力の発揮が、政策の成功に不可欠です。私は退任後も政治に関与し、国民が一致協力することを期待しています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -178,6 +183,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/3572364/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/3572364/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3572364/3572364_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

@@ -117,6 +117,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は、映画や音楽に関する情報が混在しており、具体的な内容が不明瞭です。以下は要約です：\n\n- 映画に関する情報がいくつか含まれているが、具体的なタイトルや内容は不明。\n- 監督や音楽家として桜山衡や本多雄姫の名前が挙げられている。\n- 福岡県清水県や革命時代、権美市に関連する情報が含まれているが、詳細は不明。\n- 日本の音楽企業や行政大臣に関する言及があるが、具体的な内容は不明。\n\n全体として、情報が断片的で具体的な内容を把握するのが難しいです。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -202,6 +207,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/1333520/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/1333520/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/1333520/1333520_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

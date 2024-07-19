@@ -81,6 +81,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "要約：英国のインド支配の精神的基盤は既に消滅し、インド独立の第一歩が始まった。しかし、インドにはまだ英国の影響力が残り、軍事施設も存在する。英国は米英の兵力がインドに残る限り、それを徹底的に排除する決意を持っている。このため、インド民衆が奮起し、米英の勢力を駆逐して独立を達成することを期待している。また、英国のビルマ支配も孤立しつつあり、中華民国国民政府への忠誠を誓う者が増えている。帝国は外政権に対して最後の攻撃を行う決意を持っている。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -166,6 +171,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/3573653/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/3573653/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3573653/3573653_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

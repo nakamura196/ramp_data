@@ -141,6 +141,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は非常に混乱しており、意味が取りにくい部分が多いですが、以下のように要約できます：\n\n初心者向けに作られたリトルの「fulfillment」はMOMENTUMで作成され、イベントはペイント満帆です。家族が作る過程はクレイジーバ wash妳に homages。子供も基本的なnonprofitとして作りました。鏡製wanの差別墨入れがあり、重バウング削り振りに大きな間隔があります。少子化のために乗りやすいです。\n\nただし、文章全体に意味不明な部分が多く、完全な理解は難しいです。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -226,6 +231,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/1329279/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/1329279/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/1329279/1329279_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

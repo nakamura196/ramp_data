@@ -93,6 +93,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は非常に難解で、具体的な意味を把握するのが困難です。しかし、要約すると以下のようになります：\n\n「仕様のために死ぬことや、特定の人物（こずこず、のぎ、ひめこなど）に関する出来事が描かれており、祭りや儀式に関連する内容が含まれています。また、感情や思い出、友情についても触れられています。」\n\nこの文章は詩的または象徴的な表現が多く、具体的な内容を理解するためには追加の文脈が必要です。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -178,6 +183,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/1329133/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/1329133/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/1329133/1329133_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

@@ -141,6 +141,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "内容は非常に詩的で抽象的ですが、要約すると次のようになります：\n\n春のぼんやりとした情景や感情が描かれており、その中で「おぼろ」という言葉が繰り返し使われています。全体的に、春の曖昧で夢幻的な雰囲気が強調されています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -226,6 +231,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/1331331/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/1331331/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/1331331/1331331_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

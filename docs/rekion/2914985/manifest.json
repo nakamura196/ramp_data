@@ -69,6 +69,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "要約：\n\n商人が友人のために命を捧げる覚悟を示し、友人もまた彼を救うために全てを犠牲にする意志を表明します。裁判官は、契約に基づき商人の肉を切り取ることを許可しますが、血を流してはならないという条件を付けます。もし血を流せば、財産は没収されると警告します。裁判官の公正さが強調され、契約の厳格な履行が求められます。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -154,6 +159,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/2914985/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/2914985/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/2914985/2914985_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

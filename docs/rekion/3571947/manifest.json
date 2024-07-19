@@ -93,6 +93,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は、シェイクスピアの「ベニスの商人」の一部で、法廷でのやり取りを描いています。シャイロックは契約に基づいてアントーニオの肉を要求していますが、ポーシャは慈悲の重要性を説いています。ポーシャは、慈悲は自然に降る雨のように無償で与えられるべきものであり、与える者も受ける者も幸福にするものだと述べます。彼女は、正義だけでは人は救われず、慈悲が必要だと強調します。しかし、シャイロックは契約通りの処罰を求め続けます。ポーシャは最終的に、シャイロックの要求が法に基づいているが、慈悲を考慮するように訴えます。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -178,6 +183,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/3571947/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/3571947/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3571947/3571947_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

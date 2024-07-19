@@ -153,6 +153,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は非常に難解で、意味を理解するのが困難です。しかし、要約を試みると以下のようになります：\n\n「おぼれて出かけたが、今夜のことも少しおぼれて出かけた。足がかゆくて近道を選んだが、ふりかぶることはしない。だいちょうしんにこいをとんづきでふれた。だいのしをだって、きのしとよころそうけのかたやここへとんじゃやれ。いっかもどさせないしびやあばわりかかとやすめにすじのえきほどある。おつかいはここぞのしょうじきしょうどものおいをわきよれとのむぞ。わきよれといそにくるいちもこさいきをひいておきつける。」\n\nこの要約は、元の文章の意味を完全に捉えきれていない可能性があります。元の文章が非常に抽象的であるため、具体的な内容を理解するのが難しいです。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -238,6 +243,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/1328959/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/1328959/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/1328959/1328959_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

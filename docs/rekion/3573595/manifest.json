@@ -81,6 +81,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "要約：\n帝国の権利振興室は、大東亜戦争の目的として、戦略拠点の確保と東洋資源の掌握を挙げています。これにより戦力を拡充し、特異領国と協力して西洋国に対抗することを目指しています。西洋国は長年の世界制覇の失敗に苦しんでおり、帝国はこれを利用して戦い抜く覚悟です。全国民は困難に耐え、国家のために尽力する必要があります。大東亜共栄圏の建設は、小国の精神に基づき、各国が共存共栄する秩序を確立することを目指しています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -166,6 +171,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/3573595/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/3573595/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3573595/3573595_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

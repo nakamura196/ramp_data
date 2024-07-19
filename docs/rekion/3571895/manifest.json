@@ -153,6 +153,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この内容は、山下達郎が作詞・作曲・編曲を担当した作品に関する情報と、糸谷の娘たちの年齢と泣いた状況について述べています。具体的には、姉が21歳で泣いたこと、妹が24歳、25歳、26歳、27歳で泣いたことが記されています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -238,6 +243,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/3571895/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/3571895/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3571895/3571895_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

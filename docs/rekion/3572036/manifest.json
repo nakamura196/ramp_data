@@ -105,6 +105,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は、日本語の特定の音（く、す、つ、ふ、む、る）について説明しています。これらの音は、母音を省略して単独で発音されるべきであると述べています。具体例として、「さくら」や「おんがく」、「かすか」や「すこし」、「はつか」や「なつぐさ」、「ふくさ」や「よふけ」、「かんむり」や「さむさ」、「うるし」や「かるさ」が挙げられています。また、詩の音も同様に発音されるべきであり、「しろさ」や「かしこ」が例として示されています。さらに、日本語の「ふ」の音は狭い口径で「HU」と発音されるべきであり、「ふしぎ」が例として挙げられています。最後に、日本語の楽音はRでもLでもなく、DとLの混合音であると説明されています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -190,6 +195,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/3572036/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/3572036/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3572036/3572036_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

@@ -93,6 +93,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "要約：ヴェネス城の権力では国家の法令を改めることはできず、悪例を作ると国家に悪影響を及ぼすため、法令を守るべきだという議論が行われている。ダニエル様のように賢明な裁判官が証書に基づいて裁判を進め、シャイロに対して三倍の金額を受け取るよう提案するが、シャイロは誓言を理由に拒否する。最終的に、証書に従って商人の胸元から肉一ポンドを切り取る権利が認められるが、出血を防ぐために外科医を呼ぶことも提案される。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -178,6 +183,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/3571948/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/3571948/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/3571948/3571948_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },
