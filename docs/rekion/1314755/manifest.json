@@ -165,6 +165,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "このテキストは意味のある情報を含んでいないようです。多くの部分が無意味な文字列や繰り返しで構成されています。要約する内容が見当たりません。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -250,6 +255,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/1314755/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/1314755/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/1314755/1314755_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

@@ -93,6 +93,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は非常に断片的で意味が取りにくい部分がありますが、要約すると以下のようになります：\n\nWATONIという人物が、何かを思い悩んでいる様子が描かれています。彼は過去の出来事や人々について考えを巡らせており、特に「さんかつとも」という名前が繰り返し登場しています。全体的に、彼の心情や状況についての断片的な記述が含まれています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -178,6 +183,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/1314572/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/1314572/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/1314572/1314572_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

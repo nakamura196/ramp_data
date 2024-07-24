@@ -69,6 +69,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この内容は、ドイツのヒトラー総統とイタリアのムッソリーニ氏の指導力に加え、ドイツのリッペンツロップ外務大臣とイタリアのシアノ外務大臣の尽力により、日独伊三国同盟が成立したことを述べています。この条約は、三国がそれぞれの地域での進出を支援し、いずれかの国が第三国から攻撃を受けた場合に互いに助け合うことを定めています。ただし、この条約は日本が欧州戦争に参加することや、ソビエット連邦との関係に影響を与えるものではないと強調しています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -154,6 +159,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/1325788/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/1325788/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/1325788/1325788_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

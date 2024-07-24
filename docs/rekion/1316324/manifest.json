@@ -93,6 +93,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は、井上内閣が県政の本義を無視し、議会の重要な審議権を軽視したことを批判しています。特に、少数の資本家に利益をもたらす政策を行い、その結果として金本位制が破棄され、物価の不自然な投機が発生し、国民生活や経済基盤が圧迫されたと述べています。さらに、井上内閣の政策が国民大衆を犠牲にしているとし、国民に対して奮起を呼びかけ、民政党の勝利を期待しています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -178,6 +183,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/1316324/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/1316324/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/1316324/1316324_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

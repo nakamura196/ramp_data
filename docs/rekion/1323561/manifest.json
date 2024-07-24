@@ -250,6 +250,27 @@
                 }
               },
               "target": "https://s3ds.mdx.jp/rekion/iiif/1323561/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/1323561/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/1323561/1323561_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/1323561/canvas"
             }
           ]
         }

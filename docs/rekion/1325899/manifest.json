@@ -69,6 +69,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "今回の新宿予備総長の人事は、来年の政策に影響を与え、国民との関係にも影響を及ぼす可能性があります。総論では、国際的な大政権を継承し、尊敬者一同が協力して全力で働くことが述べられました。総務省の前総理大臣との会談では、政権の前途について予測してもらい、国民の前途に対する強い意志が示されました。日本出発の際には、多くの激励の言葉を受け、深く感謝の意を表します。これをもって終了とします。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -154,6 +159,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/1325899/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/1325899/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/1325899/1325899_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

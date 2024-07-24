@@ -129,6 +129,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は非常に断片的で、具体的な内容を把握するのが難しいですが、以下のように要約できます：\n\n刀を使った行動や縄、水に関する記述があり、相手が毎日金を取り出すことに関連する出来事が描かれています。登場人物たちは本門の取りかわしや都当の全本領に関与しており、都当の人数は十五人、武士は十六人です。明日の土産や秘密、結婚に関する話題も含まれています。最後に「黒い太陽」や「おむすび」という言葉が繰り返されています。\n\n全体として、具体的なストーリーや意味を明確にするのは難しいですが、いくつかのテーマや要素が混在していることがわかります。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -214,6 +219,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/1313877/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/1313877/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/1313877/1313877_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

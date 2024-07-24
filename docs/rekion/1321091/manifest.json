@@ -117,6 +117,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は、ある男性が自分の恋人である川崎久子との関係や、彼女が社長のサーラとも関係していたことを告白する内容です。彼は久子が他の男性と密談しているのを知り、嫉妬と怒りを感じます。ある夜、彼は久子とサーラが一緒にいるところを目撃し、サーラが眠り薬を使われているのを見ます。彼はその場でサーラを殺し、久子の元恋人も殺して自殺に見せかけます。しかし、彼の指に噛み跡が残っていたため、最終的にエレベーターボーイの玉井光一が真相を明かし、彼は罪を認めて処罰を受けることになります。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -202,6 +207,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/1321091/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/1321091/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/1321091/1321091_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

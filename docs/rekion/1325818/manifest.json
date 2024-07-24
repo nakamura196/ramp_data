@@ -69,6 +69,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "松岡です。東欧での任務を終え、予定通り6週間で無事に東京に帰着しました。旅行中は一行全員が健康で、私も元気です。ただ、昨日大連で満天社員に会い、2時間ほど怒鳴ったため声が枯れていますが、心配は不要です。現地での短期間の滞在で多くのことが明確になり、意思疎通も深まりました。日独伊三国同盟については、ベルリンでヒトラー総統やゲーリング総元帥、リッペントロップ外相、ローマでエマニュエル皇帝やムッソリーニ首相と会談し、同盟に新たな活力を感じました。モスクワではモロトフ首相兼外相と長時間の会談を行い、互いに理解を深めました。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -154,6 +159,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/1325818/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/1325818/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/1325818/1325818_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

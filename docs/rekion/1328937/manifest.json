@@ -129,6 +129,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は、二重太郎という人物が二つの首を受け取り、それを持ち帰る場面を描いています。彼は首を胸に抱え、太刀を持ちながら進みます。首を包む際には特別な方法が必要で、未来の約束や親子の絆を思い出しながら、首を見せることができない状況にあります。彼は首を持ち帰る道中で、夫や子供の若手の嘆きを一筋に見せ、首像と向き合います。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -214,6 +219,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/1328937/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/1328937/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/1328937/1328937_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

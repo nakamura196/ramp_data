@@ -105,6 +105,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は非常に断片的で、意味を理解するのが難しいです。多くの部分が繰り返しや無意味な文字列で構成されています。以下は要約の試みです：\n\n文章の冒頭では、笑いや「allow」という言葉が繰り返されています。その後、涙や別れに関する言及があり、さらに法や演技に関する言葉が続きます。最後に、3月の出来事や祝いに関する記述が含まれていますが、全体として一貫した意味を持つ内容ではありません。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -190,6 +195,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/1315845/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/1315845/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/1315845/1315845_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

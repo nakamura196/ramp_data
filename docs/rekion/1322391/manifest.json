@@ -117,6 +117,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は非常に抽象的で、具体的な意味を捉えるのが難しいです。しかし、繰り返し使われているフレーズ「仮題に直れば 両眸も教えは言わぬ」から、何かの仮題（仮のタイトルやテーマ）に関する内容であることが示唆されています。また、他の部分も詩的で象徴的な表現が多く、具体的な解釈は難しいです。全体として、抽象的なテーマや感情を表現しているように見受けられます。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -202,6 +207,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/1322391/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/1322391/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/1322391/1322391_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

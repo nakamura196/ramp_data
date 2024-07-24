@@ -93,6 +93,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は、日本の政治における両大政党が財閥の利益を優先し、一般人民を苦しめている現状について述べています。両大政党は財閥から資金を受け取って活動しており、そのため財閥の利益を守るための政策を推進しています。一般人民は選挙において財閥の利益を図る候補者に投票しがちであり、その結果、財閥が利益を得る一方で、全国の人民は苦しむことになります。この状況を改善するためには、一般人民が選挙で財閥の利益を図る候補者に投票しないようにする必要がありますが、現実にはその逆のことが起きているため、日本の不景気や国家の苦痛が続いていると指摘しています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -178,6 +183,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/1314405/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/1314405/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/1314405/1314405_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

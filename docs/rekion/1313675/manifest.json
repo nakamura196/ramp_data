@@ -81,6 +81,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は非常に混乱しており、具体的な内容を把握するのが難しいですが、以下のように要約できます：\n\nおかみさんが大阪沖の支払いを済ませるためにお金を貸してくれました。日々の感謝を述べ、注意を促されました。天気も良く、いろいろとお世話になり感謝しています。豆腐を混ぜる作業があり、裏船に関する話が続きます。最後に、注意を払いながら作業を進めることを約束しています。\n\n文章全体が断片的で、具体的な状況や背景が不明確なため、詳細な要約は難しいです。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -166,6 +171,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/1313675/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/1313675/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/1313675/1313675_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

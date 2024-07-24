@@ -129,6 +129,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は非常に複雑で、具体的な内容を把握するのが難しいですが、以下のように要約できます：\n\n主人公はトトさんやカカさんと別れた後、おじさんに世話をされながら、三つ違いの兄と一緒に育てられました。ある日、ヤコナさんがメカイノミエの家に進行しようとしましたが、主人公はそれを阻止しようとします。主人公は夫婦の絆を大切にし、未来までも一緒にいることを誓います。主人公はお前（相手）の目を治すために官王様のもとへ行き、七つの金を敷いて願いを込めます。しかし、官王様はその願いを聞き入れず、主人公は一人で山を歩きます。主人公の心を理解せず、他の男がいるように振る舞う相手に対し、主人公は悲しみを感じます。最後に、主人公は伝説の涙を流し、心の痛みを表現します。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -214,6 +219,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/1317905/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/1317905/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/1317905/1317905_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

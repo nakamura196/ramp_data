@@ -129,6 +129,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この内容は、意味のある情報がほとんど含まれていないため、要約が難しいです。主に「いい」や「ああああ」といった繰り返しの文字列が多く、特定の単語「me」「whmee」「cargoo」「yeah」「has」「mememe」が含まれていますが、文脈や具体的な意味は不明です。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -214,6 +219,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/1328745/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/1328745/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/1328745/1328745_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

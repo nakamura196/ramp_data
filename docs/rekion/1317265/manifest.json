@@ -129,6 +129,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この歌詞は、松本忠が作詞・作曲・編曲を手掛けた「ウキノヨシノヨ」という曲の一部です。内容は、浮き沈みのある人生の中で、今夜は安らかに眠ることを願う心情が描かれています。風船のように軽やかな気持ちで、胸に秘めた願いを唱えながら、孤独な星を見つめる様子が表現されています。さらに、三日間祈れば恵みに包まれると信じ、愛しい者が安らかに眠れるようにとマリアに守護を願う内容です。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -214,6 +219,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/1317265/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/1317265/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/1317265/1317265_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

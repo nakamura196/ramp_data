@@ -141,6 +141,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は、ある人物が過去の出来事を回想し、悲しみや後悔を感じている様子を描写しています。具体的には、愛する子供が亡くなったことや、その子供のために何かをしてあげられなかったことを悔やんでいます。また、他人の苦しみや親の愛情についても触れています。全体的に、深い悲しみと後悔がテーマとなっています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -226,6 +231,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/1315088/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/1315088/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/1315088/1315088_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

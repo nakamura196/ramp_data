@@ -153,6 +153,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は非常に断片的で、具体的な意味を持つ内容が少ないため、要約が難しいです。いくつかの単語やフレーズが繰り返されているだけで、明確なストーリーやテーマが見受けられません。もし特定の部分やテーマについて詳しく知りたい場合は、その部分を教えていただければ、さらに詳しく説明することができます。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -238,6 +243,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/1321464/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/1321464/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/1321464/1321464_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

@@ -93,6 +93,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は、山口仁が作詞・作曲・編曲を担当した楽曲の歌詞の一部のようです。内容は、感情や哲学的なテーマについて述べられており、特に「ほんざいくのことわり」や「おんないのじょう」などの言葉が繰り返されています。また、「なみだはほとけのためならず」や「このことゆうてえこうせとさとされければいいの」といったフレーズも繰り返し使われています。全体として、感情の揺れや悟りについての深い考察が表現されています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -178,6 +183,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/1313921/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/1313921/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/1313921/1313921_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

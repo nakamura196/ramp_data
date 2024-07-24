@@ -177,6 +177,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は、繰り返しや古風な表現が多く含まれており、具体的な内容を把握するのが難しいです。しかし、要約すると以下のようになります：\n\n「今さら帰ることはできないが、わしがいないならば、しゅうとごさまも困るだろう。どこにも呼び入れられず、しゅうしたら問題も解決しないだろう。」\n\nこの要約は、文章の一部を解釈してまとめたものです。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -262,6 +267,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/1317823/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/1317823/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/1317823/1317823_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

@@ -81,6 +81,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は非常に抽象的で、具体的な意味を捉えるのが難しいです。しかし、要約を試みると以下のようになります：\n\n「小倉娘が何かを守り、心の中で葛藤しながらも、困難に立ち向かう様子が描かれています。彼女は傷つきながらも、他人のために尽力し、最終的には涙を流す場面が含まれています。」\n\nこの要約は、文章の抽象的な部分をできるだけ具体的に捉えようとした結果です。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -166,6 +171,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/1313791/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/1313791/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/1313791/1313791_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

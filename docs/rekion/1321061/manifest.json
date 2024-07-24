@@ -129,6 +129,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は非常に難解で、文脈や具体的な意味を把握するのが困難です。しかし、要約を試みると以下のようになります：\n\n「南の親方とおことに関する話で、まだ解決していない問題がある。おねえもんえんがむねんのちひとりにとられてしまうことに対して、わたしは非常に悔しい思いをしている。もしもなおいちをたどるなら、いっそ死んでしまいたいと考えるほどだ。ひとりのぎりうめに対しても、非常に愛おしい気持ちがある。おみやおししあいのさがめのきててよと、いつの時をさえむとくそのしおくりのあえない命。」\n\nこの要約は、元の文章の意味を完全に捉えきれていない可能性があります。元の文章が非常に抽象的であるため、具体的な解釈が難しいです。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -214,6 +219,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/1321061/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/1321061/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/1321061/1321061_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

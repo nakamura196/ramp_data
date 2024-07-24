@@ -93,6 +93,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "内容を要約します。\n\n夕暮れ時、視界が悪くなり人の顔もはっきり見えない中、主人公は牛松のところへ急いで知らせに行きます。途中で野間佐次郎が母親を抱き込み、主人公を妻にしようとして松本を殺したことを伝えます。牛松は野間佐次郎を追いかけ、暗闇の中で出会い頭に戦いが始まります。牛松は野間佐次郎を刺し、最終的にとどめを刺して復讐を果たします。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -178,6 +183,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/1326071/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/1326071/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/1326071/1326071_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

@@ -117,6 +117,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は、悲しみや葛藤を描写しています。具体的には、ある女性が困難な状況に置かれ、男性の膝で泣いている様子が描かれています。彼女は白雲を探し求めるも、それが叶わず、悲しみと絶望に打ちひしがれています。彼女の苦しみは深く、男性に助けを求めるも、状況は残酷で救いがないようです。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -202,6 +207,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/1313835/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/1313835/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/1313835/1313835_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

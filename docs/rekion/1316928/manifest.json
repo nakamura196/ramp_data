@@ -93,6 +93,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "猪狩内閣は昨年末に突然登場し、民意と乖離していたため、国民はその成立理由を理解できませんでした。内閣は衆議院を解散し国民に支持を問いましたが、反対党に議論の機会を与えずに解散を強行しました。これは反対党の正当な討論を封じ、国民の目を覆う行為と批判されています。また、満州自憲主に関しても、政府は議会と国民の意見を無視し、協賛を得るべきところを怠りました。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -178,6 +183,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/1316928/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/1316928/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/1316928/1316928_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

@@ -69,6 +69,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は、日本の対中国政策について述べています。以下の三つの方法が紹介されています：\n\n1. 日本の実力に応じて中国を侵略し、支配する方法。\n2. 強大な第三国と共に中国を文化的に支配する方法。\n3. 中国の独立を尊重し、強化育成して協力し、東アジアの平和と共栄を目指す方法。\n\n前二つの方法は効率的で犠牲が少ないとされる一方で、日本は第三の道を選んだ理由として、日本の道義性と世界歴史の流れがそれを支持しているからだと述べています。また、昭和十二年九月四日の第七十二議会で天皇が述べたように、日本と中華民国の協力により東アジアの安定と共栄を目指すことが強調されています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -154,6 +159,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/1325835/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/1325835/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/1325835/1325835_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

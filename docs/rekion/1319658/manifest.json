@@ -129,6 +129,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は、いくつかのキーワードが繰り返されているため、具体的な内容を把握するのが難しいです。主要な要素としては、「ジャンプコンプレッシャー」、「松本信遠」、「緊急便」、「小さいカフェ」、「気づき虫」が挙げられます。全体としては、特定の状況や感情を表現している可能性がありますが、詳細な意味を理解するには追加の文脈が必要です。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -214,6 +219,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/1319658/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/1319658/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/1319658/1319658_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

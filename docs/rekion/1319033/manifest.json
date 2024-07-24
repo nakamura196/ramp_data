@@ -117,6 +117,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は、繰り返しの多い表現と抽象的な内容が含まれています。要約すると以下のようになります：\n\n「低い声と大きな声、純真な喘蔵が繰り返し登場し、二千年の劇場作品や八百円の四木犬について言及されています。最後に、純真無敵で目覚めることに触れ、ご視聴ありがとうございましたと締めくくられています。」\n\nこの文章は詩的で抽象的な表現が多く、具体的な意味を捉えるのが難しいです。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -202,6 +207,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/1319033/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/1319033/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/1319033/1319033_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

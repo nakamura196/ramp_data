@@ -141,6 +141,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は非常に難解で、古風な言葉遣いが多く含まれていますが、要約すると以下のような内容です。\n\nある人物が、親や子供、孫に対する思いを語っています。特に孫に対する愛情が強く、孫が怪我をしたりすることを非常に心配しています。また、孫が大切にされることを願っており、そのために自分の心を尽くしています。最後に、もう一度孫の顔を見たいという強い願望が表現されています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -226,6 +231,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/1315473/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/1315473/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/1315473/1315473_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

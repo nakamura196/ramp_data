@@ -93,6 +93,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は、人生の反省と儚さ、そして戦いの中での血と涙の描写を含んでいます。主人公は人生の中で多くの困難に直面し、天性を心にかけて尽力してきましたが、最終的には戦いの中で命を落とす運命にあります。戦いの描写は非常に劇的で、血と涙が交錯する中での最後の瞬間が強調されています。全体として、人生の無常と戦いの悲劇がテーマとなっています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -178,6 +183,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/1315310/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/1315310/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/1315310/1315310_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

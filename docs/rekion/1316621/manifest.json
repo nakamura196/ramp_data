@@ -129,6 +129,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は、国民主義と民主主義の継続に関する内容が繰り返されていますが、全体としては混乱しています。要約すると以下のようになります：\n\n「私たちの国は、国民と国民主義のための戦争を続けています。私たちは、国の民主主義と国民主義を継続させることを目指しています。また、公務員クルミの継続も重要視しています。」\n\nただし、文章内で「国民主義を継続させない」という矛盾した表現も含まれているため、全体の意図が不明確です。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -214,6 +219,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/1316621/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/1316621/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/1316621/1316621_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

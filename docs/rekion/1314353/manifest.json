@@ -105,6 +105,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は非常に混乱しており、具体的な意味を把握するのが難しいです。内容は断片的で、明確なストーリーや論理的な流れが欠けています。以下は要約の試みです：\n\n登場人物が「ヨメゴさん」について話しており、何かを刺すことに関する議論が行われています。途中で「ソージャー」や「Volvo」といった言葉が繰り返され、混乱した状態が続きます。最終的には「ヨメゴさん」が起きることや、何かをおこすことについての話に戻りますが、全体としては一貫性が欠けています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -190,6 +195,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/1314353/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/1314353/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/1314353/1314353_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

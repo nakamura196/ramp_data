@@ -165,6 +165,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "内容が非常に難解で、文脈が不明確な部分が多いですが、以下のように要約できます：\n\n「今年、世界では羊を使うことが話題になっている。りおのいぐるわどもじにみりをあこぶできあきやなおもちあきのかいのえしおうたいはやしてしゅくしけにおうたいはやしてしゅくしけに。」\n\nこの文章は具体的な意味を持たない可能性が高いです。もし、誤字やタイプミスが含まれている場合、修正していただけるとより正確な要約が可能です。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -250,6 +255,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/1314758/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/1314758/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/1314758/1314758_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

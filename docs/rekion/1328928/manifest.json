@@ -129,6 +129,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は非常に難解で、古風な表現や曖昧な言葉が多く含まれていますが、要約すると以下のようになります：\n\nある人物が、過去の出来事や人々との関係について思いを巡らせています。特に、娘や他の女性たちとの関係に焦点を当てており、彼らに対する感謝や謝罪の気持ちが述べられています。また、困難な状況や苦しみについても触れられており、それに対する思いが表現されています。全体として、過去の出来事や人々との関係に対する深い感情が込められた内容です。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -214,6 +219,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/1328928/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/1328928/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/1328928/1328928_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

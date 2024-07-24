@@ -105,6 +105,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は、大本山栄平寺の官人上野俊英老子が参拝し、参記会の授与が行われることを述べています。内容は、仏、法、僧に帰依することを誓い、無常心を起こし、知恵を身につけ、一切の無限を求めることを願うものです。また、悪業を悔い改め、仏祖の聖名によって神食いの参号を上げることが述べられています。さらに、仏法相の参謀に帰依し、三種の苦毒を受け入れることが強調されています。最後に、仏会を送ることで諸仏の位に達し、諸仏の御子となることが述べられています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -190,6 +195,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/1316802/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/1316802/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/1316802/1316802_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

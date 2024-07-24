@@ -117,6 +117,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は、死刑囚が毎日死刑執行を待っている様子を描写しています。彼は、死刑執行が遅れていることに苛立ち、執行人を悪く言っていました。しかし、ついに執行人が雨の中を深川までやって来ました。死刑囚は、執行人が命を捨てる覚悟で来たことに感心しつつも、彼の罪深さを嘆いています。死刑囚は、自分もまた地獄の業を背負っていることを認識し、最終的には自分の運命を受け入れる決意を固めています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -202,6 +207,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/1316737/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/1316737/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/1316737/1316737_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

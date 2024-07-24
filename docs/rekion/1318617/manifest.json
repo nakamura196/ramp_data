@@ -117,6 +117,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は、戦闘の様子とその悲劇的な結末を描写しています。中沢軍が敵と戦い、将校から足軽まで多くの兵士が命を落とし、デッキは死体の山となり、流れる血が海に染み込んでいく様子が描かれています。戦いの中で「万歳」の声が細く消えていき、最終的には夕日が波に沈む中、霧が立ち込める悲しい光景が広がっています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -202,6 +207,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/1318617/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/1318617/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/1318617/1318617_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

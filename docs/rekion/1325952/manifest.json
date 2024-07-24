@@ -81,6 +81,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は、ある出来事の詳細な描写を含んでいます。要約すると以下のようになります：\n\n床の間にかけてあっただるまの軸を取り外すと、その下に隠し穴がありました。これは乳坂が工夫した袋壁で、そこに隠れていた人物が助けを求めました。大石はその人物に礼を尽くし、切腹を願いました。切腹の際、傷跡が残り、無念の血が田村庭園に残されました。形式的な切腹が行われ、首が打たれました。矢柄五十本が床の前に置かれ、これが宝として飾られました。平の家来がいない中、仇討ちが行われ、鬼が笑い声を上げました。大石の命令に従い、武士たちは前後を固め、橋を渡らずに兵隊が屋敷跡に向かいました。最終的に、十五年五月十四日に事件が終結しました。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -166,6 +171,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/1325952/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/1325952/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/1325952/1325952_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

@@ -129,6 +129,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この内容は具体的な意味を持つ文章ではなく、繰り返しや無意味な言葉が多く含まれています。要約することが難しいですが、以下のようにまとめることができます：\n\n「かかりしはるおう かぞうへい」というフレーズが繰り返されており、その他の部分は意味を持たない言葉の羅列です。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -214,6 +219,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/1319232/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/1319232/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/1319232/1319232_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

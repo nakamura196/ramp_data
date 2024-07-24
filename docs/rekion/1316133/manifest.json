@@ -153,6 +153,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は、意味が取りにくい部分が多く、特定のテーマやメッセージを明確に伝えているわけではありません。繰り返しの多い表現や、文脈が不明瞭な部分が目立ちます。要約するのが難しいですが、以下のようにまとめることができます：\n\n「文章には繰り返しの表現が多く、特定のテーマやメッセージが明確ではありません。『おろしにんにく』という言葉が繰り返し使われています。」"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -238,6 +243,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/1316133/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/1316133/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/1316133/1316133_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

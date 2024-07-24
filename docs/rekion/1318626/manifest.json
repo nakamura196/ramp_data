@@ -105,6 +105,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "安倍一刀流の達人が十八人の敵を相手に戦い、敵の血を浴びながらも自身はかすり傷一つ負わずに勝利しました。安倍の剣は非常に鋭く、敵を次々と斬り倒しました。その様子を見た人々は、安倍の腕前を称賛し、日本一だと声を揃えました。戦いの後、五十千もの立派な武士が現れ、安倍に助太刀を申し出ましたが、安倍はその必要がないと断りました。人々は安倍の強さに驚き、彼の名声はさらに高まりました。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -190,6 +195,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/1318626/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/1318626/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/1318626/1318626_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

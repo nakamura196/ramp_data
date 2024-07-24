@@ -81,6 +81,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は非常に難解で、文脈や意味が不明瞭な部分が多いですが、要約を試みます。\n\n内容は、ある人物が他者からの評価や期待に対して感じる悲しみや苦しみを表現しています。特に、親や家族に対する思いが強く、彼らのために生きることの重要性を感じています。また、困難な状況にあっても前向きに生きることを勧めています。最後に、何かを手渡すことで喜びを感じる場面が描かれています。\n\n全体として、家族や他者との関係性、そして生きることの意味についての深い感情が込められた内容です。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -166,6 +171,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/1313806/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/1313806/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/1313806/1313806_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

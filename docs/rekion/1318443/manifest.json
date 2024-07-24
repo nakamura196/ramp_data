@@ -129,6 +129,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は、自己の罪や苦しみについての内省と、愛する人への思いを表現しています。具体的には、自分の罪や苦しみがどれほどのものであるかを考え、愛する人が自分のことを知らないことに対する悲しみを述べています。また、三千世界を探しても自分の苦しみと比べることができないと感じ、涙を流す様子が描かれています。全体として、深い悲しみと孤独感が強調されています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -214,6 +219,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/1318443/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/1318443/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/1318443/1318443_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

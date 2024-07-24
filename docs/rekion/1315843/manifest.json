@@ -105,6 +105,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "この文章は非常に難解で、文脈や具体的な意味を把握するのが困難です。しかし、要約すると以下のような内容が含まれている可能性があります：\n\n- 人々が何かを聞こえないと感じている。\n- 誰かが他の人々に対して遠慮なく行動している。\n- その行動が他人に知られても気にしない。\n- 何かを諦めることについて言及している。\n- 最終的に、何かを一緒に始めることを提案している。\n\n具体的な文脈や詳細な意味を理解するためには、追加の情報や文脈が必要です。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -190,6 +195,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/1315843/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/1315843/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/1315843/1315843_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

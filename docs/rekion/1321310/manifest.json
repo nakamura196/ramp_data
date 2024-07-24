@@ -238,6 +238,27 @@
                 }
               },
               "target": "https://s3ds.mdx.jp/rekion/iiif/1321310/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/1321310/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/1321310/1321310_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/1321310/canvas"
             }
           ]
         }

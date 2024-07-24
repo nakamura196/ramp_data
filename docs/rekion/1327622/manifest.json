@@ -117,6 +117,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "このテキストは多くの無意味な繰り返しやランダムな文字列が含まれており、特定の意味を持つ内容はほとんどありません。要約することが難しいですが、いくつかの単語やフレーズが含まれています。例えば、「がんばった」や「your」、「リリー」などが見受けられます。全体としては、意味のある情報を抽出するのは困難です。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -202,6 +207,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/1327622/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/1327622/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/1327622/1327622_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

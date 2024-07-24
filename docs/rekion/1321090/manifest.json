@@ -117,6 +117,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "濱崎巡査が夜更けに三人ビルの七階の窓を見上げると、女性が窓から落ちるのを目撃します。彼が現場に駆けつけると、日本アサイト会社の社長、沙原潤造が自殺しており、タイピストの川崎視察補も窓から落ちていました。事件の詳細を探ると、沙原と川崎が金銭を巡る口論をしていたことが判明。沙原はエレベーターボーイをクロロホルムで眠らせ、川崎と口論の末に自殺を図ったと見られましたが、実際の犯人は意外な人物でした。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -202,6 +207,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/1321090/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/1321090/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/1321090/1321090_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

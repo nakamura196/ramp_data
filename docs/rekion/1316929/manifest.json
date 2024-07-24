@@ -93,6 +93,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "井河内閣は金輸出再建支を断行し、浜口内閣が2年半かけて築いた金本位制度を破壊しました。日本の財界には金の再建支を必要とする欠陥はなく、貿易や財政、通貨の関係でも問題はありませんでした。しかし、英国が金本位制を停止した際、一部の資本家や銀行者が利益を得ようとドル買いを行い、巨額の金貨を海外に送りました。犬害内閣が12月14日に金輸出再建支を決行したのは時期を誤り、必要もありませんでした。その結果、一部の思惑者に利益を与え、金本位制を破壊し、財界を不安にし、国民の利益を犠牲にしました。これは犬害内閣の政治の結果であり、不公平で不合理な事実を国民に示し、政治道徳に反する行為とされています。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -178,6 +183,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/1316929/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/1316929/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/1316929/1316929_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

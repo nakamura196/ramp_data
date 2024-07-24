@@ -153,6 +153,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "要約：ある人が陰牢の主の在りかを知りたくて様々な努力をしているが、そのために娘も協力せず、家の喜びが失われている。その人は三乗の力を持つ薬を求めており、それがあれば苦痛を和らげることができると信じている。薬が手に入れば願いが叶い、今宵には死ぬことができると示されている。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -238,6 +243,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/1315140/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/1315140/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/1315140/1315140_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },

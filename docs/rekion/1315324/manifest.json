@@ -93,6 +93,11 @@
       }
     }
   ],
+  "summary": {
+    "none": [
+      "御里は最智の目を治すために、つぼさかのかのうさまへ一度参拝しましたが、その願いが叶うとは思っていませんでした。彼女は夫と一緒に暮らしていましたが、夫のことを恨んでいました。ある日、御里はこっそりと家に戻り、玄関の鍵を開けて中に入りました。夫が寝ているのを見て、彼女はそのまま夫の枕元に座り、じっと彼の寝顔を見つめました。彼女は夫に対して「おやすみなさい」と言い、疲れを感じながらもそのまま眠りにつきました。"
+    ]
+  },
   "requiredStatement": {
     "label": {
       "ja": [
@@ -178,6 +183,27 @@
                 "label": {
                   "ja": [
                     "日本語 (machine-generated)"
+                  ]
+                }
+              },
+              "target": "https://s3ds.mdx.jp/rekion/iiif/1315324/canvas"
+            },
+            {
+              "id": "https://s3ds.mdx.jp/rekion/iiif/1315324/canvas/annotation/webvtt/2",
+              "type": "Annotation",
+              "label": {
+                "none": [
+                  "English (machine-generated)"
+                ]
+              },
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://s3ds.mdx.jp/rekion/iiif/1315324/1315324_en.vtt",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "none": [
+                    "English (machine-generated)"
                   ]
                 }
               },
