@@ -27,7 +27,7 @@ This project demonstrates how to display audio files with subtitles using IIIF v
 
 Follow the instructions in this article to obtain mp4 files:
 
-- [Getting mp4 Files](https://zenn.dev/nakamura196/articles/60fbd0c96b44c5)
+- [Getting mp4 Files](https://ldas.jp/ja/posts/converting-audio-published-on-the-ndl-historical/)
 
 #### Creating vtt Files
 
@@ -91,7 +91,7 @@ with open(output_path, "w") as f:
 
 This project uses the `iiif-prezi3` library for manifest creation. For more detailed information, please refer to this article:
 
-- [Using iiif-prezi3](https://zenn.dev/nakamura196/articles/c07753e47ab393)
+- [Using iiif-prezi3](https://ldas.jp/ja/posts/trying-iiif-prezi3/)
 
 ### Conclusion
 
